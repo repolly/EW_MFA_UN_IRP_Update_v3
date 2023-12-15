@@ -1,0 +1,347 @@
+material_id;source_material_id
+M.asb;Asbestos
+M.asb;Asbestos
+M.asb;Production of asbestos
+M.bar;Barite
+M.bar;Barite - Chemical grade (ground)
+M.bar;Barite - Drilling mud (ground)
+M.bar;Barite - Unground
+M.bar;Baryte
+M.bar;Baryte
+M.bar;Production of barytes
+M.ben;Attapulgite
+M.ben;Attapulgites
+M.ben;Bentonic clay
+M.ben;Bentonit
+M.ben;Bentonit clays for smelting
+M.ben;Bentonita
+M.ben;Bentonite
+M.ben;Bentonite
+M.ben;Bentonite
+M.ben;Bentonite 
+M.ben;Bentonite clay
+M.ben;Bentonyt und feuerfester Ton
+M.ben;Sepiolite
+M.ben;Sepiolite and attapulgite
+M.bor;Boron
+M.bor;Boron minerals
+M.bor;Boron minerals
+M.bor;Production of borates
+M.bor;Ulexita
+M.bro;Production of bromine
+M.crs;gebrochener Naturstein für den Tiefbau
+M.crs;Blasted and crushed rock
+M.crs;Blasted Rock
+M.crs;Construction Stone
+M.crs;Construction stones for concrete filler
+M.crs;Crushed and brown stone
+M.crs;Crushed items from natural stone
+M.crs;Crushed rock
+M.crs;Crushed rock
+M.crs;Crushed stone
+M.crs;Crushed stone 
+M.crs;Crushed stone aggregate
+M.crs;Crushed stone and boulders
+M.crs;Crushed stone and ornamental stone
+M.crs;Crushed stone from mine production in non-reserved deposits
+M.crs;Crushed stone from mine production in reserved deposits
+M.crs;Crushed stone other
+M.crs;Crushed stones
+M.crs;Gebr. Natursteine
+M.crs;Gebrochener Naturstein
+M.crs;Quarried Stone
+M.crs;Quarry stone
+M.dia;Diatomita
+M.dia;Diatomite
+M.dia;Diatomite
+M.dia;Diatomute
+M.dia;Production of diatomite
+M.fel;Feldespato
+M.fel;Feldspar
+M.fel;Feldspar
+M.fel;Feldspar potassium
+M.fel;Feldspar sodium
+M.fel;Feldspar substitutes
+M.fel;Feldspatic sand
+M.fel;Production of feldspar
+M.fic;Ceramic and fire clay
+M.fic;Ceramic clay
+M.fic;Ceramic clays
+M.fic;Feuerfester lehm
+M.fic;Feuerfester u. keramischer Ton
+M.fic;Feuerfester u. keramischer Ton, roh
+M.fic;Feuerfester und kermaischer Ton
+M.fic;Fire clay
+M.fic;Fire clay 
+M.fic;Fire clays
+M.fic;Kyanite Gems
+M.fic;Kyanite gems grade
+M.fic;Kyanite Ind
+M.fic;Kyanite industrial grade
+M.fic;Production of sillimanite minerals
+M.fic;Refractory clays
+M.flu;Fluorspar
+M.flu;Fluorspar
+M.flu;Production of fluorspar
+M.fue;Fuller's earth
+M.fue;Fuller earths
+M.fue;Fullers Earth
+M.fue;Fulles earth
+M.gra;Graphite
+M.gra;Graphite
+M.gra;Natural graphite
+M.gra;Production of graphite
+M.gya;Construction gypsum
+M.gya;Gips aus Rauchgas 
+M.gya;Gips u. Anhydritstein
+M.gya;Gipsum
+M.gya;Gyps
+M.gya;Gyps und Anhydrid
+M.gya;Gypstrockenmischungen
+M.gya;Gypsum
+M.gya;Gypsum
+M.gya;Gypsum and anhidrite
+M.gya;Gypsum and Anhydrite
+M.gya;Gypsum for cement
+M.gya;Gypsum stone
+M.gya;Parget/plaster
+M.gya;Production of gypsum and plaster
+M.iod;Production of iodine
+M.kao;China Clay
+M.kao;China clay (Kaolin)
+M.kao;Filler Kaolin
+M.kao;Kaolin
+M.kao;Kaolin
+M.kao;Kaolin (China-Clay)
+M.kao;Kaolin and ind. clay
+M.kao;Kaolin clays (ball and plastic clays)
+M.kao;Production of kaolin
+M.kao;Unwashed Kaolin
+M.kao;Washed Kaolin
+M.mic;Mica
+M.mic;Micaceous schists
+M.mic;Micaschiste
+M.mic;Micasist
+M.mic;Production of mica
+M.per;perita
+M.per;perlita
+M.per;Perlite
+M.per;Perlite
+M.per;Production of perlite
+M.sag;Materiales de construcción
+M.sag;Arena Construcción
+M.sag;3A aggregates 
+M.sag;Arena p/Construcción
+M.sag;Bausand, Baukies, Kies für den Wegebau
+M.sag;Natürlicher Kies u. Sand
+M.sag;Aggregate
+M.sag;Aggregate minerals 
+M.sag;Aggregates
+M.sag;Aggregates (natural and lightweight)
+M.sag;arena para construccion
+M.sag;Arena y Canto Rodado
+M.sag;Arena y grava
+M.sag;Arenas
+M.sag;Backfilling sands
+M.sag;Ballast aggregates
+M.sag;Bausand
+M.sag;Bausand und Kies
+M.sag;Bausand, Baukies
+M.sag;Building sand
+M.sag;Common sand
+M.sag;Construction material
+M.sag;Construction Materials
+M.sag;Construction sand and gravel
+M.sag;Construction sands
+M.sag;Construction sands such as clayey sands, kaolinic sands, felpathic sands
+M.sag;Coral sand for cement
+M.sag;Crushed gravel
+M.sag;Crushed or cut dolomite for concentrate aggregates, for road stone and for other construction use
+M.sag;Filling sands
+M.sag;Granules, chippings and powder
+M.sag;Granules, chippings and powder of travertine, ecaussine, granite, porphry, basalt, sandstone and other monumental stone
+M.sag;Gravel
+M.sag;Gravel aggregates
+M.sag;Gravel, pebbles
+M.sag;Gravels
+M.sag;Hard rock
+M.sag;Hard rocks
+M.sag;Hard rocks for aggregates
+M.sag;Havara
+M.sag;Havara and gravel
+M.sag;Havara mixture and gravel
+M.sag;Kies
+M.sag;Mineral aggregates 
+M.sag;Natural sand
+M.sag;Natural sand for construction
+M.sag;Ordinary sand
+M.sag;Other crushed or cut stone used for concrete aggregates, for road stone and for other construction use
+M.sag;Other special use mineral aggregates
+M.sag;Raw materials for cement
+M.sag;Raw materials for cement industry
+M.sag;River sand
+M.sag;River sand and gravel
+M.sag;Riverine gravel for grinding
+M.sag;Rock aggregates
+M.sag;Sand
+M.sag;Sand 
+M.sag;Sand (cover layer)
+M.sag;Sand (filling)
+M.sag;Sand (for cellular concrete)
+M.sag;Sand aggregates
+M.sag;Sand and gravel
+M.sag;Sand and gravel
+M.sag;Sand and Gravel 
+M.sag;Sand and Gravel aggregate
+M.sag;Sand and gravel from mine production in non-reserved deposits
+M.sag;Sand and gravel from mine production in reserved deposits
+M.sag;Sand und Kies
+M.sag;Sandige Kiesgesteine
+M.sag;Sands
+M.sag;Sands and Gravels
+M.sag;Schotter und Kies aus Naturstein und SandKiesGemischen
+M.sag;Schotter, Kies, Kiesel
+M.sag;Silica for cement
+M.sag;Steinschutt
+M.sag;Stone aggregate
+M.sag;Stone aggregates
+M.sag;Stone and Gravel
+M.sag;Technological sand
+M.sag;Washed sand
+M.sal;Brine salt
+M.sal;Brine salt & sea salt
+M.sal;Evaporated salt
+M.sal;Other salt
+M.sal;Rock salt
+M.sal;Rock salt
+M.sal;Rock salt & brine salt
+M.sal;Salt
+M.sal;Salt
+M.sal;Salt (rock,brines,marine)
+M.sal;Salt in brine
+M.sal;Salt, all sources
+M.sal;Salz
+M.sal;Sea salt
+M.sal;Sea salt
+M.soc;Production of sodium carbonate, natural
+M.soc;Soda Ash
+M.tal;Production of talc
+M.tal;Pyrophylite
+M.tal;Pyrophyllite
+M.tal;Soapstone products
+M.tal;Talc
+M.tal;Talc
+M.tal;Talc and Pyrophylite
+M.tal;Talc Schist
+M.tal;Talc, Steatile and Pyrophilite
+M.tal;Talc, Steatite & Pyrophyllite
+M.tal;Talco
+M.ver;Production of vermiculite
+M.ver;Vermiculite
+M.ver;Vermiculite
+M.wol;Production of wollastonite
+M.wol;Wollastonite
+Me.Ag;Production of silver, mine
+Me.Ag;Silver
+Me.Ag;Silver (kg)
+Me.As;Arsenic
+Me.Au;Gold
+Me.Au;Gold (kg)
+Me.Au;Production of gold, mine
+Me.Bi;Bismuth
+Me.Bi;Production of bismuth, mine
+Me.Cd;Cadmium
+Me.Cd;Production of cadmium
+Me.Co;Cobalt
+Me.Co;Production of cobalt metal
+Me.Co;Production of cobalt, mine
+Me.Cr;
+Me.Cu;Copper
+Me.Cu;Production of copper, mine
+Me.Ga;Gallium
+Me.Ga;Production of gallium, primary
+Me.Ge;Germanium
+Me.Ge;Production of germanium metal
+Me.Hg;Mercury
+Me.Hg;Production of mercury
+Me.In;Indium
+Me.In;Production of indium, refinery
+Me.K2O;Potash
+Me.K2O;Potash (K2O)
+Me.K2O;Production of potash
+Me.Mg;Production of magnesium metal, primary
+Me.Mn;Manganese
+Me.Mo;Molybdenum
+Me.Mo;Production of molybdenum, mine
+Me.Nb;Nb content
+Me.Ni;Nickel
+Me.Ni;Production of nickel, mine
+Me.Pb;Lead
+Me.Pb;Production of lead, mine
+Me.Pd;Palladium
+Me.Pd;Palladium
+Me.Pd;Palladium (kg)
+Me.Pt;Platinum
+Me.Pt;Platinum
+Me.Pt;Platinum (kg)
+Me.Re;Production of rhenium
+Me.Re;Rhenium
+Me.Re;Rhenium kg
+Me.reo;Production of rare earth oxides
+Me.reo;Rare Earth Minerals
+Me.reo;Rare Earths
+Me.reo;Rare Earths (REO)
+Me.reo;Rare Earths Concentrates (REO)
+Me.Rh;Rhodium
+Me.Rh;Rhodium
+Me.Rh;Rhodium (kg)
+Me.Sb;Antimony
+Me.Sb;Production of antimony, mine
+Me.Se;Production of selenium metal
+Me.Se;Selenium
+Me.Sn;Production of tin, mine
+Me.Sn;Tin
+Me.Ta;Ta content
+Me.Te;Production of tellurium metal
+Me.Te;Tellurium
+Me.Ti;
+Me.U;Production of uranium
+Me.V;Production of vanadium, mine
+Me.W;Production of tungsten, mine
+Me.W;Tungsten
+Me.W;Tungsten (W)
+Me.Zn;Production of zinc, mine
+Me.Zn;Zinc
+Nm.dig;Diam. (Gem)
+Nm.dig;Diamonds (Gem)
+Nm.dii;Diam. (Ind)
+Nm.dii;Diamonds (Ind)
+Nm.dii;Diamonds (Industrial)
+O.Al;Bauxite
+O.Al;Bauxite (crude ore)
+O.Al;Production of bauxite
+O.Be;Production of beryl
+O.Cr;Production of chromium ores and concentrates
+O.Fe;Production of iron ore
+O.FeTiO3;Ilmenite
+O.FeTiO3;Ilmenite
+O.leu;Leucoxene
+O.leu;Leucoxene
+O.Li;Production of lithium minerals
+O.MgCO3;Magnesita
+O.MgCO3;Magnesite
+O.MgCO3;Magnesite
+O.MgCO3;Production of magnesite
+O.Mn;Production of manganese ore
+O.nep;Nephilin Syenite
+O.nep;Production of nepheline syenite
+O.P;Guano
+O.P;Phosphate rock
+O.P;Production of phosphate rock
+O.Sr;Celestite
+O.Sr;Production of strontium minerals
+O.TiO2;Rutile
+O.TiO2;Rutile
+O.Zr;Production of zirconium minerals
+O.Zr;Zircon
+O.Zr;Zircon

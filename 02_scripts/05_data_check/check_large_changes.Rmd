@@ -1,0 +1,350 @@
+---
+title: "check_large_changes"
+output:
+  html_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup , include = FALSE, echo = FALSE, message = FALSE}
+#knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(readxl)
+library(scales)
+library(grid)
+library(knitr)
+library(kableExtra)
+library(viridis)
+library(strvalidator)
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+# clear R environment
+rm(list = ls())
+
+
+## read data
+
+data <- read_rds("./03_intermediate/06_final_formatting/final_cleaning.rds")
+
+
+# ids
+cou_ids <- read_delim("./01_input/01_concordance_tables/country_ids.csv",
+                      delim = ";",
+                      locale = locale('se', encoding = 'ISO8859-1'))
+
+ccc_vs_mat <- read_delim("./01_input/01_concordance_tables/ccc_vs_mat_ids.csv", delim = ";")
+
+
+
+## include names in data for checks and illustrations
+data_2 <- data %>%
+  left_join(.,
+            cou_ids %>%
+              select(alphanumiso, country)
+            ) %>%
+  left_join(.,
+            ccc_vs_mat %>%
+              distinct(material_id, material_name)
+            )
+
+
+# remove obsolete time series for check (i.e. only values = 0)
+data_2 <- data_2 %>% 
+  group_by(alphanumiso, material_id) %>%
+  summarise(value = sum(value, na.rm = TRUE)) %>%
+  ungroup() %>%
+  filter(value != 0) %>%
+  select(-value) %>%
+  left_join(., data_2)
+
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+## create upper and lower range based on standard deviation
+
+a0 <- data_2 %>%
+  filter(value != 0) %>%
+  group_by(alphanumiso, material_id) %>%
+  summarise(
+    sd_3 = 3 * sd(value)
+    ) %>%
+  ungroup()
+  
+a1 <- data_2 %>%
+  filter(value != 0) %>%
+  group_by(alphanumiso, material_id) %>%
+  summarise(n = n()) %>%
+  ungroup()
+
+a2 <- data_2 %>%
+  left_join(., a1) %>%
+  filter(value != 0) %>%
+  group_by(alphanumiso, material_id) %>%
+  mutate(mov_av = ifelse(
+    n >= 5,
+    stats::filter(value, rep(1,5), sides = 2)/5,
+    value)
+    ) %>%
+  tidyr::fill(mov_av, .direction = c("updown")) %>%
+  ungroup() %>%
+  select(alphanumiso, material_id, year, value, mov_av)
+
+
+outliers <- a2 %>%
+  left_join(., a0) %>%
+  mutate(upper_range = mov_av + sd_3) %>%
+  filter(value > (upper_range + 1)) %>%
+  filter(value != 0) %>%
+  arrange(alphanumiso, material_id) %>%
+  select(alphanumiso, material_id, year, value, upper_range) %>%
+  mutate(outlier = "yes") %>%
+  left_join(., data_2 %>%
+              select(alphanumiso, material_id, year, source))
+
+# xx <- a2 %>%
+#   left_join(., a0) %>%
+#   mutate(upper_range = mov_av + sd_3)
+# 
+# xx %>% filter(value < (upper_range + 1))
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+# create a table with adjusted values
+  # in loop, because based on value of previous year and there are cases with consecutive years
+
+if(exists("adjusted")) rm(adjusted)
+
+#i <- 5
+# if(nrow(outliers)>0){
+for (i in 1:nrow(outliers)) {
+  
+  cou <- outliers[i, ]$alphanumiso
+  mat <- outliers[i, ]$material_id
+  y <- outliers[i, ]$year
+  
+  temp <- data_2 %>%
+    filter(
+      alphanumiso == !!cou,
+      material_id == !!mat,
+      year %in% c((y-2):(y+2))
+    )
+  
+  temp <- temp %>%
+    mutate(value = ifelse(
+      year == !!y,
+      NA,
+      value
+    )) %>%
+    mutate(value = ifelse(
+      year == !!y & nrow(temp) >= 3,
+      baytrends::fillMissing(value, span = 2, Dates = year, max.fill = 3),
+      value
+    )) %>%
+    mutate(value = ifelse(
+      year == !!y & is.na(value),
+      temp[temp$year == y-1,]$value,
+      value
+    ))
+    
+  
+  if(exists("adjusted")) {
+          adjusted <- adjusted %>% bind_rows(., temp)
+        } else {adjusted <- temp}
+  
+  }
+# }
+temp <- intersect(
+  adjusted %>%
+    select(alphanumiso, material_id),
+  data_2 %>%
+    select(alphanumiso, material_id)
+  ) %>%
+  left_join(., data_2 %>% select(alphanumiso, material_id, year))
+
+temp <- setdiff(
+  temp %>%
+    select(alphanumiso, material_id, year),
+  adjusted %>%
+    select(alphanumiso, material_id, year)
+  ) %>%
+  left_join(., data_2)
+
+adjusted <- adjusted %>%
+  union(., temp)
+
+
+```
+
+<br> 
+
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+### create table with adjusted values for technical annex
+table_report <- outliers %>%
+  select(alphanumiso, material_id, year, value, source) %>%
+  rename(value_original = value) %>%
+  left_join(.,
+            adjusted %>%
+              select(-unit_id) %>%
+              rename(value_adjusted = value)
+            ) %>%
+  select(country, material_name, year, value_original, value_adjusted, source) %>%
+  arrange(country, material_name) %>%
+  rename(Country = country, Material = material_name, Year = year, `Original value` = value_original, `Adjusted value` = value_adjusted, `Internal source description` = source)
+
+
+# save table as csv
+write_delim(
+  table_report,
+  paste0(
+    "./04_output/05_supplementary_info/overview_adjusted_outliers_",
+    substr(Sys.time(),1,10),
+    ".csv"
+    ),
+  delim = ";",
+  na = ""
+  )
+
+
+```
+
+<br> 
+
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+### integrate and save adjusted data
+data <- setdiff(
+  data %>%
+    select(alphanumiso, material_id, year),
+  adjusted %>%
+    select(alphanumiso, material_id, year)
+  ) %>%
+  left_join(., data) %>%
+  union(., adjusted %>%
+          select(-country, -material_name))
+
+write_rds(data, "./03_intermediate/06_final_formatting/adjusted_outliers.rds")
+
+
+```
+
+<br> 
+
+
+#### Summary of cases by source
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+summary <- outliers %>%
+  left_join(., data_2) %>%
+  group_by(source, material_name) %>%
+  summarise(n = n()) %>%
+  ungroup() %>%
+  arrange(desc(n))
+
+# table for Rmd output
+DT::datatable(summary, rownames = FALSE, caption = "Number of cases by source and material")
+
+```
+
+<br> 
+
+#### Line charts for each case (initially and adjusted)
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+### filter and illustrate
+
+# create a table with outliers twice (initial and adjusted)
+outliers_2 <- outliers %>%
+  mutate(type = "initial") %>%
+  union(., 
+        outliers %>%
+          mutate(type = "adjusted")
+        ) %>%
+  arrange(alphanumiso, material_id, year)
+
+
+a <- list()
+
+
+
+for (i in 1:nrow(outliers_2)) {
+  
+  cou_id <- outliers_2[i,]$alphanumiso
+  mat_id <- outliers_2[i,]$material_id
+  type <- outliers_2[i,]$type
+    
+  nr_col <- nrow(data_2 %>% filter(alphanumiso == !!cou_id & material_id == !!mat_id) %>% distinct(source))
+  
+  cou_name <- data_2 %>% filter(alphanumiso == !!cou_id) %>% distinct(country) %>% pull()
+  mat_name <- data_2 %>% filter(material_id == !!mat_id) %>% distinct(material_name) %>% pull()
+  
+  if(type == "initial") {
+    plot_data <- data_2 %>%
+      filter(alphanumiso == !!cou_id & material_id == !!mat_id) %>%
+      select(alphanumiso, material_name, year, value, source)
+  } else {
+      plot_data <- adjusted %>%
+      filter(alphanumiso == !!cou_id & material_id == !!mat_id) %>%
+      select(alphanumiso, material_name, year, value, source)
+        }
+
+  
+  a[[i]] <- htmltools::tags$div(
+      htmltools::tags$br(),
+      plot_data %>%
+        plotly::plot_ly(
+          x = ~year,
+          y = ~value,
+          color = ~source
+          ) %>%
+        plotly::add_lines() %>%
+        plotly::layout(
+          title = paste(cou_name, ": ", mat_name, " - ", type),
+          legend = list(
+          orientation = "h",
+          y = -0.3
+          )
+          ),
+    
+      htmltools::tags$br(),
+      htmltools::tags$br()
+    )
+  
+
+  
+}
+
+
+htmltools::tagList(a)
+
+
+
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+
+
+```
+
+<br> 

@@ -1,0 +1,2 @@
+alphanumiso;year_start;year_end;alphanumiso_new;comment
+SDN729;1970;2011;SDN736;"IEA uses ""Sudan"" over whole time range, which causes it be harmonized as SDN729 for whole time, which shouldn't be the case, causing issues during integration"

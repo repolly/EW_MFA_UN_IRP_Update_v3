@@ -1,0 +1,21 @@
+country;commodity;sub_commodity;year_start;year_end;material_id;comment
+Greece;Production of aggregates, primary;;;;M.sag;missing specifications for sub-commodity
+Cyprus;Production of bentonite and fuller's earth;;;;M.ben;missing specifications for sub-commodity
+Poland;Production of bentonite and fuller's earth;;;;M.ben;missing specifications for sub-commodity
+;Production of salt;;;;M.sal;missing specifications for sub-commodity
+;Production of titanium minerals;;;;O.Ti;missing specifications for sub-commodity
+;Production of platinum group metals, mine;;;;Me.pgm;missing specifications for sub-commodity
+China;Production of rare earth minerals;;1992;;Me.reo;footnote: all values are concentrates except for these values
+USA;Production of rare earth minerals;Bastnaesite;1992;2003;Me.reo;footnote: all values are concentrates except for these values
+USA;Production of rare earth minerals;Monazite;1992;2003;Me.reo;footnote: all values are concentrates except for these values
+Russia;Production of nepheline syenite;Nepheline concentrates;;;Con.nep;values are reported for commodity and for sub-commodity
+Russia;Production of nepheline syenite;;1996;2007;Con.nep;footnote: values are actually concentrates for these years
+Finland;Production of chromium ores and concentrates;;2009;;Con.Cr;reported value equals concentrate, not ore
+Argentina;Production of lithium minerals;;1997;;Me.lic;footnote: all values are ores/minerals except for these values
+Bolivia;Production of lithium minerals;;2013;;Me.Li2CO3;footnote: all values are ores/minerals except for these values
+Canada;Production of lithium minerals;;2014;2014;Me.Li2CO3;footnote: all values are ores/minerals except for these values
+Chile;Production of lithium minerals;;1980;2009;Me.Li2CO3;footnote: all values are ores/minerals except for these values
+Chile;Production of lithium minerals;;2010;;Me.lic;footnote: all values are ores/minerals except for these values
+China;Production of lithium minerals;;2011;;Me.Li;footnote: all values are ores/minerals except for these values
+USA;Production of lithium minerals;;1970;1997;Me.lic;footnote: all values are ores/minerals except for these values
+USA;Production of lithium minerals;;1998;;Me.Li;footnote: all values are ores/minerals except for these values

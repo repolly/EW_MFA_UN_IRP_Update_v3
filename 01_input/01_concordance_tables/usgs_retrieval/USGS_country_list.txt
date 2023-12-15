@@ -1,0 +1,233 @@
+USGS Country	DB Country	DB CountryID
+Afghanistan	Afghanistan	AF
+Albania	Albania	AL
+Algeria	Algeria	DZ
+American Samoa	American Samoa	AS
+Angola	Angola	AO
+Anguilla	Anguilla	AI
+Antigua and Barbuda	Antigua and Barbuda	AG
+Argentina	Argentina	AR
+Armenia	Armenia	AM
+Aruba	Aruba	AW
+Australia	Australia	AU
+Austria	Austria	AT
+Azerbaijan	Azerbaijan	AZ
+Bahamas	Bahamas	BS
+Bahrain	Bahrain	BH
+Bangladesh	Bangladesh	BD
+Barbados	Barbados	BB
+Belarus	Belarus	BY
+Belgium	Belgium	BE
+Belize	Belize	BZ
+Benin	Benin	BJ
+Bermuda	Bermuda	BM
+Bhutan	Bhutan	BT
+Bolivia	Bolivia	BO
+Bosnia and Herzegovina	Bosnia and Herzegovina	BA
+Botswana	Botswana	BW
+Brazil	Brazil	BR
+British Indian Ocean Territory	British Indian Ocean Territory	IO
+British Virgin Islands	British Virgin Islands	VG
+Brunei Darussalam	Brunei Darussalam	BN
+Bulgaria	Bulgaria	BG
+Burkina Faso	Burkina Faso	BF
+Burma	Myanmar	MM
+Burundi	Burundi	BI
+Cambodia	Cambodia	KH
+Cameroon	Cameroon	CM
+Canada	Canada	CA
+Cape Verde	Cape Verde	CV
+Cayman Islands	Cayman Islands	KY
+Central African Republic	Central African Republic	CF
+Chad	Chad	TD
+Chile	Chile	CL
+China	China	CN
+Christmas Island	Christmas Island	CX
+Cocos (Keeling) Islands	Cocos (Keeling) Islands	CC
+Colombia	Colombia	CO
+Comoros	Comoros	KM
+Congo (Kinshasa)	DR Congo	CD
+Cook Islands	Cook Islands	CK
+Costa Rica	Costa Rica	CR
+Côte d'Ivoire (Ivory Coast)	Cote d'Ivoire	CI
+Croatia	Croatia	HR
+Cuba	Cuba	CU
+Cyprus	Cyprus	CY
+Czech Republic	Czech Republic	CZ
+Czechoslovakia	Czechoslovakia	CS
+Denmark	Denmark	DK
+Djibouti	Djibouti	DJ
+Dominica	Dominica	DM
+Dominican Republic	Dominican Republic	DO
+Ecuador	Ecuador	EC
+Egypt	Egypt	EG
+El Salvador	El Salvador	SV
+Equatorial Guinea	Equatorial Guinea	GQ
+Eritrea	Eritrea	ER
+Estonia	Estonia	EE
+Ethiopia	Ethiopia	ET
+Falkland Islands (Malvinas)	Falkland Islands (Malvinas)	FK
+Faroe Islands	Faroe Islands	FO
+Fiji	Fiji Islands	FJ
+Finland	Finland	FI
+France	France	FR
+French Guiana	French Guiana	GF
+French Polynesia	French Polynesia	PF
+Gabon	Gabon	GA
+Gambia	Gambia	GM
+Georgia	Georgia	GE
+Germany	Germany	DE
+Ghana	Ghana	GH
+Gibraltar	Gibraltar	GI
+Greece	Greece	GR
+Grenada	Grenada	GD
+Guadeloupe	Guadeloupe	GP
+Guam	Guam	GU
+Guatemala	Guatemala	GT
+Guinea	Guinea	GN
+Guinea-Bissau	Guinea-Bissau	GW
+Guyana	Guyana	GY
+Haiti	Haiti	HT
+Honduras	Honduras	HN
+Hungary	Hungary	HU
+Iceland	Iceland	IS
+India	India	IN
+Indonesia	Indonesia	ID
+Iran	Iran	IR
+Iraq	Iraq	IQ
+Ireland	Ireland	IE
+Israel	Israel	IL
+Italy	Italy	IT
+Jamaica	Jamaica	JM
+Japan	Japan	JP
+Jordan	Jordan	JO
+Kazakhstan	Kazakhstan	KZ
+Kenya	Kenya	KE
+Kiribati	Kiribati	KI
+Korea, North	North Korea	KP
+Korea, Republic of	South Korea	KR
+Korea, Republic of 	South Korea	KR
+Kosovo	Kosovo	XK
+Kuwait	Kuwait	KW
+Kyrgyzstan	Kyrgyzstan	KG
+Laos	Laos	LA
+Latvia	Latvia	LV
+Lebanon	Lebanon	LB
+Lesotho	Lesotho	LS
+Liberia	Liberia	LR
+Libya	Libya	LY
+Liechtenstein	Liechtenstein	LI
+Lithuania	Lithuania	LT
+Luxembourg	Luxembourg	LX
+Macedonia	Macedonia	MK
+Madagascar	Madagascar	MG
+Malawi	Malawi	MW
+Malaysia	Malaysia	MY
+Maldives	Maldives	MV
+Mali	Mali	ML
+Malta	Malta	MT
+Marshall Islands	Marshall Islands	MH
+Martinique	Martinique	MQ
+Mauritania	Mauritania	MR
+Mauritius	Mauritius	MU
+Mayotte	Mayotte	YT
+Mexico	Mexico	MX
+Micronesia	Micronesia	FM
+Moldova	Moldova	MD
+Mongolia	Mongolia	MN
+Montenegro	Serbia (and Montenegro)	RS
+Montserrat	Montserrat	MS
+Morocco	Morocco	MA
+Mozambique	Mozambique	MZ
+Namibia	Namibia	NA
+Nauru	Nauru	NR
+Nepal	Nepal	NP
+Netherlands	Netherlands	NL
+Netherlands Antilles	Netherlands Antilles	AN
+New Caledonia	New Caledonia	NC
+New Zealand	New Zealand	NZ
+Nicaragua	Nicaragua	NI
+Niger	Niger	NE
+Nigeria	Nigeria	NG
+Niue	Niue	NU
+Norfolk Island	Norfolk Island	NF
+Northern Mariana Islands	Northern Mariana Islands	MP
+Norway	Norway	NO
+Oman	Oman	OM
+Pakistan	Pakistan	PK
+Palau	Palau	PW
+Palestine	Palestine	PS
+Panama	Panama	PA
+Papua New Guinea	Papua New Guinea	PG
+Paraguay	Paraguay	PY
+Peru	Peru	PE
+Philippines	Philippines	PH
+Pitcairn Islands	Pitcairn Islands	PN
+Poland	Poland	PL
+Portugal	Portugal	PT
+Puerto Rico	Puerto Rico	PR
+Qatar	Qatar	QA
+Congo (Brazzaville)	Rep Congo	CG
+Réunion	Réunion	RE
+Romania	Romania	RO
+Russia	Russian Federation	RU
+Rwanda	Rwanda	RW
+Saint Helena	Saint Helena	SH
+Saint Kitts and Nevis	Saint Kitts and Nevis	KN
+Saint Lucia	Saint Lucia	LC
+Saint Pierre and Miquelon	Saint Pierre and Miquelon	PM
+Saint Vincent/Grenadines	Saint Vincent/Grenadines	VC
+Samoa	Samoa	WS
+San Marino	San Marino	SM
+Sao Tome and Principe	Sao Tome and Principe	ST
+Saudi Arabia	Saudi Arabia	SA
+Senegal	Senegal	SN
+Serbia	Serbia (and Montenegro)	RS
+Seychelles	Seychelles	SC
+Sierra Leone	Sierra Leone	SL
+Singapore	Singapore	SG
+Slovakia	Slovakia	SK
+Slovenia	Slovenia	SI
+Solomon Islands	Solomon Islands	SB
+Somalia	Somalia	SO
+South Africa	South Africa	ZA
+South Sudan	South Sudan	SS
+Spain	Spain	ES
+Sri Lanka	Sri Lanka	LK
+Sudan	Sudan	SD
+Suriname	Suriname	SR
+Swaziland	Swaziland	SZ
+Sweden	Sweden	SE
+Switzerland	Switzerland	CH
+Syria	Syria	SY
+Taiwan	Taiwan	TW
+Tajikistan	Tajikistan	TJ
+Tanzania	Tanzania	TZ
+Thailand	Thailand	TH
+Timor-Leste	Timor-Leste	TL
+Togo	Togo	TG
+Tokelau	Tokelau	TK
+Tonga	Tonga	TO
+Trinidad and Tobago	Trinidad and Tobago	TT
+Tunisia	Tunisia	TN
+Turkey	Turkey	TR
+Turkmenistan	Turkmenistan	TM
+Turks and Caicos Islands	Turks and Caicos Islands	TC
+Tuvalu	Tuvalu	TV
+Uganda	Uganda	UG
+Ukraine	Ukraine	UA
+United Arab Emirates	United Arab Emirates	AE
+United Kingdom	United Kingdom	GB
+United States	United States of America	US
+Uruguay	Uruguay	UY
+US Virgin Islands	US Virgin Islands	VI
+USSR	USSR	SU
+Uzbekistan	Uzbekistan	UZ
+Vanuatu	Vanuatu	VU
+Venezuela	Venezuela	VE
+Vietnam	Viet Nam	VN
+Wallis and Futuna Islands	Wallis and Futuna Islands	WF
+Yemen	Yemen	YE
+Yugoslavia SFR	Yugoslavia SFR	YU
+Zambia	Zambia	ZM
+Zimbabwe	Zimbabwe	ZW

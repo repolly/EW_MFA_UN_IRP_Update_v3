@@ -1,0 +1,33 @@
+USGS Unit	UnitID	PrimaryValue_type
+(Kilograms)	12	Content
+(Kilograms, contained selenium)	12	Content
+(Kilograms, contained tellurium)	12	Content
+(Metric tons of contained molybdenum)	1	Content
+(Metric tons of contained nickel)	1	Content
+(Metric tons of gross weight)	1	Gross Weight
+(Metric tons of rare earth oxide equivalent)	1	Content
+(Metric tons of rare-earth oxide equivalent)	1	Content
+(Metric tons)	1	Gross Weight
+(Metric tons) 	1	Gross Weight
+(Metric tons, antimony content unless otherwise specified)	1	Content
+(Metric tons, cobalt content)	1	Content
+(Metric tons, gross weight)	1	Gross Weight
+(Metric tons, lead content)	1	Content
+(Metric tons, Nb content)	1	Content
+(Metric tons, tungsten content)	1	Content
+(Metric tons, vanadium content)	1	Content
+(Metric tons, zinc content of concentrate and direct shipping ore, unless otherwise specified)	1	Content
+(Metric tons, zinc content of concentrate and direct shipping, unless otherwise specified)	1	Content
+(Thousand carats)	13	Content
+(Thousand metric tons of K2O equivalent)	2	Gross Weight
+(Thousand metric tons)	2	Gross Weight
+Carats	25	Content
+kilograms	12	Content
+kilograms (metal content)	12	Content
+million cubic metres	6	Gross Weight
+tonnes	1	Gross Weight
+tonnes (Al2O3 content)	1	Content
+tonnes (K20 content)	1	Content
+tonnes (metal content)	1	Content
+tonnes (metric)	1	Content
+tonnes (sulphur content)	1	Content

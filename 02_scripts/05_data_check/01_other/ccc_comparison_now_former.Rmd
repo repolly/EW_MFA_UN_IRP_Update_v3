@@ -1,0 +1,523 @@
+---
+title: "ccc_comparison_now_former"
+output:
+  html_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+#knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(readxl)
+library(scales)
+library(grid)
+library(knitr)
+library(kableExtra)
+library(viridis)
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+# clear R environment
+rm(list = ls())
+
+
+### Read data
+
+# ccc
+ccc_current <- read_delim(
+  "./04_output/02_final/DE_met_min_fos_CCC_2022-11-23.csv",
+  delim = ";",
+  col_types = cols(unit = "c")
+  )
+
+ccc_current_aug <- read_delim(
+  "./04_output/02_final/DE_met_min_fos_CCC_2021-11-04.csv",
+  delim = ";",
+  col_types = cols(unit = "c")
+  )
+
+ccc_former_irp <- read_delim("./01_input/04_former_data/former_irp_database/policyDB_CCC_20171122.csv", delim = ",")
+
+ccc_former_wu <- read_delim("./01_input/04_former_data/former_irp_database/MFA_met_min_fos_CCC_table_20170501_rev.csv", delim = ",")
+
+
+# ccc-detailed
+detailed_current <- read_delim(
+  "./04_output/02_final/DE_met_min_fos_Detailed_with_names_2022-11-23.csv",
+  delim = ";",
+  col_types = cols(unit = "c")
+  )
+
+
+## IDs
+cou_ids <- read_delim("./01_input/01_concordance_tables/country_ids.csv",
+                      delim = ";",
+                      locale = locale('se', encoding = 'ISO8859-1'))
+
+mat_ids <- read_delim("./01_input/01_concordance_tables/material_ids.csv", delim = ";")
+
+mfa13_ids <- read_delim("./01_input/01_concordance_tables/CCC_To_EWMFA_4_and_13_20171010.csv", delim = ";")
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+## format and correct
+
+# current
+ccc_current <- ccc_current %>%
+  mutate(dataset = "ccc_current")
+
+
+# current_aug
+ccc_current_aug <- ccc_current_aug %>%
+  rename(CCC_Code = ccc) %>%
+  mutate(dataset = "ccc_current_aug") %>%
+  mutate(
+    alphanumiso = ifelse(
+      alphanumiso == "YUG891",
+      "YUG890",
+      alphanumiso
+      ))
+
+
+# former_irp
+col_names <- as.character(1970:2017)
+
+ccc_former_irp <- ccc_former_irp %>%
+  pivot_longer(.,
+               cols = !!col_names,
+               names_to = "year",
+               values_to = "value"
+               ) %>%
+  rename(alphanumiso = AlphaNumISO) %>%
+  select(-ISOAlpha3, -Country) %>%
+  mutate(dataset = "ccc_former_irp") %>%
+  mutate(year = as.integer(year))
+
+
+# former_wu
+colnames(ccc_former_wu) <- c("alphanumiso", "year", "CCC_Code", "value")
+
+ccc_former_wu <- ccc_former_wu %>%
+  mutate(value = value * 1000) %>%
+  mutate(dataset = "ccc_former_wu") %>%
+  mutate(
+    alphanumiso = ifelse(
+      alphanumiso == "KOSOVO",
+      "UNK000",
+      alphanumiso
+      ))
+
+
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+# combine tables
+
+data <- ccc_current %>%
+  bind_rows(., ccc_current_aug) %>%
+  bind_rows(., ccc_former_irp) %>%
+  bind_rows(., ccc_former_wu)
+
+
+# add names for variables
+data <- data %>%
+  left_join(.,
+            cou_ids %>%
+              select(alphanumiso, country)
+            ) %>%
+  left_join(.,
+            mfa13_ids %>%
+              select(CCC_Code, CCC_Name, MFA13, MFA4)
+            )
+
+
+# remove data for biomass
+data <- data %>%
+  filter(MFA4 != "Biomass")
+
+
+```
+
+<br> 
+
+#### Number of data points per version and MFA4
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+nr_values <- data %>%
+  filter(value != 0) %>%
+  filter(!is.na(value)) %>%
+  group_by(dataset, MFA4) %>%
+  summarise(n = n()) %>%
+  ungroup() %>%
+  arrange(MFA4)
+
+
+# table for Rmd output
+DT::datatable(
+  nr_values,
+  rownames = FALSE,
+  caption = "Number of data points per version and MFA4 (excluding 0 / NA)",
+  options = list(pageLength = 12)
+  )
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+# include colours
+  # include colours in table (in order to be consistent)
+
+# ph <- data
+# data <- ph
+
+colours <- viridis(30)[c(1, 10, 20, 30)]
+
+data <- data %>%
+  left_join(.,
+            data %>%
+              distinct(dataset) %>%
+              mutate(colour = !!colours)
+            ) %>%
+   mutate(colour = ifelse(
+    dataset == "ccc_current",
+    "orange",
+    colour
+  ))
+
+
+# round data
+data <- data %>%
+  mutate(value = round(value, 0))
+
+
+```
+
+
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+
+
+#### Comparison of versions for Global DE
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+### filter and illustrate
+
+a1 <- list()
+
+data_fil_global <- data %>%
+  group_by(year, dataset, colour) %>%
+  summarise(value = sum(value, na.rm = TRUE)) %>%
+  ungroup()
+
+
+
+  a1 <- htmltools::tags$div(
+    
+      htmltools::tags$br(),
+      
+      data_fil_global %>%
+      plotly::plot_ly(
+      x = ~year,
+      y = ~value,
+      name = ~paste(dataset),
+      color = ~I(colour)
+      ) %>%
+      plotly::add_lines() %>%
+      plotly::layout(
+        title = "Global DE",
+        legend = list(
+          orientation = "v",
+          yanchor = "center",
+          y = 0.5
+          )
+        ),
+      
+      htmltools::tags$br(),
+      
+      # table for Rmd output
+      DT::datatable(
+        data_fil_global %>%
+          select(dataset, year, value) %>%
+          pivot_wider(
+            names_from = dataset,
+            values_from = value
+          ) %>%
+          arrange(desc(year)) %>%
+          mutate(diff_current_vs_aug = ccc_current - ccc_current_aug),
+        rownames = FALSE,
+        caption = "Value of Global DE by dataset"
+        ),
+      
+      htmltools::tags$br(),
+      htmltools::tags$br()
+    )
+
+
+
+htmltools::tagList(a1)
+
+
+
+```
+
+
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+
+
+#### Comparison of versions for Global DE, by MFA4
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+### filter and illustrate
+
+a2 <- list()
+
+data_fil_mfa4 <- data %>%
+  group_by(MFA4, year, dataset, colour) %>%
+  summarise(value = sum(value, na.rm = TRUE)) %>%
+  ungroup()
+
+list_mfa <- data_fil_mfa4 %>%
+  filter(value > 0) %>%
+  distinct(MFA4) %>%
+  arrange(MFA4) %>%
+  pull()
+
+#i <- "Bonaire"
+
+for (i in list_mfa) {
+    
+  plot_data_mfa <- data_fil_mfa4 %>%
+      filter(MFA4 == i)
+  
+  
+  a2[[i]] <- htmltools::tags$div(
+    
+      htmltools::tags$br(),
+      
+      plot_data_mfa %>%
+      plotly::plot_ly(
+      x = ~year,
+      y = ~value,
+      name = ~paste(dataset),
+      color = ~I(colour)
+      ) %>%
+      plotly::add_lines() %>%
+      plotly::layout(
+        title = paste0(i, ": Global DE"),
+        legend = list(
+          orientation = "v",
+          yanchor = "center",
+          y = 0.5
+          )
+        ),
+      
+      htmltools::tags$br(),
+      
+      # table for Rmd output
+      DT::datatable(
+        plot_data_mfa %>%
+          select(dataset, year, value) %>%
+          pivot_wider(
+            names_from = dataset,
+            values_from = value
+          ) %>%
+          arrange(desc(year)) %>%
+          mutate(diff_current_vs_aug = ccc_current - ccc_current_aug),
+        rownames = FALSE,
+        caption = paste0(i, ": Value of Global DE by dataset")
+        ),
+      
+      htmltools::tags$br(),
+      htmltools::tags$br()
+    )
+
+}
+
+
+htmltools::tagList(a2)
+
+
+
+```
+
+
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+
+
+#### Comparison of versions by country (for Total DE & for CCC A.3.8.2 - "Sand gravel and crushed rock for construction")
+<br> 
+<br> 
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+# filter and illustrate
+
+a3 <- list()
+
+data_fil_DE <- data %>%
+  group_by(country, year, dataset, colour) %>%
+  summarise(value = sum(value, na.rm = TRUE)) %>%
+  ungroup()
+
+data_fil_A.3 <- data %>%
+  filter(CCC_Code == "A.3.8.2")
+
+list_cou <- data_fil_DE %>%
+  filter(value > 0) %>%
+  distinct(country) %>%
+  arrange(country) %>%
+  pull()
+
+#i <- "Bonaire"
+
+for (i in list_cou) {
+    
+  plot_data_DE <- data_fil_DE %>%
+      filter(country == i)
+  
+  plot_data_A.3 <- data_fil_A.3 %>%
+      filter(country == i)
+  
+  
+  a3[[i]] <- htmltools::tags$div(
+    
+      htmltools::tags$br(),
+      htmltools::tags$br(),
+
+      plot_data_DE %>%
+      plotly::plot_ly(
+      x = ~year,
+      y = ~value,
+      name = ~paste(dataset),
+      color = ~I(colour)
+      ) %>%
+      plotly::add_lines() %>%
+      plotly::layout(
+        title = paste0(i, ": Total DE"),
+        legend = list(
+          orientation = "v",
+          yanchor = "center",
+          y = 0.5
+          )
+        ),
+      
+      htmltools::tags$br(),
+      
+      # table for Rmd output
+      DT::datatable(
+        plot_data_DE %>%
+          select(dataset, year, value) %>%
+          pivot_wider(
+            names_from = dataset,
+            values_from = value
+          ) %>%
+          arrange(desc(year)) %>%
+          mutate(diff_current_vs_aug = ifelse(
+              "ccc_current" %in% names(.) & "ccc_current_aug" %in% names(.),
+              ccc_current - ccc_current_aug,
+              NA)) %>%
+          mutate(across(where(is.logical), as.double)),
+        rownames = FALSE,
+        caption = paste0(i, ": Value of Total DE by dataset + difference of now vs August version")
+        ),
+      
+      htmltools::tags$br(),
+      htmltools::tags$br(),
+      
+      if(nrow(plot_data_A.3) > 0) {
+      
+      plot_data_A.3 %>%
+      plotly::plot_ly(
+      x = ~year,
+      y = ~value,
+      name = ~paste(dataset),
+      color = ~I(colour)
+      ) %>%
+      plotly::add_lines() %>%
+      plotly::layout(
+        title = paste0(i, ": A.3.8.2 - Sand gravel and crushed rock"),
+        legend = list(
+          orientation = "v",
+          yanchor = "center",
+          y = 0.5
+          )
+        )
+        },
+      
+      htmltools::tags$br(),
+      
+      # table for Rmd output
+      if(nrow(plot_data_A.3) > 0) {
+        
+        DT::datatable(
+          plot_data_A.3 %>%
+            select(dataset, year, value) %>%
+            pivot_wider(
+              names_from = dataset,
+              values_from = value
+            ) %>%
+            arrange(desc(year)) %>%
+            mutate(diff_current_vs_aug = ifelse(
+              "ccc_current" %in% names(.) & "ccc_current_aug" %in% names(.),
+              ccc_current - ccc_current_aug,
+              NA)) %>%
+            mutate(across(where(is.logical), as.double)),
+          rownames = FALSE,
+          caption = paste0(i, ": Value of A.3.8.2 by dataset + difference of now vs August version")
+          )
+          },
+    
+      htmltools::tags$br(),
+      htmltools::tags$br()
+    )
+
+}
+
+
+htmltools::tagList(a3)
+
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+
+
+```
+
+<br> 

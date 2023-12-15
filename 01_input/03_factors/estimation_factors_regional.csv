@@ -1,0 +1,31 @@
+region;material_id;mineral_id;est_factor
+Africa;Me.Al;O.Al;0.6
+Africa;Me.Fe;O.Fe;0.5618
+Africa;Me.Mn;O.Mn;0.327091667
+Africa;Me.Ni;O.Ni;0.0135
+Africa;Nm.dig;O.dig;1.28E-07
+Africa;Nm.dii;O.dii;1.28E-07
+Asia + Pacific;Me.Al;O.Al;0.38575
+Asia + Pacific;Me.Cu;O.Cu;0.0052
+Asia + Pacific;Me.Fe;O.Fe;0.428888889
+Asia + Pacific;Nm.dig;O.dig;5.07E-07
+Asia + Pacific;Nm.dii;O.dii;5.07E-07
+EECCA;Me.Al;O.Al;0.38575
+EECCA;Me.Fe;O.Fe;0.428888889
+EECCA;Me.Mn;O.Mn;0.21
+EECCA;Me.Mo;O.Mo;8.12E-04
+EECCA;Me.Ni;O.Ni;0.0075
+Europe;Me.Ag;O.Ag;1.30E-04
+Europe;Me.Al;O.Al;0.353666667
+Europe;Me.Au;O.Au;8.53E-06
+Europe;Me.Cu;O.Cu;0.007019318
+Europe;Me.Fe;O.Fe;0.368266667
+Europe;Me.Mn;O.Mn;0.253066667
+Europe;Me.Ni;O.Ni;0.015271429
+Europe;Me.U;O.U;1.20E-04
+Europe;Me.UO;O.U;1.20E-04
+Latin America + Caribbean;Me.Al;O.Al;0.489
+Latin America + Caribbean;Me.Fe;O.Fe;0.535555555
+West Asia;Me.Al;O.Al;0.38575
+West Asia;Me.Cu;O.Cu;0.0052
+West Asia;Me.Fe;O.Fe;0.428888889

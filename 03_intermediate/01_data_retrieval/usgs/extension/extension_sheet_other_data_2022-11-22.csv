@@ -1,0 +1,1707 @@
+alphanumiso;country;material_id;material_name;unit_id;source_all;2016;2017;2018;2019;2020
+AFG004;Afghanistan;M.bar;Barite;t;bgs;500;500;500;500;500
+AFG004;Afghanistan;O.Cr;Chromium ore;t;bgs;4545;4500;4500;4500;4500
+AFG004;Afghanistan;M.flu;Fluorspar;t;bgs;4000;4000;4000;4000;4000
+AFG004;Afghanistan;M.gya;Gypsum and anhydrite;t;wmd;57000;40000;36161;24371;15049
+AFG004;Afghanistan;M.sal;Salt nec;t;wmd;56928;75579;47944;114245;
+AGO024;Angola;Nm.dig;Diamonds, gems;ct;wmd;8119320;8494920;8490500;8234770;6960850
+AGO024;Angola;Nm.dii;Diamonds, industrial;ct;wmd;902147;943880;943390;914975;773430
+AGO024;Angola;M.fue;Fuller's earth;t;bgs;98000;98000;98000;98000;98000
+AGO024;Angola;M.gya;Gypsum and anhydrite;t;wmd;0;32000;32000;32000;32000
+AGO024;Angola;M.sal;Salt nec;t;wmd;93000;101000;110000;109000;
+ALB008;Albania;O.Cr;Chromium ore;t;bgs;726671;808016;1142719;1288315;626627
+ALB008;Albania;Me.Cu;Copper;t;wmd;2020;0;3780;5900;3070
+ALB008;Albania;M.gya;Gypsum and anhydrite;t;bgs;131925;104120;102016;106070;111880
+ALB008;Albania;Me.Ni;Nickel;t;wmd;4400;5760;4050;2960;3760
+ALB008;Albania;M.sal;Salt nec;t;wmd;15500;25500;31500;30000;
+ARG032;Argentina;M.asb;Asbestos;t;wmd;0;26;0;0;0
+ARG032;Argentina;M.bar;Barite;t;wmd;12389;15553;7225;3898;0
+ARG032;Argentina;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;145723;121735;184969;113750;46288
+ARG032;Argentina;Me.Cd;Cadmium;t;wmd;91;96;74;80;46
+ARG032;Argentina;Me.Cu;Copper;t;wmd;81902;33303;17435;0;0
+ARG032;Argentina;M.fel;Feldspar;t;bgs;155217;88465;56500;56500;32000
+ARG032;Argentina;M.flu;Fluorspar;t;wmd;14222;13696;7924;1500;48000
+ARG032;Argentina;Me.Au;Gold;Kg;wmd;56967;60956;58397;53125;34936
+ARG032;Argentina;M.gra;Graphite, natural;t;wmd;0;0;0;0;
+ARG032;Argentina;M.gya;Gypsum and anhydrite;t;wmd;1558390;1275608;897217;761013;499092
+ARG032;Argentina;M.kao;Kaolin;t;wmd;26198;19940;17000;11853;20628
+ARG032;Argentina;Me.Pb;Lead;t;wmd;28016;40135;28260;42957;23008
+ARG032;Argentina;O.Li;Lithium ore;t;bgs;30877;31060;34712;34293;31747
+ARG032;Argentina;Me.Hg;Mercury;t;wmd;135;54;50;50;0
+ARG032;Argentina;M.mic;Mica;t;bgs;564;189;120;0;0
+ARG032;Argentina;Me.Mo;Molybdenum;t;wmd;479;651;364;0;0
+ARG032;Argentina;M.per;Perlite;t;bgs;17905;19924;18794;19000;19000
+ARG032;Argentina;M.sal;Salt nec;t;wmd;1812285;1929065;1784020;984700;
+ARG032;Argentina;Me.Ag;Silver;Kg;wmd;1055700;997961;1023768;1070670;767087
+ARG032;Argentina;O.Sr;Strontium mineral;t;bgs;5000;5000;700;700;670
+ARG032;Argentina;M.tal;Talc (steatite, soapstone, pyrophyllite);t;bgs;11262;8335;11728;11700;12000
+ARG032;Argentina;M.ver;Vermiculite;t;wmd;60;0;0;0;0
+ARG032;Argentina;Me.Zn;Zinc;t;wmd;22792;23392;22050;19462;11320
+ARM051;Armenia;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;13956;24712;0;0;0
+ARM051;Armenia;Me.Bi;Bismuth;t;wmd;1;1;0;0;0
+ARM051;Armenia;Me.Cu;Copper;t;wmd;95080;95793;68928;91214;83291
+ARM051;Armenia;Me.Au;Gold;Kg;wmd;3732;4670;4967;5825;5317
+ARM051;Armenia;M.gya;Gypsum and anhydrite;t;wmd;14831;14336;20387;22907;28508
+ARM051;Armenia;Me.Mo;Molybdenum;t;wmd;5771;5038;5422;7137;11909
+ARM051;Armenia;M.per;Perlite;t;wmd;44820;14036;51222;80676;104410
+ARM051;Armenia;Me.Re;Rhenium;Kg;wmd;280;260;280;310;260
+ARM051;Armenia;M.sal;Salt nec;t;wmd;68435;137236;155393;56685;
+ARM051;Armenia;Me.Se;Selenium;t;wmd;1;1;0;0;0
+ARM051;Armenia;Me.Ag;Silver;Kg;bgs;16000;18500;15000;20000;19500
+ARM051;Armenia;Me.Zn;Zinc;t;wmd;4960;6070;6946;7162;8684
+AUS036;Australia;Me.Sb;Antimony;t;wmd;4285;3131;2173;2032;3903
+AUS036;Australia;M.bar;Barite;t;wmd;7139;8958;6535;1982;0
+AUS036;Australia;O.Al;Bauxite;t;wmd;83517148;89420589;95947593;105543787;103626811
+AUS036;Australia;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;90917;116762;87330;56215;42713
+AUS036;Australia;Me.Co;Cobalt;t;wmd;5183;5034;4878;5741;5630
+AUS036;Australia;Me.Cu;Copper;t;wmd;947555;849121;910896;925157;879522
+AUS036;Australia;Nm.dig;Diamonds, gems;ct;wmd;279160;342690;280160;243090;199600
+AUS036;Australia;Nm.dii;Diamonds, industrial;ct;wmd;13678840;16792040;13727890;11911450;9780400
+AUS036;Australia;M.fel;Feldspar;t;wmd;31768;329;542;50;1241
+AUS036;Australia;O.Fe;Ferrous ore;t;bgs;858025634;885356738;907818648;917045579;918063223
+AUS036;Australia;M.fue;Fuller's earth;t;bgs;12200;11871;10000;8000;9000
+AUS036;Australia;Me.Au;Gold;Kg;wmd;290767;292022;313028;326304;327889
+AUS036;Australia;M.gya;Gypsum and anhydrite;t;wmd;3664700;3184480;4070814;3676467;3422265
+AUS036;Australia;O.FeTiO3;Ilmenite;t;bgs;765399;693763;569472;596288;634165
+AUS036;Australia;M.kao;Kaolin;t;wmd;222229;192150;173738;114050;154812
+AUS036;Australia;Me.Pb;Lead;t;wmd;441338;395190;446571;500985;494271
+AUS036;Australia;O.leu;Leucoxene;t;bgs;73380;57148;69183;46743;79058
+AUS036;Australia;O.Li;Lithium ore;t;bgs;522181;1706619;1965944;1616764;1479872
+AUS036;Australia;O.MgCO3;Magnesite;t;wmd;469455;210844;263446;413182;799203
+AUS036;Australia;O.Mn;Manganese ore;t;bgs;5327566;6172266;7212118;6649432;4752200
+AUS036;Australia;Me.Ni;Nickel;t;wmd;203135;185466;160022;158751;169344
+AUS036;Australia;Me.Pd;Palladium;Kg;wmd;610;610;430;390;420
+AUS036;Australia;M.per;Perlite;t;wmd;620;275;2285;1264;2185
+AUS036;Australia;O.P;Phosphate rock;t;bgs;1037265;942373;850987;720615;936043
+AUS036;Australia;Me.Pt;Platinum;Kg;wmd;152;155;110;95;100
+AUS036;Australia;O.TiO2;Rutile;t;bgs;284772;227462;209762;154507;156389
+AUS036;Australia;M.sal;Salt nec;t;wmd;10915520;12218780;13493556;12173391;
+AUS036;Australia;Me.Ag;Silver;Kg;wmd;1418219;1120175;1254480;1325089;1337344
+AUS036;Australia;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;111000;120000;130000;140000;110000
+AUS036;Australia;Me.Ta;Tantalum;t;wmd;8.189674850000001;16.379349700000002;32.758699400000005;65.51739880000001;40.94837425
+AUS036;Australia;Me.Sn;Tin;t;wmd;6635;7402;6871;7738;8118
+AUS036;Australia;Me.W;Tungsten;t;wmd;108;5;10;30;100
+AUS036;Australia;Me.U;Uranium;t;wmd;6234.50732208;5712.138373440001;6560.987914980001;6551.65989804;6167.515200420001
+AUS036;Australia;M.wol;Wollastonite;t;bgs;1797;1749;2007;0;2426
+AUS036;Australia;Me.Zn;Zinc;t;wmd;884826;852164;1146781;1337321;1314910
+AUS036;Australia;O.Zr;Zircon;t;wmd;600000;430850;522400;468900;380000
+AUS036;Australia;Me.reo;;t;wmd;27744;34528;37112;35273;19440
+AUT040;Austria;M.crs;Crushed stone;t;bgs;24862807;25963256;27684134;27674453;27471201
+AUT040;Austria;M.fel;Feldspar;t;wmd;35000;35000;35000;35000;35000
+AUT040;Austria;O.Fe;Ferrous ore;t;bgs;2777260;2981737;2803536;3242102;3043237
+AUT040;Austria;M.gra;Graphite, natural;t;bgs;23200;24400;25000;20000;16500
+AUT040;Austria;M.gya;Gypsum and anhydrite;t;wmd;674346;712469;836862;900217;900619
+AUT040;Austria;M.kao;Kaolin;t;wmd;13558;13500;13500;13500;13500
+AUT040;Austria;O.MgCO3;Magnesite;t;wmd;645593;730482;808239;691909;816370
+AUT040;Austria;M.sal;Salt nec;t;wmd;1034003;1156326;1176807;1212158;
+AUT040;Austria;M.sag;Sand and gravel;t;bgs;29957472;30926736;31617440;30712467;30010316
+AUT040;Austria;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;123040;123558;127866;124184;123000
+AUT040;Austria;Me.W;Tungsten;t;wmd;954;975;936;892;896
+AZE031;Azerbaijan;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;54545;235617;212300;222500;155100
+AZE031;Azerbaijan;Me.Cu;Copper;t;wmd;1947;2063;1650;2213;2591
+AZE031;Azerbaijan;O.Fe;Ferrous ore;t;bgs;25500;0;0;0;0
+AZE031;Azerbaijan;Me.Au;Gold;Kg;wmd;2034;3667;4239;3897;3635
+AZE031;Azerbaijan;M.gya;Gypsum and anhydrite;t;wmd;155800;85100;270471;314224;297594
+AZE031;Azerbaijan;M.iod;Iodine;Kg;bgs;207600;198400;185100;190300;182800
+AZE031;Azerbaijan;M.sal;Salt nec;t;wmd;63931;66968;66699;77116;
+AZE031;Azerbaijan;Me.Ag;Silver;Kg;wmd;5136;6949;8943;8160;7590
+BDI108;Burundi;Me.Au;Gold;Kg;wmd;396;953;598;573;863
+BDI108;Burundi;Me.Nb;Niobium;t;wmd;5.592353664;12.582795744;3.49522104;3.49522104;3.49522104
+BDI108;Burundi;Me.Ta;Tantalum;t;wmd;9.008642335000001;21.293154610000002;6.55173988;6.55173988;5.7327723950000005
+BDI108;Burundi;Me.Sn;Tin;t;wmd;51;123;122;143;121
+BDI108;Burundi;Me.Ti;Titanium;t;wmd;;;0;25711.810367100003;
+BDI108;Burundi;Me.W;Tungsten;t;wmd;77;144;108;150;166
+BDI108;Burundi;Me.reo;;t;wmd;;62;1262;263;296
+BEL056;Belgium;Me.As;Arsenic;t;wmd;1000;1000;1000;1000;1000
+BEL056;Belgium;M.crs;Crushed stone;t;bgs;46000000;46000000;45000000;45000000;45000000
+BEL056;Belgium;Me.In;Indium;t;wmd;20;20;20;20;20
+BEL056;Belgium;M.kao;Kaolin;t;bgs;300000;300000;300000;300000;300000
+BEL056;Belgium;M.sag;Sand and gravel;t;bgs;20000000;19000000;15500000;15500000;15500000
+BEL056;Belgium;Me.Se;Selenium;t;wmd;200;200;200;200;200
+BEN204;Benin;Me.Au;Gold;Kg;wmd;7;5;5;5;5
+BEN204;Benin;M.sal;Salt nec;t;wmd;500;500;500;500;
+BFA854;Burkina Faso;Me.Au;Gold;Kg;wmd;38530;46398;52622;50302;62138
+BFA854;Burkina Faso;M.kao;Kaolin;t;bgs;61;37;42;40;40
+BFA854;Burkina Faso;Me.Pb;Lead;t;wmd;0;0;0;0;
+BFA854;Burkina Faso;O.P;Phosphate rock;t;bgs;1000;1000;1321;1573;1600
+BFA854;Burkina Faso;Me.Ag;Silver;Kg;wmd;5670;5470;6160;5670;10012
+BFA854;Burkina Faso;Me.Zn;Zinc;t;wmd;80950;91530;99162;106680;78990
+BGD050;Bangladesh;M.sal;Salt nec;t;wmd;1620000;1660000;1490000;1224000;
+BGR100;Bulgaria;M.bar;Barite;t;wmd;50000;64000;70000;72000;41000
+BGR100;Bulgaria;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;37100;54100;45000;45000;40900
+BGR100;Bulgaria;Me.Cd;Cadmium;t;wmd;362;333;313;315;311
+BGR100;Bulgaria;Me.Cu;Copper;t;wmd;111870;110290;112850;114240;107610
+BGR100;Bulgaria;M.crs;Crushed stone;t;bgs;19379125;16444761;21468893;22769369;24611097
+BGR100;Bulgaria;M.flu;Fluorspar;t;wmd;4400;0;0;0;0
+BGR100;Bulgaria;Me.Au;Gold;Kg;wmd;7920;8670;8995;7467;9349
+BGR100;Bulgaria;M.gya;Gypsum and anhydrite;t;wmd;60900;88000;88000;88000;54800
+BGR100;Bulgaria;M.kao;Kaolin;t;wmd;338600;322800;323000;330000;276000
+BGR100;Bulgaria;Me.Pb;Lead;t;wmd;22040;22860;24200;23350;20680
+BGR100;Bulgaria;O.Mn;Manganese ore;t;bgs;41700;2000;0;0;0
+BGR100;Bulgaria;M.per;Perlite;t;bgs;0;4800;5000;5000;5000
+BGR100;Bulgaria;M.sal;Salt nec;t;wmd;3300000;3400000;3400000;3400000;
+BGR100;Bulgaria;M.sag;Sand and gravel;t;bgs;8571694;9860186;8610204;8189735;8500308
+BGR100;Bulgaria;Me.Ag;Silver;Kg;wmd;59606;59484;47016;40755;39126
+BGR100;Bulgaria;Me.Te;Tellurium;t;wmd;4;5;4;3;4
+BGR100;Bulgaria;M.ver;Vermiculite;t;bgs;10000;10000;10000;10000;10000
+BGR100;Bulgaria;Me.Zn;Zinc;t;wmd;18790;19250;20390;19170;17520
+BHS044;Bahamas;M.sal;Salt nec;t;wmd;308007;349710;854223;714387;
+BIH070;Bosnia and Herzegovina;O.Al;Bauxite;t;wmd;738609;740384;760244;1043343;619748
+BIH070;Bosnia and Herzegovina;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;102858;92344;87358;94601;69183
+BIH070;Bosnia and Herzegovina;O.Fe;Ferrous ore;t;bgs;1751800;1621907;1380488;1450205;1427410
+BIH070;Bosnia and Herzegovina;M.gya;Gypsum and anhydrite;t;wmd;61231;99001;122421;130788;140994
+BIH070;Bosnia and Herzegovina;M.kao;Kaolin;t;wmd;271502;252959;303626;118005;108174
+BIH070;Bosnia and Herzegovina;Me.Pb;Lead;t;wmd;6600;6740;7070;7470;6110
+BIH070;Bosnia and Herzegovina;O.MgCO3;Magnesite;t;wmd;7300;8500;5950;1400;652
+BIH070;Bosnia and Herzegovina;Me.Mn;Manganese;t;wmd;1000;0;0;0;0
+BIH070;Bosnia and Herzegovina;M.sal;Salt nec;t;wmd;966177;1029302;1063458;1069210;
+BIH070;Bosnia and Herzegovina;Me.Zn;Zinc;t;wmd;8840;9180;9350;9160;6610
+BLR112;Belarus;Me.K2O;Potassium oxide;t;wmd;6180100;7101800;7346096;7348293;7562153
+BLR112;Belarus;M.sal;Salt nec;t;wmd;2480000;2629000;2904097;2517590;
+BOL068;Bolivia;Me.Sb;Antimony;t;wmd;2669;2881;3110;2747;2629
+BOL068;Bolivia;Me.As;Arsenic;t;wmd;38;20;238;126;50
+BOL068;Bolivia;M.bar;Barite;t;wmd;16632;29114;53163;39458;9611
+BOL068;Bolivia;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;525;68;2;0;0
+BOL068;Bolivia;Me.Bi;Bismuth;t;wmd;57;8;39;0;55
+BOL068;Bolivia;M.bor;Borate minerals;t;wmd;182685;208388;216403;214269;
+BOL068;Bolivia;Me.Cu;Copper;t;wmd;8718;7219;5216;4478;2822
+BOL068;Bolivia;O.Fe;Ferrous ore;t;bgs;22;38330;71662;56500;26576
+BOL068;Bolivia;Me.Au;Gold;Kg;wmd;22545;28726;31599;42000;23207
+BOL068;Bolivia;M.gya;Gypsum and anhydrite;t;wmd;1182;473;1136;3905;14996
+BOL068;Bolivia;Me.Pb;Lead;t;wmd;89906;113286;112140;88002;64619
+BOL068;Bolivia;O.Li;Lithium ore;t;bgs;162;60;230;400;191
+BOL068;Bolivia;O.Mn;Manganese ore;t;bgs;0;0;550;17100;17000
+BOL068;Bolivia;Me.K2O;Potassium oxide;t;wmd;;;1700;17800;4400
+BOL068;Bolivia;M.sal;Salt nec;t;wmd;4534;3358;5373;4494;
+BOL068;Bolivia;Me.Ag;Silver;Kg;wmd;1356620;1222371;1191024;1153109;929909
+BOL068;Bolivia;Me.Ta;Tantalum;t;wmd;0;2.4569024550000003;14.74141473;8.189674850000001;6.55173988
+BOL068;Bolivia;Me.Sn;Tin;t;wmd;17460;18386;17251;17147;14709
+BOL068;Bolivia;Me.W;Tungsten;t;wmd;1109;1015;1366;1064;1347
+BOL068;Bolivia;Me.Zn;Zinc;t;wmd;486955;527206;519630;527521;358411
+BRA076;Brazil;M.asb;Asbestos;t;wmd;177800;129094;111439;12205;77057
+BRA076;Brazil;M.bar;Barite;t;wmd;12133;16275;9377;9223;1849
+BRA076;Brazil;O.Al;Bauxite;t;wmd;39244200;38072100;32377000;31937900;32897800
+BRA076;Brazil;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;448004;616929;500000;403763;217055
+BRA076;Brazil;Me.Cd;Cadmium;t;wmd;200;180;300;450;100
+BRA076;Brazil;O.Cr;Chromium ore;t;bgs;500000;542989;567300;511100;500000
+BRA076;Brazil;Me.Co;Cobalt;t;bgs;852;185;8;0;0
+BRA076;Brazil;Me.Cu;Copper;t;wmd;338921;384542;385762;363268;352635
+BRA076;Brazil;Nm.dig;Diamonds, gems;ct;wmd;60560;84115;82810;53240;43200
+BRA076;Brazil;Nm.dii;Diamonds, industrial;ct;wmd;122955;170780;168130;108085;87700
+BRA076;Brazil;M.fel;Feldspar;t;bgs;486684;400000;400000;400000;400000
+BRA076;Brazil;O.Fe;Ferrous ore;t;bgs;424200000;453703525;450393000;396841000;388000000
+BRA076;Brazil;M.flu;Fluorspar;t;bgs;18260;24000;26000;18000;18000
+BRA076;Brazil;Me.Au;Gold;Kg;wmd;94153;79717;85198;89988;98922
+BRA076;Brazil;M.gra;Graphite, natural;t;bgs;61687;90000;95000;96000;95000
+BRA076;Brazil;M.gya;Gypsum and anhydrite;t;bgs;3471328;3400000;3200000;3000000;3200000
+BRA076;Brazil;O.FeTiO3;Ilmenite;t;bgs;66500;50000;66000;70000;70000
+BRA076;Brazil;Me.In;Indium;t;wmd;5;5;0;0;0
+BRA076;Brazil;M.kao;Kaolin;t;bgs;1737000;1771000;1800000;1476802;1239591
+BRA076;Brazil;Me.Pb;Lead;t;wmd;9015;6959;7277;5715;5351
+BRA076;Brazil;O.Li;Lithium ore;t;bgs;8804;9000;9000;9000;9000
+BRA076;Brazil;O.MgCO3;Magnesite;t;bgs;1652424;2034000;1700000;1700000;1700000
+BRA076;Brazil;O.Mn;Manganese ore;t;bgs;2880718;3273029;3189000;3726000;2385000
+BRA076;Brazil;M.mic;Mica;t;bgs;10800;10100;11000;11000;11000
+BRA076;Brazil;Me.Mo;Molybdenum;t;bgs;200;200;200;200;200
+BRA076;Brazil;Me.Ni;Nickel;t;wmd;78626;68803;65254;55744;77133
+BRA076;Brazil;Me.Nb;Niobium;t;wmd;56391.197215152;58136.710602528;69592.647083232;88932.40414176;59818.610966976
+BRA076;Brazil;O.P;Phosphate rock;t;bgs;5850000;6033000;5740000;5300000;5500000
+BRA076;Brazil;Me.K2O;Potassium oxide;t;wmd;316429;306296;201181;269300;276600
+BRA076;Brazil;M.sal;Salt nec;t;bgs;7510314;7500000;7500000;7500000;7500000
+BRA076;Brazil;Me.Ag;Silver;Kg;bgs;48793;41900;49600;50000;50000
+BRA076;Brazil;M.tal;Talc (steatite, soapstone, pyrophyllite);t;bgs;657000;850000;660000;650000;650000
+BRA076;Brazil;Me.Ta;Tantalum;t;wmd;191.63839149;221.12122095;282.543782325;278.4489449;245.6902455
+BRA076;Brazil;Me.Sn;Tin;t;bgs;26000;18000;17100;17000;16893
+BRA076;Brazil;Me.W;Tungsten;t;bgs;323;411;400;400;400
+BRA076;Brazil;Me.U;Uranium;t;wmd;0;0;0;0;16.960030800000002
+BRA076;Brazil;Me.V;Vanadium;t;wmd;3665.726624656;3808.008801102;3675.809613538;3946.369815205;4247.178983518
+BRA076;Brazil;M.ver;Vermiculite;t;wmd;53330;50050;56708;47581;58821
+BRA076;Brazil;Me.Zn;Zinc;t;bgs;158200;156500;169800;163400;174500
+BRA076;Brazil;O.Zr;Zircon;t;bgs;21302;21000;20000;20000;20000
+BRA076;Brazil;Me.reo;;t;wmd;5800;3600;1900;1200;708
+BTN064;Bhutan;O.Fe;Ferrous ore;t;bgs;28065;32974;37843;36864;14734
+BTN064;Bhutan;M.gya;Gypsum and anhydrite;t;wmd;317597;328128;461128;490596;331050
+BTN064;Bhutan;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;2261;1293;2042;1375;972
+BWA072;Botswana;Me.Co;Cobalt;t;wmd;281;0;0;0;0
+BWA072;Botswana;Me.Cu;Copper;t;wmd;13120;1239;1462;0;0
+BWA072;Botswana;Nm.dig;Diamonds, gems;ct;wmd;14623700;16058700;17064600;16580900;11807600
+BWA072;Botswana;Nm.dii;Diamonds, industrial;ct;wmd;6267300;6882300;7313400;7106100;5060400
+BWA072;Botswana;Me.Au;Gold;Kg;wmd;833;913;1105;943;851
+BWA072;Botswana;Me.Ni;Nickel;t;wmd;16878;0;0;0;0
+BWA072;Botswana;Me.Pd;Palladium;Kg;wmd;0;0;0;0;
+BWA072;Botswana;Me.Pt;Platinum;Kg;wmd;0;0;0;0;
+BWA072;Botswana;M.sal;Salt nec;t;wmd;399837;369613;367988;383779;
+BWA072;Botswana;Me.Ag;Silver;Kg;wmd;0;0;0;0;
+BWA072;Botswana;M.soc;Sodium carbonate, natural;t;bgs;280457;226667;297237;269119;238476
+CAF140;Central African Republic;Nm.dig;Diamonds, gems;ct;wmd;9973;47840;10020;18880;40320
+CAF140;Central African Republic;Nm.dii;Diamonds, industrial;ct;wmd;2493;11960;2505;4720;10080
+CAF140;Central African Republic;Me.Au;Gold;Kg;wmd;33;118;142;359;401
+CAN124;Canada;Me.Sb;Antimony;t;wmd;0;1;5;2;2
+CAN124;Canada;M.bar;Barite;t;bgs;32000;32000;32000;30000;30000
+CAN124;Canada;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;468;0;0;0;
+CAN124;Canada;Me.Bi;Bismuth;t;wmd;3;4;5;4;4
+CAN124;Canada;Me.Cd;Cadmium;t;wmd;2305;1802;1857;1803;1800
+CAN124;Canada;Me.Co;Cobalt;t;wmd;7148;6058;5608;5132;3693
+CAN124;Canada;Me.Cu;Copper;t;wmd;695508;597194;548011;543609;475898
+CAN124;Canada;Nm.dig;Diamonds, gems;ct;wmd;13315319;23198761;22789001;17560210;15035711
+CAN124;Canada;O.Fe;Ferrous ore;t;bgs;48999000;51836000;52358000;59013000;60059572
+CAN124;Canada;M.flu;Fluorspar;t;wmd;;0;20000;80000;50000
+CAN124;Canada;Me.Au;Gold;Kg;wmd;163923;178568;194155;190542;182352
+CAN124;Canada;M.gra;Graphite, natural;t;bgs;16000;14000;11000;11000;8841
+CAN124;Canada;M.gya;Gypsum and anhydrite;t;wmd;1678573;3001390;3240451;2444963;2915270
+CAN124;Canada;O.FeTiO3;Ilmenite;t;bgs;1800000;2300000;2000000;2100000;1900000
+CAN124;Canada;Me.In;Indium;t;wmd;71;67;58;61;63
+CAN124;Canada;Me.Pb;Lead;t;bgs;12020;20477;17874;22824;4000
+CAN124;Canada;O.Li;Lithium ore;t;bgs;0;1100;140000;9000;0
+CAN124;Canada;O.MgCO3;Magnesite;t;wmd;150000;150000;150000;150000;150000
+CAN124;Canada;M.mic;Mica;t;bgs;22000;22000;21000;21000;15000
+CAN124;Canada;Me.Mo;Molybdenum;t;wmd;2783;4765;5048;4385;2671
+CAN124;Canada;O.nep;Nepheline syenite;t;bgs;475000;632000;549000;506000;506000
+CAN124;Canada;Me.Ni;Nickel;t;wmd;235034;214302;177867;193057;167243
+CAN124;Canada;Me.Nb;Niobium;t;wmd;4263.470624592;4880.027616048;5382.6404016;4753.5006144;4473.8829312
+CAN124;Canada;Me.Pd;Palladium;Kg;wmd;21200;19140;20880;23340;21430
+CAN124;Canada;Me.Pt;Platinum;Kg;wmd;9700;6850;7460;8340;8360
+CAN124;Canada;Me.K2O;Potassium oxide;t;wmd;10789662;12562695;14023931;12643318;13881665
+CAN124;Canada;Me.Rh;Rhodium;Kg;wmd;650;600;750;830;730
+CAN124;Canada;M.sal;Salt nec;t;wmd;10252161;11423624;10713206;11942282;
+CAN124;Canada;Me.Se;Selenium;t;wmd;175;72;85;102;102
+CAN124;Canada;Me.Ag;Silver;Kg;wmd;398509;392788;403589;357422;289871
+CAN124;Canada;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;199000;215000;279000;243000;153293
+CAN124;Canada;Me.Te;Tellurium;t;wmd;18;18;25;13;23
+CAN124;Canada;Me.W;Tungsten;t;wmd;0;0;0;0;
+CAN124;Canada;Me.U;Uranium;t;wmd;14132.793665640002;12206.13416676;6974.812666500001;6979.0526742;4084.8234181800003
+CAN124;Canada;Me.Zn;Zinc;t;wmd;321272;346776;304964;323000;210707
+CHE756;Switzerland;M.crs;Crushed stone;t;bgs;2324800;2194123;2410000;2270000;2390000
+CHE756;Switzerland;M.gya;Gypsum and anhydrite;t;wmd;340000;330000;330000;330000;330000
+CHE756;Switzerland;M.sal;Salt nec;t;wmd;447216;448509;530414;477325;
+CHE756;Switzerland;M.sag;Sand and gravel;t;bgs;36630000;35640000;35160000;35140000;34550000
+CHL152;Chile;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;1288;1584;525;395;170
+CHL152;Chile;M.bor;Borate minerals;t;wmd;558854;607076;398411;352255;
+CHL152;Chile;Me.Cu;Copper;t;wmd;5552600;5503500;5831600;5787400;5733100
+CHL152;Chile;M.fel;Feldspar;t;wmd;6352;4421;2789;55;329
+CHL152;Chile;O.Fe;Ferrous ore;t;bgs;14620000;15426000;14013000;13137000;15553000
+CHL152;Chile;Me.Au;Gold;Kg;wmd;46333;37911;37066;38455;33895
+CHL152;Chile;M.gya;Gypsum and anhydrite;t;wmd;934033;1157466;909191;977397;910310
+CHL152;Chile;M.iod;Iodine;Kg;bgs;18444000;17976000;20216000;20826000;21941000
+CHL152;Chile;M.kao;Kaolin;t;wmd;60000;60000;88262;34801;38789
+CHL152;Chile;Me.Pb;Lead;t;wmd;1110;1562;712;7;1386
+CHL152;Chile;O.Li;Lithium ore;t;bgs;78182;81378;97323;112607;124602
+CHL152;Chile;Me.Hg;Mercury;t;wmd;2;5;3;0;0
+CHL152;Chile;Me.Mo;Molybdenum;t;wmd;55647;62746;60705;54759;59381
+CHL152;Chile;M.per;Perlite;t;wmd;5500;4210;5020;4700;0
+CHL152;Chile;O.P;Phosphate rock;t;bgs;6205;4238;4154;3405;2091
+CHL152;Chile;Me.K2O;Potassium oxide;t;wmd;1303840;1238630;991180;683540;966680
+CHL152;Chile;Me.Re;Rhenium;Kg;wmd;22542;20451;26052;24003;14549
+CHL152;Chile;M.sal;Salt nec;t;wmd;8139914;7440741;10012105;10476823;
+CHL152;Chile;Me.Ag;Silver;Kg;wmd;1501436;1318582;1370237;1309321;1575794
+CHL152;Chile;Me.Zn;Zinc;t;wmd;42870;29008;26810;5620;28662
+CHN156;China;Me.Sb;Antimony;t;wmd;103620;97683;70396;68422;60995
+CHN156;China;Me.As;Arsenic;t;wmd;25000;25000;24000;24000;24000
+CHN156;China;M.asb;Asbestos;t;bgs;191632;124723;125000;150000;100000
+CHN156;China;M.bar;Barite;t;wmd;2771100;3100000;2900000;2900000;2500000
+CHN156;China;O.Al;Bauxite;t;wmd;66157700;68390000;70751000;75000000;70000000
+CHN156;China;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;5600000;5600000;5600000;5600000;5600000
+CHN156;China;O.Be;Beryl;t;bgs;1200;1200;1200;1800;1800
+CHN156;China;Me.Bi;Bismuth;t;bgs;1672;1748;1804;1650;1650
+CHN156;China;M.bro;Bromine;Kg;bgs;57600000;60000000;60000000;64000000;63000000
+CHN156;China;Me.Cd;Cadmium;t;bgs;8222;8411;10349;10300;10300
+CHN156;China;O.Cr;Chromium ore;t;bgs;25444;30000;30000;30000;30000
+CHN156;China;Me.Co;Cobalt;t;bgs;9293;10237;2241;2000;2500
+CHN156;China;Me.Cu;Copper;t;wmd;1851000;1706400;1618480;1683450;1718940
+CHN156;China;Nm.dig;Diamonds, gems;ct;wmd;127;230;99;51;21
+CHN156;China;M.fel;Feldspar;t;wmd;2400000;2500000;2500000;2450000;2450000
+CHN156;China;O.Fe;Ferrous ore;t;bgs;1280893000;1229373000;763374000;844356000;845000000
+CHN156;China;M.flu;Fluorspar;t;wmd;3800000;3800000;3500000;4000000;4300000
+CHN156;China;Me.Ga;Gallium;t;wmd;171;290;305;356;290
+CHN156;China;Me.Ge;Germanium;t;wmd;110;87;95;85;86
+CHN156;China;Me.Au;Gold;Kg;wmd;453500;426142;401119;380230;365340
+CHN156;China;M.gra;Graphite, natural;t;wmd;780000;625000;630000;700000;665000
+CHN156;China;M.gya;Gypsum and anhydrite;t;wmd;25400000;25000000;25000000;25000000;25000000
+CHN156;China;O.FeTiO3;Ilmenite;t;bgs;3800000;3830000;4200000;4200000;4200000
+CHN156;China;Me.In;Indium;t;wmd;357;355;395;490;528
+CHN156;China;M.iod;Iodine;Kg;bgs;600000;600000;600000;600000;600000
+CHN156;China;M.kao;Kaolin;t;wmd;7240000;6910000;6650000;6400000;6500000
+CHN156;China;Me.Pb;Lead;t;wmd;2227500;2080000;2033000;2097000;1969000
+CHN156;China;O.Li;Lithium ore;t;bgs;4800;7000;7100;10800;14000
+CHN156;China;O.MgCO3;Magnesite;t;wmd;16840000;18500000;19000000;19000000;19000000
+CHN156;China;O.Mn;Manganese ore;t;bgs;15484000;11333000;7977000;6650000;6500000
+CHN156;China;Me.Hg;Mercury;t;wmd;3433;1949;2303;2046;1993
+CHN156;China;M.mic;Mica;t;bgs;95000;100000;100000;100000;95000
+CHN156;China;Me.Mo;Molybdenum;t;wmd;112590;117090;98420;104670;95970
+CHN156;China;Me.Ni;Nickel;t;bgs;100219;102300;108200;104674;105000
+CHN156;China;Me.Nb;Niobium;t;wmd;20.97132624;20.97132624;13.98088416;13.98088416;20.97132624
+CHN156;China;Me.Pd;Palladium;Kg;bgs;1400;1400;1300;1300;1300
+CHN156;China;M.per;Perlite;t;bgs;1930000;1219000;1300000;1300000;1300000
+CHN156;China;O.P;Phosphate rock;t;bgs;144398000;123132000;96326000;93324000;93000000
+CHN156;China;Me.Pt;Platinum;Kg;bgs;2900;2500;2500;2500;2500
+CHN156;China;Me.K2O;Potassium oxide;t;wmd;5783000;5534000;5452000;5902000;5530000
+CHN156;China;Me.Re;Rhenium;Kg;wmd;2400;2500;2500;2500;2500
+CHN156;China;M.sal;Salt nec;t;wmd;66201000;66541700;63636100;62708000;
+CHN156;China;Me.Se;Selenium;t;wmd;772;720;930;1250;1120
+CHN156;China;Me.Ag;Silver;Kg;wmd;3754200;3601800;3421400;3443200;3377800
+CHN156;China;O.Sr;Strontium mineral;t;bgs;65300;53700;50000;50000;50000
+CHN156;China;M.tal;Talc (steatite, soapstone, pyrophyllite);t;bgs;1642000;1276000;1400000;1400000;1300000
+CHN156;China;Me.Ta;Tantalum;t;wmd;98.2760982;90.08642335;81.8967485;110.560610475;147.4141473
+CHN156;China;Me.Te;Tellurium;t;wmd;279;470;480;380;260
+CHN156;China;Me.Sn;Tin;t;bgs;97165;95549;94838;85840;94463
+CHN156;China;Me.W;Tungsten;t;wmd;72000;71800;68000;74950;71450
+CHN156;China;Me.U;Uranium;t;wmd;1616.2909352400002;1885.10742342;1885.10742342;1885.10742342;1885.10742342
+CHN156;China;Me.V;Vanadium;t;bgs;45900;45400;40000;54000;53000
+CHN156;China;M.ver;Vermiculite;t;wmd;50000;50000;50000;50000;50000
+CHN156;China;M.wol;Wollastonite;t;bgs;880000;840000;890000;890000;890000
+CHN156;China;Me.Zn;Zinc;t;wmd;4635000;3868500;3721000;4213000;4058000
+CHN156;China;O.Zr;Zircon;t;wmd;100000;116000;150000;140000;140000
+CHN156;China;Me.reo;;t;wmd;210000;210000;240000;264000;140000
+CIV384;Cote d'Ivoire;O.Al;Bauxite;t;bgs;0;0;0;0;272300
+CIV384;Cote d'Ivoire;Nm.dig;Diamonds, gems;ct;wmd;16188;8925;4540;3989;4012
+CIV384;Cote d'Ivoire;Nm.dii;Diamonds, industrial;ct;wmd;4047;2231;1140;0;0
+CIV384;Cote d'Ivoire;Me.Au;Gold;Kg;wmd;25055;25396;24488;32568;38523
+CIV384;Cote d'Ivoire;O.Mn;Manganese ore;t;bgs;200278;474879;930959;1175000;1280000
+CIV384;Cote d'Ivoire;Me.Ni;Nickel;t;bgs;0;400;12300;9100;18600
+CIV384;Cote d'Ivoire;Me.Ag;Silver;Kg;wmd;549;493;510;300;0
+CMR120;Cameroon;Nm.dii;Diamonds, industrial;ct;wmd;994;1757;1805;1737;2438
+CMR120;Cameroon;Me.Au;Gold;Kg;wmd;542;713;448;341;400
+COD180;DR Congo;Me.Co;Cobalt;t;wmd;69038;82461;111713;78664;86591
+COD180;DR Congo;Me.Cu;Copper;t;wmd;1023687;1094638;1239059;1461124;1712964
+COD180;DR Congo;Nm.dig;Diamonds, gems;ct;wmd;3111890;2268332;1815745;2020450;2588850
+COD180;DR Congo;Nm.dii;Diamonds, industrial;ct;wmd;12447557;16634432;13315465;11449240;10355400
+COD180;DR Congo;Me.Au;Gold;Kg;wmd;30664;31586;36777;33752;29597
+COD180;DR Congo;Me.Pb;Lead;t;wmd;101;0;0;0;0
+COD180;DR Congo;O.Mn;Manganese ore;t;bgs;0;0;14884;4935;5000
+COD180;DR Congo;Me.Nb;Niobium;t;wmd;557.138233776;501.214697136;424.319834256;302.686142064;394.95997752
+COD180;DR Congo;Me.Ag;Silver;Kg;wmd;835;3376;3400;3400;3400
+COD180;DR Congo;Me.Ta;Tantalum;t;wmd;692.027524825;623.2342560850001;527.4150603400001;376.72504310000005;491.380491
+COD180;DR Congo;Me.Sn;Tin;t;wmd;6503;10391;8950;10990;14670
+COD180;DR Congo;Me.W;Tungsten;t;wmd;79;130;160;260;116
+COD180;DR Congo;Me.Zn;Zinc;t;wmd;12587;12337;1047;1607;15305
+COG178;Rep Congo;Me.Cu;Copper;t;wmd;0;15979;18018;18760;10300
+COG178;Rep Congo;Nm.dii;Diamonds, industrial;ct;wmd;12110;46758;46768;2963;11157
+COG178;Rep Congo;Me.Au;Gold;Kg;wmd;100;100;150;150;150
+COG178;Rep Congo;Me.Zn;Zinc;t;bgs;1;4;1;5;1
+COL170;Colombia;M.asb;Asbestos;t;bgs;10465;4423;3550;0;0
+COL170;Colombia;M.bar;Barite;t;wmd;3068;2028;3211;2270;2046
+COL170;Colombia;O.Al;Bauxite;t;wmd;693;2400;13666;18033;9595
+COL170;Colombia;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;120372;103217;166778;145643;179893
+COL170;Colombia;Me.Cu;Copper;t;wmd;8493;9356;9918;7641;9356
+COL170;Colombia;M.fel;Feldspar;t;wmd;151759;150334;141794;179856;134846
+COL170;Colombia;O.Fe;Ferrous ore;t;bgs;715881;712868;575542;666624;588129
+COL170;Colombia;M.flu;Fluorspar;t;wmd;75;57;46;0;0
+COL170;Colombia;Me.Au;Gold;Kg;wmd;63157;43158;35965;38006;48561
+COL170;Colombia;M.gra;Graphite, natural;t;wmd;;;0;135;0
+COL170;Colombia;M.gya;Gypsum and anhydrite;t;wmd;471306;406624;396338;294137;284222
+COL170;Colombia;M.kao;Kaolin;t;bgs;109252;164077;70799;96051;10304
+COL170;Colombia;O.MgCO3;Magnesite;t;wmd;1175;1913;1039;1847;1077
+COL170;Colombia;O.Mn;Manganese ore;t;bgs;0;0;470;864;0
+COL170;Colombia;M.mic;Mica;t;bgs;247;159;239;252;0
+COL170;Colombia;Me.Ni;Nickel;t;wmd;37092;40606;43056;40571;36094
+COL170;Colombia;O.P;Phosphate rock;t;bgs;84179;63483;52945;78282;21997
+COL170;Colombia;Me.Pt;Platinum;Kg;wmd;917;567;270;178;414
+COL170;Colombia;M.sal;Salt nec;t;wmd;564194;501499;391222;347183;
+COL170;Colombia;Me.Ag;Silver;Kg;wmd;11866;12076;16691;14479;19948
+COL170;Colombia;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;103;2374;2062;1708;717
+COL170;Colombia;Me.Sn;Tin;t;bgs;0;0;0;22;10
+COL170;Colombia;Me.W;Tungsten;t;wmd;2;0;0;0;0
+CPV132;Cape Verde;M.sal;Salt nec;t;wmd;1000;1000;1000;1000;
+CRI188;Costa Rica;Me.Au;Gold;Kg;wmd;750;4255;3699;4500;600
+CUB192;Cuba;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;389;589;630;504;486
+CUB192;Cuba;Me.Cr;Chromium;t;wmd;8210.429124;9852.5149488;7184.1254835;18473.465529;9578.833978
+CUB192;Cuba;Me.Co;Cobalt;t;wmd;5514;5407;5000;4200;4200
+CUB192;Cuba;M.fel;Feldspar;t;wmd;5790;8715;3000;2100;14100
+CUB192;Cuba;M.gya;Gypsum and anhydrite;t;wmd;73900;85400;99900;66330;62300
+CUB192;Cuba;M.kao;Kaolin;t;wmd;2500;1500;2700;2100;2000
+CUB192;Cuba;Me.Pb;Lead;t;wmd;0;1500;25380;36000;30000
+CUB192;Cuba;O.MgCO3;Magnesite;t;wmd;2325;0;0;1532;3910
+CUB192;Cuba;Me.Ni;Nickel;t;bgs;47800;49300;49000;45500;50000
+CUB192;Cuba;O.P;Phosphate rock;t;bgs;0;0;0;0;1600
+CUB192;Cuba;M.sal;Salt nec;t;wmd;248000;246300;192700;210400;
+CUB192;Cuba;Me.Zn;Zinc;t;wmd;0;2900;42250;57830;57730
+CXR162;Christmas Island;O.P;Phosphate rock;t;bgs;770000;644000;643000;486000;387000
+CYP196;Cyprus;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;117184;95593;98800;83113;92645
+CYP196;Cyprus;Me.Cu;Copper;t;wmd;1754;1293;908;703;0
+CYP196;Cyprus;M.crs;Crushed stone;t;bgs;5482913;7034430;7978133;8422664;7905100
+CYP196;Cyprus;Me.Au;Gold;Kg;bgs;0;48;47;33;61
+CYP196;Cyprus;M.gya;Gypsum and anhydrite;t;wmd;682024;647108;625721;623545;646340
+CYP196;Cyprus;Me.Ag;Silver;Kg;bgs;0;99;180;97;486
+CZE203;Czech Republic;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;374000;254000;277000;357000;226000
+CZE203;Czech Republic;M.crs;Crushed stone;t;bgs;37793000;38262000;41648000;42225000;42915000
+CZE203;Czech Republic;M.dia;Diatomite;t;wmd;26000;34000;31000;43000;46000
+CZE203;Czech Republic;M.fel;Feldspar;t;wmd;454000;368000;449000;460000;419000
+CZE203;Czech Republic;M.gya;Gypsum and anhydrite;t;wmd;10000;7000;8000;10000;17000
+CZE203;Czech Republic;M.kao;Kaolin;t;wmd;3540000;3669000;3622000;3446000;3069000
+CZE203;Czech Republic;M.sag;Sand and gravel;t;bgs;18338000;19848000;20473000;19982000;20335000
+CZE203;Czech Republic;Me.U;Uranium;t;wmd;128.04823254000001;55.96810164;33.920061600000004;33.072060060000005;24.592044660000003
+DEU276;Germany;M.bar;Barite;t;wmd;49373;34177;37897;30474;26656
+DEU276;Germany;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;393000;416000;379000;366000;333000
+DEU276;Germany;M.bro;Bromine;Kg;bgs;1500000;1500000;1500000;1500000;1500000
+DEU276;Germany;Me.Cd;Cadmium;t;wmd;652;730;520;620;500
+DEU276;Germany;Me.Cu;Copper;t;wmd;41;63;51;40;37
+DEU276;Germany;M.crs;Crushed stone;t;bgs;218000000;220000000;226000000;217000000;223000000
+DEU276;Germany;M.fel;Feldspar;t;bgs;284569;276747;252693;235289;213899
+DEU276;Germany;O.Fe;Ferrous ore;t;bgs;514004;447300;448000;533700;529400
+DEU276;Germany;M.flu;Fluorspar;t;wmd;52552;45375;49197;79959;64933
+DEU276;Germany;Me.Ga;Gallium;t;wmd;4;0;0;0;0
+DEU276;Germany;Me.Au;Gold;Kg;bgs;0;0;0;10;10
+DEU276;Germany;M.gra;Graphite, natural;t;wmd;502;422;222;207;108
+DEU276;Germany;M.gya;Gypsum and anhydrite;t;wmd;3970000;4450000;4550000;4850000;5200000
+DEU276;Germany;Me.In;Indium;t;wmd;10;10;0;0;0
+DEU276;Germany;M.kao;Kaolin;t;wmd;4740000;5168000;4930000;4760000;4969000
+DEU276;Germany;Me.K2O;Potassium oxide;t;wmd;2750841;2963561;2754085;2615284;2874026
+DEU276;Germany;M.sal;Salt nec;t;wmd;14441510;15535669;16229929;16627893;
+DEU276;Germany;M.sag;Sand and gravel;t;bgs;247000000;257000000;259000000;259000000;262000000
+DEU276;Germany;Me.Se;Selenium;t;wmd;700;300;300;300;300
+DEU276;Germany;Me.Ag;Silver;Kg;wmd;4000;6000;5000;4000;4000
+DEU276;Germany;Me.U;Uranium;t;wmd;44.944081620000006;33.920061600000004;0;23.74404312;6.78401232
+DNK208;Denmark;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;66278;69594;56173;48197;40054
+DNK208;Denmark;M.crs;Crushed stone;t;bgs;232000;283000;537000;233000;175000
+DNK208;Denmark;M.sal;Salt nec;t;wmd;600000;600000;600000;600000;
+DNK208;Denmark;M.sag;Sand and gravel;t;bgs;47058000;49323000;48950000;47803000;51558000
+DOM214;Dominican Republic;O.Al;Bauxite;t;wmd;7318;0;0;0;9475
+DOM214;Dominican Republic;Me.Cu;Copper;t;wmd;9725;9618;8588;6047;2193
+DOM214;Dominican Republic;M.fel;Feldspar;t;wmd;5200;5000;1200;1000;0
+DOM214;Dominican Republic;Me.Au;Gold;Kg;wmd;37933;35243;31633;31801;28154
+DOM214;Dominican Republic;M.gya;Gypsum and anhydrite;t;wmd;284170;217570;190660;316630;304920
+DOM214;Dominican Republic;Me.Ni;Nickel;t;wmd;9913;15632;19214;28450;22005
+DOM214;Dominican Republic;M.sal;Salt nec;t;wmd;0;0;23860;24000;
+DOM214;Dominican Republic;Me.Ag;Silver;Kg;wmd;121749;151828;166510;108685;87889
+DOM214;Dominican Republic;Me.Zn;Zinc;t;wmd;3636;3920;4038;5527;2361
+DZA012;Algeria;M.bar;Barite;t;wmd;39980;29159;39426;31138;32940
+DZA012;Algeria;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;37100;35600;36000;36700;34200
+DZA012;Algeria;M.fel;Feldspar;t;bgs;168400;170000;170000;170000;170000
+DZA012;Algeria;O.Fe;Ferrous ore;t;bgs;826000;830000;830000;830000;830000
+DZA012;Algeria;Me.Au;Gold;Kg;wmd;102;137;286;70;58
+DZA012;Algeria;M.gya;Gypsum and anhydrite;t;bgs;2130000;2200000;2500000;2500000;2500000
+DZA012;Algeria;M.kao;Kaolin;t;bgs;96000;100000;100000;100000;100000
+DZA012;Algeria;O.P;Phosphate rock;t;bgs;1274000;1112000;1204100;1338400;1300000
+DZA012;Algeria;M.sal;Salt nec;t;bgs;157400;160000;160000;160000;160000
+DZA012;Algeria;Me.Ag;Silver;Kg;wmd;20;25;30;30;20
+DZA012;Algeria;Me.Zn;Zinc;t;wmd;330;350;500;500;1000
+ECU218;Ecuador;Me.Sb;Antimony;t;wmd;15;260;0;0;0
+ECU218;Ecuador;M.bar;Barite;t;wmd;;0;2868;2000;2000
+ECU218;Ecuador;Me.Cu;Copper;t;wmd;40200;8200;42200;9900;49700
+ECU218;Ecuador;M.fel;Feldspar;t;wmd;148506;92871;43197;45000;0
+ECU218;Ecuador;Me.Au;Gold;Kg;wmd;6761;6368;8213;6293;9086
+ECU218;Ecuador;M.kao;Kaolin;t;wmd;4110;548;0;0;0
+ECU218;Ecuador;Me.Ag;Silver;Kg;wmd;934;68;192;2892;1792
+EGY818;Egypt;M.bar;Barite;t;bgs;4000;4000;4000;4000;4000
+EGY818;Egypt;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;3600;4600;10000;7000;7000
+EGY818;Egypt;M.fel;Feldspar;t;wmd;230000;230000;230000;230000;200000
+EGY818;Egypt;O.Fe;Ferrous ore;t;bgs;565229;556934;560000;560000;560000
+EGY818;Egypt;M.flu;Fluorspar;t;bgs;1000;1000;1000;1000;1000
+EGY818;Egypt;Me.Au;Gold;Kg;wmd;17139;16941;14694;14946;14069
+EGY818;Egypt;M.gya;Gypsum and anhydrite;t;bgs;686610;835614;800000;800000;850000
+EGY818;Egypt;M.kao;Kaolin;t;bgs;232000;232000;230000;230000;220000
+EGY818;Egypt;O.Mn;Manganese ore;t;bgs;0;124794;120000;120000;100000
+EGY818;Egypt;O.P;Phosphate rock;t;bgs;3523785;3071011;3000000;2700000;2100000
+EGY818;Egypt;M.sal;Salt nec;t;wmd;1402000;807000;1000000;1000000;
+EGY818;Egypt;M.tal;Talc (steatite, soapstone, pyrophyllite);t;bgs;21672;15000;15000;15000;15000
+ERI232;Eritrea;Me.Cu;Copper;t;wmd;25300;7900;17300;16008;21725
+ERI232;Eritrea;Me.Au;Gold;Kg;wmd;333;2633;3768;2443;3019
+ERI232;Eritrea;M.gya;Gypsum and anhydrite;t;wmd;13000;12000;18000;18000;18000
+ERI232;Eritrea;M.kao;Kaolin;t;wmd;200;200;200;0;0
+ERI232;Eritrea;M.sal;Salt nec;t;wmd;310000;310000;310000;310000;
+ERI232;Eritrea;Me.Ag;Silver;Kg;wmd;13219;1192;31000;44836;65284
+ERI232;Eritrea;Me.Zn;Zinc;t;wmd;40900;95400;125000;121260;121930
+ESP724;Spain;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;702546;719067;904542;786273;783808
+ESP724;Spain;Me.Cu;Copper;t;bgs;167736;198353;187714;170556;179814
+ESP724;Spain;M.crs;Crushed stone;t;bgs;100000000;68000000;70000000;79000000;75000000
+ESP724;Spain;M.fel;Feldspar;t;bgs;634519;819218;616229;855139;750000
+ESP724;Spain;M.flu;Fluorspar;t;bgs;162989;154931;176188;145185;185958
+ESP724;Spain;Me.Au;Gold;Kg;bgs;1291;1605;1991;1913;1602
+ESP724;Spain;M.gya;Gypsum and anhydrite;t;bgs;8936364;9545228;10593056;11279443;13142429
+ESP724;Spain;M.kao;Kaolin;t;bgs;347258;475074;474462;267602;210808
+ESP724;Spain;Me.Pb;Lead;t;bgs;4946;3258;9936;11390;11396
+ESP724;Spain;O.MgCO3;Magnesite;t;bgs;583698;788991;738994;634580;626055
+ESP724;Spain;M.mic;Mica;t;bgs;5521;6333;6932;7769;5000
+ESP724;Spain;Me.Ni;Nickel;t;wmd;0;0;0;0;
+ESP724;Spain;Me.K2O;Potassium oxide;t;bgs;667224;557469;603812;519644;351918
+ESP724;Spain;M.sal;Salt nec;t;bgs;4552856;4135626;4512243;4330514;3586829
+ESP724;Spain;M.sag;Sand and gravel;t;bgs;31000000;37000000;42600000;43000000;42000000
+ESP724;Spain;Me.Ag;Silver;Kg;bgs;17600;98600;87780;77501;92751
+ESP724;Spain;O.Sr;Strontium mineral;t;bgs;85599;99663;90506;162327;121920
+ESP724;Spain;M.tal;Talc (steatite, soapstone, pyrophyllite);t;bgs;0;11500;15500;13100;2920
+ESP724;Spain;Me.Ta;Tantalum;t;bgs;0;0;0;15;13
+ESP724;Spain;Me.Sn;Tin;t;bgs;7;23;81;101;96
+ESP724;Spain;Me.W;Tungsten;t;bgs;699;564;856;414;184
+ESP724;Spain;M.wol;Wollastonite;t;bgs;13553;19135;12235;7165;17412
+ESP724;Spain;Me.Zn;Zinc;t;bgs;76342;70451;106352;90980;90368
+EST233;Estonia;M.crs;Crushed stone;t;bgs;6224000;7704100;6148300;5771800;10923300
+EST233;Estonia;M.sag;Sand and gravel;t;bgs;7269100;6733400;6467500;6438700;3962700
+ETH231;Ethiopia;Me.Cr;Chromium;t;wmd;;0;5473.6194160000005;342.10121350000003;136.8404854
+ETH231;Ethiopia;M.fel;Feldspar;t;bgs;600;600;600;600;600
+ETH231;Ethiopia;Me.Au;Gold;Kg;wmd;8573;5390;3495;2800;7500
+ETH231;Ethiopia;M.gya;Gypsum and anhydrite;t;bgs;89520;74299;52503;53897;53900
+ETH231;Ethiopia;M.kao;Kaolin;t;wmd;4600;5000;10000;1000;1000
+ETH231;Ethiopia;Me.Nb;Niobium;t;wmd;19.573237824;17.4761052;19.573237824;9.786618912;7.689486288
+ETH231;Ethiopia;Me.Pt;Platinum;Kg;bgs;5;4;4;2;2
+ETH231;Ethiopia;M.sal;Salt nec;t;wmd;54534;60654;122850;125000;
+ETH231;Ethiopia;Me.Ag;Silver;Kg;wmd;880;750;1000;800;1000
+ETH231;Ethiopia;M.soc;Sodium carbonate, natural;t;bgs;4177;6785;18105;18000;18000
+ETH231;Ethiopia;Me.Ta;Tantalum;t;wmd;82.715715985;73.70707365;85.17261844000001;40.94837425;33.577666885
+FIN246;Finland;O.Cr;Chromium ore;t;bgs;1070281;972028;1099438;1183862;1131336
+FIN246;Finland;Me.Co;Cobalt;t;wmd;2260;2300;1377;1454;1559
+FIN246;Finland;Me.Cu;Copper;t;wmd;47488;53144;46755;32861;36278
+FIN246;Finland;M.crs;Crushed stone;t;bgs;43000000;48700000;51100000;51000000;50000000
+FIN246;Finland;M.fel;Feldspar;t;wmd;18549;14926;17469;17997;16137
+FIN246;Finland;Me.Ge;Germanium;t;wmd;0;0;0;0;
+FIN246;Finland;Me.Au;Gold;Kg;wmd;8865;9102;8732;7927;8668
+FIN246;Finland;Me.Pb;Lead;t;bgs;0;0;0;937;1530
+FIN246;Finland;O.MgCO3;Magnesite;t;wmd;54227;63850;49601;37002;136167
+FIN246;Finland;M.mic;Mica;t;bgs;10843;10740;12122;9440;7247
+FIN246;Finland;Me.Ni;Nickel;t;wmd;20654;34641;43572;38530;41429
+FIN246;Finland;Me.Pd;Palladium;Kg;wmd;901;1021;1157;699;858
+FIN246;Finland;O.P;Phosphate rock;t;bgs;939531;978613;989073;994572;995066
+FIN246;Finland;Me.Pt;Platinum;Kg;wmd;1178;1418;1576;953;1277
+FIN246;Finland;M.sag;Sand and gravel;t;bgs;35000000;28200000;24500000;23800000;23000000
+FIN246;Finland;Me.Se;Selenium;t;wmd;104;100;109;115;84
+FIN246;Finland;Me.Ag;Silver;Kg;wmd;16348;13654;12849;40461;54833
+FIN246;Finland;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;345739;354819;374398;329891;278331
+FIN246;Finland;M.wol;Wollastonite;t;bgs;10000;10000;10000;11000;11000
+FIN246;Finland;Me.Zn;Zinc;t;wmd;45852;66284;85067;69800;61213
+FJI242;Fiji Islands;O.Al;Bauxite;t;wmd;58050;118540;57960;0;0
+FJI242;Fiji Islands;Me.Au;Gold;Kg;wmd;1500;1425;1281;1106;1045
+FJI242;Fiji Islands;Me.Ag;Silver;Kg;wmd;354;350;413;692;518
+FRA250;France;O.Al;Bauxite;t;wmd;92116;139055;110000;110000;124000
+FRA250;France;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;42567;24497;35696;82720;50000
+FRA250;France;M.crs;Crushed stone;t;bgs;183960000;187233000;195998000;198951000;199000000
+FRA250;France;M.fel;Feldspar;t;wmd;550000;550000;550000;500000;500000
+FRA250;France;M.fic;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite;t;bgs;58000;68000;65000;68000;65000
+FRA250;France;M.gya;Gypsum and anhydrite;t;wmd;4182614;3014296;5314983;3259935;1894245
+FRA250;France;Me.In;Indium;t;bgs;0;30;43;40;40
+FRA250;France;M.kao;Kaolin;t;wmd;263993;279120;301842;392389;243213
+FRA250;France;M.mic;Mica;t;bgs;19600;19200;15000;19000;19000
+FRA250;France;M.sal;Salt nec;t;wmd;4266248;4739491;4689054;5877000;
+FRA250;France;M.sag;Sand and gravel;t;bgs;120382000;123865000;126365000;126717000;126700000
+FRA250;France;M.tal;Talc (steatite, soapstone, pyrophyllite);t;bgs;370000;370000;350000;350000;320000
+FRA250;France;Me.U;Uranium;t;wmd;0;0;0;0;
+GAB266;Gabon;Me.Au;Gold;Kg;wmd;1020;620;83;107;55
+GAB266;Gabon;O.Mn;Manganese ore;t;bgs;3423247;5079000;6542000;7186000;8147000
+GBR826;United Kingdom;M.bar;Barite;t;wmd;56000;55000;55000;50000;50000
+GBR826;United Kingdom;M.crs;Crushed stone;t;bgs;125301000;125739000;129998000;129600000;225011000
+GBR826;United Kingdom;M.flu;Fluorspar;t;wmd;12000;11000;11000;12000;12000
+GBR826;United Kingdom;Me.Au;Gold;Kg;bgs;6;0;0;50;28
+GBR826;United Kingdom;M.gya;Gypsum and anhydrite;t;wmd;1600000;1300000;1400000;1600000;1600000
+GBR826;United Kingdom;M.kao;Kaolin;t;wmd;940000;970000;996000;715000;720000
+GBR826;United Kingdom;Me.Pb;Lead;t;wmd;100;100;100;150;100
+GBR826;United Kingdom;Me.K2O;Potassium oxide;t;bgs;632000;716000;610000;635000;709000
+GBR826;United Kingdom;M.sal;Salt nec;t;wmd;4700000;4700000;4700000;4700000;
+GBR826;United Kingdom;M.sag;Sand and gravel;t;bgs;68075000;67548000;69882000;66170000;57702000
+GBR826;United Kingdom;Me.Ag;Silver;Kg;bgs;14;0;0;130;100
+GBR826;United Kingdom;M.tal;Talc (steatite, soapstone, pyrophyllite);t;bgs;2997;3218;1640;3131;1386
+GBR826;United Kingdom;Me.Sn;Tin;t;wmd;144;255;220;0;0
+GBR826;United Kingdom;Me.W;Tungsten;t;wmd;732;1086;890;0;0
+GEO268;Georgia;M.bar;Barite;t;bgs;400;400;0;0;0
+GEO268;Georgia;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;20000;21000;25894;27872;25872
+GEO268;Georgia;Me.Cu;Copper;t;wmd;7600;9400;9100;9500;10000
+GEO268;Georgia;Me.Au;Gold;Kg;wmd;3621;3032;2913;4052;4768
+GEO268;Georgia;M.gya;Gypsum and anhydrite;t;bgs;46670;85468;91699;137831;87655
+GEO268;Georgia;Me.Pb;Lead;t;bgs;;;;;1124
+GEO268;Georgia;O.Mn;Manganese ore;t;bgs;370000;370000;349354;305562;302200
+GEO268;Georgia;M.per;Perlite;t;wmd;21800;16500;15700;13000;12500
+GEO268;Georgia;Me.Ag;Silver;Kg;wmd;20000;21000;20042;4100;5467
+GEO268;Georgia;Me.Zn;Zinc;t;bgs;;;;;2243
+GHA288;Ghana;O.Al;Bauxite;t;wmd;1143676;1476966;1011302;1116334;1162086
+GHA288;Ghana;Nm.dig;Diamonds, gems;ct;wmd;114400;69540;46025;27030;20230
+GHA288;Ghana;Nm.dii;Diamonds, industrial;ct;wmd;28605;17385;11505;6760;5060
+GHA288;Ghana;Me.Au;Gold;Kg;wmd;128026;143438;149057;142371;125114
+GHA288;Ghana;O.Mn;Manganese ore;t;bgs;2018254;3003580;4551754;5383014;2357515
+GHA288;Ghana;M.sal;Salt nec;t;wmd;250000;250000;330000;300000;
+GHA288;Ghana;Me.Ag;Silver;Kg;wmd;3100;4000;4000;4000;3000
+GIN324;Guinea;O.Al;Bauxite;t;wmd;32423932;51701564;59573707;70173326;87766199
+GIN324;Guinea;Nm.dig;Diamonds, gems;ct;wmd;84597;136090;219530;171880;96430
+GIN324;Guinea;Nm.dii;Diamonds, industrial;ct;wmd;28200;45360;73180;57300;32145
+GIN324;Guinea;O.Fe;Ferrous ore;t;bgs;0;0;0;0;644245
+GIN324;Guinea;Me.Au;Gold;Kg;wmd;29192;46847;25823;27708;91798
+GIN324;Guinea;M.gya;Gypsum and anhydrite;t;bgs;273245;200000;200000;200000;200000
+GNQ226;Equatorial Guinea;Me.Au;Gold;Kg;bgs;200;200;200;200;200
+GRC300;Greece;O.Al;Bauxite;t;wmd;1847700;1927150;1559359;1379123;1428631
+GRC300;Greece;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;883220;1087800;1365374;1393958;1170000
+GRC300;Greece;Me.Cr;Chromium;t;wmd;;0;11391.97040955;8265.16531816;8210.429124
+GRC300;Greece;Me.Au;Gold;Kg;wmd;940;823;2839;2333;2177
+GRC300;Greece;M.gya;Gypsum and anhydrite;t;wmd;777990;547140;827298;589012;780000
+GRC300;Greece;Me.Pb;Lead;t;wmd;11283;12075;15345;14818;19717
+GRC300;Greece;O.MgCO3;Magnesite;t;wmd;397940;442680;425882;358841;360000
+GRC300;Greece;Me.Ni;Nickel;t;wmd;22030;21090;19980;17240;7820
+GRC300;Greece;M.per;Perlite;t;wmd;921410;932950;790412;718077;718000
+GRC300;Greece;M.sal;Salt nec;t;wmd;158020;166527;163474;167170;
+GRC300;Greece;Me.Ag;Silver;Kg;wmd;29342;34220;39150;37790;50301
+GRC300;Greece;Me.Zn;Zinc;t;wmd;18866;18715;21515;22322;28090
+GRL304;Greenland;M.fel;Feldspar;t;bgs;0;0;0;19456;20000
+GTM320;Guatemala;Me.Sb;Antimony;t;wmd;25;0;0;150;50
+GTM320;Guatemala;M.bar;Barite;t;wmd;500;43;63;50;50
+GTM320;Guatemala;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;18081;20542;16953;12700;10000
+GTM320;Guatemala;M.fel;Feldspar;t;wmd;30428;29145;30257;28771;27000
+GTM320;Guatemala;Me.Au;Gold;Kg;wmd;3907;1646;0;0;0
+GTM320;Guatemala;M.gya;Gypsum and anhydrite;t;wmd;130617;135154;132897;140901;141000
+GTM320;Guatemala;M.kao;Kaolin;t;wmd;793;657;724;700;1000
+GTM320;Guatemala;Me.Pb;Lead;t;wmd;10000;4200;264;377;0
+GTM320;Guatemala;O.MgCO3;Magnesite;t;wmd;23954;16298;4745;4500;5000
+GTM320;Guatemala;Me.Ni;Nickel;t;wmd;36900;54500;48400;44600;50600
+GTM320;Guatemala;Me.Ag;Silver;Kg;wmd;837793;336944;0;0;0
+GTM320;Guatemala;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;2733;1982;2187;10;2000
+GTM320;Guatemala;Me.Zn;Zinc;t;wmd;15000;6100;0;0;0
+GUF254;French Guiana;Me.Au;Gold;Kg;wmd;1321;1486;1320;1105;989
+GUY328;Guyana;O.Al;Bauxite;t;wmd;1479090;1459223;1926053;1919747;595943
+GUY328;Guyana;Nm.dig;Diamonds, gems;ct;wmd;104920;39120;46580;41240;14430
+GUY328;Guyana;Nm.dii;Diamonds, industrial;ct;wmd;34970;13040;15530;13750;4810
+GUY328;Guyana;Me.Au;Gold;Kg;wmd;22168;20334;19069;19963;18209
+HND340;Honduras;Me.Sb;Antimony;t;wmd;0;0;20;15;10
+HND340;Honduras;Me.Au;Gold;Kg;wmd;2607;2656;2070;3035;1963
+HND340;Honduras;M.gya;Gypsum and anhydrite;t;bgs;41750;70500;62200;60000;60000
+HND340;Honduras;Me.Pb;Lead;t;wmd;4000;6761;9893;12308;13400
+HND340;Honduras;M.sal;Salt nec;t;wmd;59000;59000;63500;49900;
+HND340;Honduras;Me.Ag;Silver;Kg;wmd;17803;21785;31182;45174;40400
+HND340;Honduras;Me.Zn;Zinc;t;wmd;14500;20437;28422;29454;30200
+HRV191;Croatia;O.Al;Bauxite;t;wmd;9780;12215;11776;14342;14084
+HRV191;Croatia;M.gya;Gypsum and anhydrite;t;wmd;150430;147934;211894;199255;221629
+HRV191;Croatia;M.sal;Salt nec;t;wmd;15629;19006;16453;93870;
+HRV191;Croatia;M.sag;Sand and gravel;t;bgs;3444036;3766684;3646945;4105831;4585010
+HUN348;Hungary;O.Al;Bauxite;t;wmd;16710;1300;4200;0;0
+HUN348;Hungary;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;16006;9852;35156;33166;30000
+HUN348;Hungary;M.crs;Crushed stone;t;bgs;9002304;9097923;10562195;9345548;9000000
+HUN348;Hungary;M.gya;Gypsum and anhydrite;t;bgs;0;1564;1280;1185;1100
+HUN348;Hungary;O.Mn;Manganese ore;t;bgs;19000;0;0;0;0
+HUN348;Hungary;M.per;Perlite;t;bgs;76254;71412;80396;76723;70000
+HUN348;Hungary;M.sag;Sand and gravel;t;bgs;29829848;37984379;46866306;49419275;49000000
+IDN360;Indonesia;O.Al;Bauxite;t;wmd;494722;1733380;11023850;16592740;25859895
+IDN360;Indonesia;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;6000;6000;6000;6000;6000
+IDN360;Indonesia;Me.Co;Cobalt;t;wmd;350;350;350;350;350
+IDN360;Indonesia;Me.Cu;Copper;t;wmd;727959;621979;651132;351220;505200
+IDN360;Indonesia;M.fel;Feldspar;t;wmd;1353300;2601000;749300;480800;287400
+IDN360;Indonesia;O.Fe;Ferrous ore;t;bgs;3800000;1955926;1321249;3450000;3500000
+IDN360;Indonesia;Me.Au;Gold;Kg;wmd;91090;101510;135250;108900;66190
+IDN360;Indonesia;M.iod;Iodine;Kg;bgs;35000;34000;38000;40000;31000
+IDN360;Indonesia;M.kao;Kaolin;t;wmd;728000;736600;1368400;2754600;1636000
+IDN360;Indonesia;Me.Pb;Lead;t;wmd;5280;7635;11380;10820;7590
+IDN360;Indonesia;Me.Mn;Manganese;t;wmd;24500;24000;24000;24000;23500
+IDN360;Indonesia;Me.Ni;Nickel;t;wmd;198900;363000;651600;1036200;816700
+IDN360;Indonesia;M.sal;Salt nec;t;wmd;141000;1021321;2719256;2852125;
+IDN360;Indonesia;Me.Ag;Silver;Kg;wmd;228640;328780;308810;487400;338100
+IDN360;Indonesia;Me.Sn;Tin;t;bgs;69500;78070;82809;77468;52617
+IDN360;Indonesia;Me.Zn;Zinc;t;wmd;8540;13800;20070;21020;20020
+IDN360;Indonesia;O.Zr;Zircon;t;wmd;34800;29500;53700;73100;64150
+IND356;India;M.bar;Barite;t;bgs;1246371;2038915;2390000;2000000;1500000
+IND356;India;O.Al;Bauxite;t;wmd;24745487;22786106;23689619;21825227;20368665
+IND356;India;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;2837896;3313358;3385450;3400000;3500000
+IND356;India;M.bro;Bromine;Kg;bgs;2717210;2266000;2813000;2800000;2800000
+IND356;India;Me.Cd;Cadmium;t;wmd;35;47;0;0;0
+IND356;India;O.Cr;Chromium ore;t;bgs;3727780;3480941;3970691;3929260;2863869
+IND356;India;Me.Cu;Copper;t;wmd;29670;31550;32530;26980;25770
+IND356;India;Nm.dig;Diamonds, gems;ct;wmd;13970;12940;13877;10301;5010
+IND356;India;Nm.dii;Diamonds, industrial;ct;wmd;22520;26760;24560;18515;8910
+IND356;India;M.fel;Feldspar;t;bgs;6434788;4270245;4300000;4300000;4300000
+IND356;India;O.Fe;Ferrous ore;t;bgs;194584000;201426000;206446000;246081000;204481000
+IND356;India;M.fic;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite;t;bgs;71384;89456;73922;16733;16035
+IND356;India;M.flu;Fluorspar;t;wmd;1175;1314;1079;1315;1052
+IND356;India;M.fue;Fuller's earth;t;bgs;478204;797684;553294;550000;730000
+IND356;India;Me.Au;Gold;Kg;wmd;1594;1651;1664;1742;1127
+IND356;India;M.gra;Graphite, natural;t;wmd;122437;33649;39030;34674;30168
+IND356;India;M.gya;Gypsum and anhydrite;t;bgs;1982555;2223870;2151727;2000000;2000000
+IND356;India;O.FeTiO3;Ilmenite;t;bgs;594978;284667;265931;265000;265000
+IND356;India;M.kao;Kaolin;t;bgs;113817;131173;74000;74000;74000
+IND356;India;Me.Pb;Lead;t;wmd;150860;172720;205920;194590;208510
+IND356;India;O.MgCO3;Magnesite;t;wmd;299149;195055;146875;102554;78144
+IND356;India;O.Mn;Manganese ore;t;bgs;2395134;2599815;2820227;2956175;2457000
+IND356;India;M.mic;Mica;t;bgs;4500;1700;1000;1000;1000
+IND356;India;O.P;Phosphate rock;t;bgs;1124440;1515645;1284580;1400186;1455627
+IND356;India;O.TiO2;Rutile;t;bgs;14898;11829;11045;11000;11000
+IND356;India;M.sal;Salt nec;t;bgs;29191600;28949420;30033617;30000130;29900486
+IND356;India;Me.Se;Selenium;t;wmd;17;17;17;17;10
+IND356;India;Me.Ag;Silver;Kg;wmd;460811;557691;679386;609340;705795
+IND356;India;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;1292893;1652367;1682825;1748963;1750000
+IND356;India;Me.Sn;Tin;t;wmd;9;13;16;12;13
+IND356;India;Me.U;Uranium;t;wmd;384.99269916000003;420.60876384000005;423.15276846;307.82455902000004;400.25672688000003
+IND356;India;Me.V;Vanadium;t;bgs;1125;400;442;400;400
+IND356;India;M.ver;Vermiculite;t;wmd;9042;6054;2992;2774;1260
+IND356;India;M.wol;Wollastonite;t;bgs;166186;153049;184063;124657;103902
+IND356;India;Me.Zn;Zinc;t;wmd;755780;772600;728400;718060;751400
+IND356;India;O.Zr;Zircon;t;bgs;11709;9107;11906;12000;10000
+IND356;India;Me.reo;;t;bgs;2265;2724;4215;4200;4200
+IRL372;Ireland;M.crs;Crushed stone;t;bgs;23000000;23000000;23000000;23000000;23000000
+IRL372;Ireland;M.gya;Gypsum and anhydrite;t;wmd;250000;200000;200000;200000;150000
+IRL372;Ireland;Me.Pb;Lead;t;wmd;19600;17100;16712;16053;14401
+IRL372;Ireland;M.sag;Sand and gravel;t;bgs;7000000;7000000;7000000;7000000;7000000
+IRL372;Ireland;Me.Ag;Silver;Kg;wmd;1076;1344;1160;1578;918
+IRL372;Ireland;Me.Zn;Zinc;t;wmd;147800;130600;131742;122463;127008
+IRN364;Iran;Me.Sb;Antimony;t;wmd;2767;620;1645;330;1065
+IRN364;Iran;Me.As;Arsenic;t;wmd;0;400;0;0;0
+IRN364;Iran;M.bar;Barite;t;wmd;1449038;514711;477227;247207;285756
+IRN364;Iran;O.Al;Bauxite;t;wmd;765616;804510;866683;828788;1042325
+IRN364;Iran;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;356036;517524;423604;761079;714684
+IRN364;Iran;O.Cr;Chromium ore;t;bgs;342332;301119;259918;244656;250000
+IRN364;Iran;Me.Cu;Copper;t;wmd;282500;295653;316380;314143;313323
+IRN364;Iran;M.dia;Diatomite;t;wmd;37;0;0;600;170
+IRN364;Iran;M.fel;Feldspar;t;wmd;1120449;1128585;1320452;2415368;1910505
+IRN364;Iran;O.Fe;Ferrous ore;t;bgs;65001032;75843536;93365420;91778118;91800000
+IRN364;Iran;M.flu;Fluorspar;t;wmd;70820;55297;55000;54824;55000
+IRN364;Iran;Me.Au;Gold;Kg;wmd;4537;7100;7600;8140;6919
+IRN364;Iran;M.gya;Gypsum and anhydrite;t;wmd;15715011;13942092;10904289;14750093;15124823
+IRN364;Iran;M.iod;Iodine;Kg;bgs;348000;400000;368000;682000;700000
+IRN364;Iran;M.kao;Kaolin;t;wmd;868179;861938;1158983;1813395;1923895
+IRN364;Iran;Me.Pb;Lead;t;bgs;47000;48000;49600;72500;70000
+IRN364;Iran;O.MgCO3;Magnesite;t;wmd;145223;166636;137445;147760;256124
+IRN364;Iran;O.Mn;Manganese ore;t;bgs;78955;100780;128617;130625;130000
+IRN364;Iran;Me.Hg;Mercury;t;wmd;2;3;0;0;0
+IRN364;Iran;M.mic;Mica;t;bgs;1500;4500;1500;1120;1200
+IRN364;Iran;Me.Mo;Molybdenum;t;wmd;3340;4280;3690;4160;3536
+IRN364;Iran;M.per;Perlite;t;wmd;17083;23837;71579;31828;52750
+IRN364;Iran;O.P;Phosphate rock;t;bgs;64805;52600;86579;119227;120000
+IRN364;Iran;Me.K2O;Potassium oxide;t;wmd;10500;15300;32900;37200;37000
+IRN364;Iran;M.sal;Salt nec;t;wmd;2995025;2839430;2453873;2639192;
+IRN364;Iran;Me.Ag;Silver;Kg;wmd;50000;50000;50000;50000;50000
+IRN364;Iran;O.Sr;Strontium mineral;t;bgs;196689;94610;94200;129040;100000
+IRN364;Iran;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;87899;86514;73259;49650;61665
+IRN364;Iran;Me.Ti;Titanium;t;wmd;2001.80528266;18357.872996370003;17980.28697;2924.7933471200004;2996.714495
+IRN364;Iran;Me.U;Uranium;t;bgs;0;40;71;71;71
+IRN364;Iran;M.ver;Vermiculite;t;wmd;1000;0;0;0;0
+IRN364;Iran;Me.Zn;Zinc;t;wmd;106900;129900;143600;209900;215200
+IRQ368;Iraq;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;6300;6300;6300;6300;6300
+IRQ368;Iraq;M.gya;Gypsum and anhydrite;t;wmd;1000000;1000000;1000000;1000000;1000000
+IRQ368;Iraq;O.P;Phosphate rock;t;bgs;40000;40000;377120;300000;300000
+IRQ368;Iraq;M.sal;Salt nec;t;wmd;200000;237350;271500;270000;
+ISL352;Iceland;M.sal;Salt nec;t;wmd;5000;5000;5000;5000;
+ISL352;Iceland;M.sag;Sand and gravel;t;bgs;291000;291000;291000;291000;291000
+ISR376;Israel;M.bro;Bromine;Kg;bgs;161986000;180000000;175000000;180000000;173000000
+ISR376;Israel;M.gya;Gypsum and anhydrite;t;bgs;147000;116000;75800;72000;0
+ISR376;Israel;O.MgCO3;Magnesite;t;bgs;107274;90000;113000;105350;113903
+ISR376;Israel;O.P;Phosphate rock;t;bgs;3591200;2637440;3028800;2649800;2505200
+ISR376;Israel;Me.K2O;Potassium oxide;t;wmd;2093100;2126700;2149300;2043500;2415600
+ISR376;Israel;M.sal;Salt nec;t;wmd;389240;514100;377000;370000;
+ITA380;Italy;M.bar;Barite;t;bgs;3000;3000;3000;3000;3000
+ITA380;Italy;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;45978;86106;100067;82720;65989
+ITA380;Italy;M.crs;Crushed stone;t;bgs;54850309;57663627;34169132;32060000;29800000
+ITA380;Italy;M.fel;Feldspar;t;bgs;4000000;3500000;4000000;4000000;4000000
+ITA380;Italy;M.gya;Gypsum and anhydrite;t;wmd;617188;469044;188618;298242;163749
+ITA380;Italy;Me.In;Indium;t;bgs;5;5;5;5;5
+ITA380;Italy;M.kao;Kaolin;t;wmd;180000;200000;300000;250000;200000
+ITA380;Italy;M.per;Perlite;t;bgs;60000;60000;60000;60000;60000
+ITA380;Italy;M.sal;Salt nec;t;wmd;2550849;2283406;1514829;1538072;
+ITA380;Italy;M.sag;Sand and gravel;t;bgs;59911685;63627458;69575607;52111877;54606351
+ITA380;Italy;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;165000;165000;165000;160000;165000
+JAM388;Jamaica;O.Al;Bauxite;t;wmd;8540131;8244628;10058228;9022286;7546139
+JAM388;Jamaica;M.gya;Gypsum and anhydrite;t;wmd;50000;46000;47000;55000;66000
+JAM388;Jamaica;M.sal;Salt nec;t;wmd;15354;12565;10000;10000;
+JOR400;Jordan;M.bro;Bromine;Kg;bgs;80690000;84800000;88620000;110000000;84000000
+JOR400;Jordan;M.gya;Gypsum and anhydrite;t;bgs;1906979;344191;190606;200000;200000
+JOR400;Jordan;M.kao;Kaolin;t;wmd;11935;11000;11000;11000;11000
+JOR400;Jordan;O.P;Phosphate rock;t;bgs;7991157;8687581;8022393;9223346;8937752
+JOR400;Jordan;Me.K2O;Potassium oxide;t;wmd;1222140;1415260;1485960;1516460;1598200
+JOR400;Jordan;M.sal;Salt nec;t;wmd;41309;48985;48901;49000;
+JPN392;Japan;Me.As;Arsenic;t;wmd;45;45;45;45;40
+JPN392;Japan;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;250000;250000;250000;250000;250000
+JPN392;Japan;Me.Bi;Bismuth;t;wmd;428;525;571;540;570
+JPN392;Japan;M.bro;Bromine;Kg;bgs;20000000;20000000;20000000;20000000;20000000
+JPN392;Japan;Me.Cd;Cadmium;t;wmd;1988;2142;1980;1783;1880
+JPN392;Japan;M.fel;Feldspar;t;bgs;100000;100000;100000;100000;100000
+JPN392;Japan;Me.Ga;Gallium;t;bgs;3;3;3;3;3
+JPN392;Japan;Me.Ge;Germanium;t;wmd;2;2;2;2;2
+JPN392;Japan;Me.Au;Gold;Kg;wmd;6455;6369;6453;6313;7590
+JPN392;Japan;M.gya;Gypsum and anhydrite;t;bgs;4670000;4700000;4700000;4300000;4700000
+JPN392;Japan;Me.In;Indium;t;bgs;70;70;70;70;70
+JPN392;Japan;M.iod;Iodine;Kg;bgs;9993000;8839000;9136000;9122000;8876000
+JPN392;Japan;M.kao;Kaolin;t;wmd;12000;12000;12000;12000;12000
+JPN392;Japan;M.sal;Salt nec;t;wmd;928000;926000;929000;930000;
+JPN392;Japan;Me.Se;Selenium;t;wmd;752;792;768;740;740
+JPN392;Japan;Me.Ag;Silver;Kg;wmd;5076;3408;3596;3467;4192
+JPN392;Japan;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;375000;365000;160000;160000;160000
+JPN392;Japan;Me.Te;Tellurium;t;wmd;33;38;58;50;70
+KAZ398;Kazakhstan;Me.Sb;Antimony;t;wmd;573;350;150;0;0
+KAZ398;Kazakhstan;M.asb;Asbestos;t;wmd;192600;192700;202900;210700;227400
+KAZ398;Kazakhstan;M.bar;Barite;t;bgs;190000;160000;420000;530600;530000
+KAZ398;Kazakhstan;O.Al;Bauxite;t;wmd;4801300;4846100;6104200;4118400;4057800
+KAZ398;Kazakhstan;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;119100;120000;120000;52000;59200
+KAZ398;Kazakhstan;Me.Bi;Bismuth;t;wmd;260;200;159;200;270
+KAZ398;Kazakhstan;M.bor;Borate minerals;t;wmd;30000;30000;30000;30000;
+KAZ398;Kazakhstan;Me.Cd;Cadmium;t;wmd;2682;2690;850;1200;1500
+KAZ398;Kazakhstan;O.Cr;Chromium ore;t;bgs;5542900;6313300;6888800;7019000;6327000
+KAZ398;Kazakhstan;Me.Cu;Copper;t;wmd;471500;540700;632550;604970;548760
+KAZ398;Kazakhstan;O.Fe;Ferrous ore;t;bgs;35793500;38728200;41876500;45221900;62865000
+KAZ398;Kazakhstan;M.flu;Fluorspar;t;bgs;100000;100000;100000;87800;88000
+KAZ398;Kazakhstan;Me.Au;Gold;Kg;wmd;74737;85339;100288;106559;116964
+KAZ398;Kazakhstan;M.gya;Gypsum and anhydrite;t;bgs;137400;133200;121100;78200;94500
+KAZ398;Kazakhstan;Me.Pb;Lead;t;wmd;70500;111200;86500;55700;30200
+KAZ398;Kazakhstan;O.Mn;Manganese ore;t;bgs;1600700;1460000;1427300;1142300;813500
+KAZ398;Kazakhstan;Me.Mo;Molybdenum;t;wmd;1941;35;149;258;384
+KAZ398;Kazakhstan;O.P;Phosphate rock;t;bgs;1830000;1830000;1830000;1830000;1830000
+KAZ398;Kazakhstan;Me.Re;Rhenium;Kg;wmd;6700;2600;1600;1000;1000
+KAZ398;Kazakhstan;M.sal;Salt nec;t;wmd;730283;803794;885717;1094659;
+KAZ398;Kazakhstan;Me.Se;Selenium;t;wmd;13;40;10;10;0
+KAZ398;Kazakhstan;Me.Ag;Silver;Kg;wmd;1182476;1041838;969347;1022068;1035181
+KAZ398;Kazakhstan;Me.Ti;Titanium;t;wmd;39916.2370734;38957.288435;38957.288435;35960.57394;16781.601172000002
+KAZ398;Kazakhstan;Me.U;Uranium;t;wmd;24687.868834020002;23320.04235;21704.5994163;22807.001418300002;19476.05136918
+KAZ398;Kazakhstan;Me.V;Vanadium;t;wmd;0;0;0;0;
+KAZ398;Kazakhstan;Me.Zn;Zinc;t;wmd;324800;315900;304400;327000;310400
+KEN404;Kenya;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;110;110;110;110;110
+KEN404;Kenya;M.flu;Fluorspar;t;wmd;42656;6945;0;0;0
+KEN404;Kenya;Me.Au;Gold;Kg;wmd;197;503;472;395;150
+KEN404;Kenya;M.gya;Gypsum and anhydrite;t;wmd;5760;5700;5700;5700;5700
+KEN404;Kenya;O.FeTiO3;Ilmenite;t;bgs;359885;491000;463000;352000;334900
+KEN404;Kenya;M.kao;Kaolin;t;wmd;1000;1000;1000;1000;800
+KEN404;Kenya;Me.Mn;Manganese;t;wmd;0;2700;7000;16600;13600
+KEN404;Kenya;O.TiO2;Rutile;t;bgs;69975;87167;98132;85796;72836
+KEN404;Kenya;M.sal;Salt nec;t;wmd;23425;43245;28841;30600;
+KEN404;Kenya;M.soc;Sodium carbonate, natural;t;bgs;303618;303580;294856;282049;254579
+KEN404;Kenya;M.ver;Vermiculite;t;bgs;410;400;400;400;400
+KEN404;Kenya;O.Zr;Zircon;t;wmd;39687;42217;36387;30440;31730
+KGZ417;Kyrgyzstan;Me.Sb;Antimony;t;wmd;1880;1380;680;20;20
+KGZ417;Kyrgyzstan;Me.Cu;Copper;t;wmd;8638;8956;8813;8640;6500
+KGZ417;Kyrgyzstan;M.flu;Fluorspar;t;bgs;4000;4000;4000;4000;4000
+KGZ417;Kyrgyzstan;Me.Au;Gold;Kg;wmd;19856;22795;22602;23848;24150
+KGZ417;Kyrgyzstan;M.gya;Gypsum and anhydrite;t;wmd;98000;100000;152842;150000;150000
+KGZ417;Kyrgyzstan;M.kao;Kaolin;t;wmd;0;40000;15000;15000;15000
+KGZ417;Kyrgyzstan;Me.Hg;Mercury;t;wmd;50;10;88;20;20
+KGZ417;Kyrgyzstan;M.sal;Salt nec;t;wmd;7000;6000;4665;5605;
+KGZ417;Kyrgyzstan;Me.Ag;Silver;Kg;wmd;20397;19212;18328;19010;16127
+KGZ417;Kyrgyzstan;Me.W;Tungsten;t;wmd;0;0;0;0;
+KHM116;Cambodia;M.sal;Salt nec;t;wmd;148900;33058;30000;18430;
+KOR410;South Korea;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;63834;47306;31824;43886;5314
+KOR410;South Korea;Me.Cd;Cadmium;t;wmd;4595;4960;5100;3950;4100
+KOR410;South Korea;Me.Cu;Copper;t;wmd;117;7;0;0;0
+KOR410;South Korea;M.fel;Feldspar;t;wmd;654398;717177;617166;396898;415426
+KOR410;South Korea;O.Fe;Ferrous ore;t;bgs;444677;310550;380748;342346;575232
+KOR410;South Korea;M.fue;Fuller's earth;t;bgs;81688;115568;118177;185718;71855
+KOR410;South Korea;Me.Ga;Gallium;t;wmd;3;3;3;2;2
+KOR410;South Korea;Me.Au;Gold;Kg;wmd;205;285;239;181;188
+KOR410;South Korea;M.gra;Graphite, natural;t;wmd;0;0;670;302;3052
+KOR410;South Korea;O.FeTiO3;Ilmenite;t;bgs;166900;223039;213184;295987;287895
+KOR410;South Korea;Me.In;Indium;t;wmd;210;215;235;225;210
+KOR410;South Korea;M.kao;Kaolin;t;wmd;366511;416648;369274;317626;393236
+KOR410;South Korea;Me.Pb;Lead;t;wmd;2840;3760;2340;1930;1680
+KOR410;South Korea;Me.Mg;Magnesium;t;bgs;3000;3000;110;0;0
+KOR410;South Korea;M.mic;Mica;t;bgs;12934;14576;16559;23433;20983
+KOR410;South Korea;Me.Mo;Molybdenum;t;wmd;0;0;1;266;411
+KOR410;South Korea;M.sal;Salt nec;t;wmd;323470;308844;282590;261970;
+KOR410;South Korea;Me.Ag;Silver;Kg;wmd;6579;8863;7090;5243;7185
+KOR410;South Korea;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;592247;434292;348648;330250;475764
+KOR410;South Korea;Me.Sn;Tin;t;bgs;63;8;10;17;1
+KOR410;South Korea;Me.W;Tungsten;t;wmd;14;0;0;0;0
+KOR410;South Korea;Me.Zn;Zinc;t;wmd;2260;3320;3660;4110;4250
+KWT414;Kuwait;M.sal;Salt nec;t;wmd;66664;58250;53350;55000;
+LAO418;Laos;Me.Sb;Antimony;t;wmd;242;320;330;70;0
+LAO418;Laos;M.bar;Barite;t;wmd;33240;33325;35000;48600;96278
+LAO418;Laos;Me.Cu;Copper;t;wmd;167679;153304;154948;140935;92410
+LAO418;Laos;O.Fe;Ferrous ore;t;bgs;115065;250000;99196;470300;1013042
+LAO418;Laos;Me.Au;Gold;Kg;wmd;6764;5988;5579;5207;6250
+LAO418;Laos;M.gya;Gypsum and anhydrite;t;wmd;469436;463039;618783;606387;737749
+LAO418;Laos;Me.Pb;Lead;t;wmd;510;660;330;250;90
+LAO418;Laos;O.P;Phosphate rock;t;bgs;181000;435000;0;635;230
+LAO418;Laos;Me.K2O;Potassium oxide;t;wmd;198600;307600;343500;286900;442500
+LAO418;Laos;M.sal;Salt nec;t;wmd;36398;37490;46863;58579;
+LAO418;Laos;Me.Ag;Silver;Kg;wmd;50904;42841;37465;34443;25640
+LAO418;Laos;Me.Sn;Tin;t;wmd;1005;975;430;530;600
+LAO418;Laos;Me.Zn;Zinc;t;wmd;750;0;3080;1250;860
+LBN422;Lebanon;M.sal;Salt nec;t;wmd;3000;3000;3000;3000;
+LBR430;Liberia;Nm.dig;Diamonds, gems;ct;wmd;36220;36380;45330;33560;32760
+LBR430;Liberia;Nm.dii;Diamonds, industrial;ct;wmd;24150;24250;30220;22370;21840
+LBR430;Liberia;O.Fe;Ferrous ore;t;bgs;1405195;1604763;4657155;4428645;4874409
+LBR430;Liberia;Me.Au;Gold;Kg;wmd;4704;6071;7289;5068;4396
+LBY434;Libya;M.gya;Gypsum and anhydrite;t;bgs;212000;328000;310000;210000;210000
+LBY434;Libya;M.sal;Salt nec;t;wmd;30000;30000;30000;30000;
+LKA144;Sri Lanka;M.fel;Feldspar;t;bgs;25211;26137;26000;26000;26000
+LKA144;Sri Lanka;M.gra;Graphite, natural;t;wmd;3860;3800;3800;3100;2500
+LKA144;Sri Lanka;M.gya;Gypsum and anhydrite;t;bgs;1996;2213;2200;2200;2200
+LKA144;Sri Lanka;O.FeTiO3;Ilmenite;t;bgs;26159;53734;60847;43789;18016
+LKA144;Sri Lanka;M.kao;Kaolin;t;bgs;1767;1941;2000;2000;2000
+LKA144;Sri Lanka;M.mic;Mica;t;bgs;1449;1422;1500;1500;1500
+LKA144;Sri Lanka;O.P;Phosphate rock;t;bgs;38848;42435;46530;47438;52103
+LKA144;Sri Lanka;O.TiO2;Rutile;t;bgs;2237;2174;2174;1959;1311
+LKA144;Sri Lanka;M.sal;Salt nec;t;wmd;106034;74108;68834;57291;
+LKA144;Sri Lanka;O.Zr;Zircon;t;wmd;7749;8569;785;971;419
+LSO426;Lesotho;Nm.dig;Diamonds, gems;ct;wmd;342014;1126409;1294283;1113526;481243
+LSO426;Lesotho;Nm.dii;Diamonds, industrial;ct;wmd;273611;901130;1035420;890820;
+LTU440;Lithuania;M.crs;Crushed stone;t;bgs;4365787;6392084;7340099;7517080;8298830
+LTU440;Lithuania;M.sag;Sand and gravel;t;bgs;8227013;9805230;9992563;11675361;12539223
+LVA428;Latvia;M.crs;Crushed stone;t;bgs;1547520;2069297;2101489;987008;901472
+LVA428;Latvia;M.gya;Gypsum and anhydrite;t;wmd;224000;278260;320080;318450;359190
+LVA428;Latvia;M.sag;Sand and gravel;t;bgs;9181594;11417545;13668753;12951427;12500000
+MAR504;Morocco;Me.As;Arsenic;t;wmd;6122;6879;5578;5055;7694
+MAR504;Morocco;M.bar;Barite;t;wmd;668500;818016;899365;1119811;501939
+MAR504;Morocco;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;103230;174546;172749;188081;92387
+MAR504;Morocco;Me.Co;Cobalt;t;wmd;2081;1924;1806;2397;2416
+MAR504;Morocco;Me.Cu;Copper;t;wmd;31810;35420;32430;30720;31750
+MAR504;Morocco;M.fel;Feldspar;t;bgs;35000;40000;40000;40000;40000
+MAR504;Morocco;O.Fe;Ferrous ore;t;bgs;21033;100000;51000;51000;51000
+MAR504;Morocco;M.flu;Fluorspar;t;wmd;73920;75509;87874;73244;83833
+MAR504;Morocco;M.fue;Fuller's earth;t;bgs;141760;119070;99256;99790;99000
+MAR504;Morocco;Me.Au;Gold;Kg;wmd;352;220;386;221;143
+MAR504;Morocco;M.gya;Gypsum and anhydrite;t;bgs;600000;600000;600000;600000;600000
+MAR504;Morocco;Me.Pb;Lead;t;wmd;28670;38040;30360;32770;38190
+MAR504;Morocco;O.Mn;Manganese ore;t;bgs;70138;99008;79538;71210;70000
+MAR504;Morocco;Me.Hg;Mercury;t;wmd;20;10;5;2;2
+MAR504;Morocco;Me.Ni;Nickel;t;wmd;188;196;126;131;142
+MAR504;Morocco;O.P;Phosphate rock;t;bgs;26900000;32800000;37600000;35300000;35000000
+MAR504;Morocco;M.sal;Salt nec;t;wmd;634610;659263;691637;854397;
+MAR504;Morocco;Me.Ag;Silver;Kg;wmd;268523;277130;200530;216580;189220
+MAR504;Morocco;Me.Zn;Zinc;t;bgs;53880;51701;43567;43600;38000
+MDA498;Moldova;M.gya;Gypsum and anhydrite;t;wmd;204400;358500;352500;276400;292600
+MDG450;Madagascar;O.Be;Beryl;t;bgs;16;16;16;16;16
+MDG450;Madagascar;O.Cr;Chromium ore;t;bgs;71043;64200;35381;76100;12400
+MDG450;Madagascar;Me.Co;Cobalt;t;wmd;3654;2967;2887;2947;963
+MDG450;Madagascar;M.fic;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite;t;bgs;1800;4200;0;0;0
+MDG450;Madagascar;Me.Au;Gold;Kg;wmd;586;2834;2977;2059;1517
+MDG450;Madagascar;M.gra;Graphite, natural;t;wmd;9230;13300;47900;53400;48055
+MDG450;Madagascar;M.gya;Gypsum and anhydrite;t;bgs;130;130;0;0;0
+MDG450;Madagascar;O.FeTiO3;Ilmenite;t;bgs;267962;430479;381924;461800;424000
+MDG450;Madagascar;M.kao;Kaolin;t;bgs;220;220;220;220;220
+MDG450;Madagascar;M.mic;Mica;t;bgs;22311;34817;48763;50000;70000
+MDG450;Madagascar;Me.Ni;Nickel;t;wmd;42024;34123;33204;33887;11134
+MDG450;Madagascar;O.TiO2;Rutile;t;bgs;5400;8100;5100;6000;6000
+MDG450;Madagascar;M.sal;Salt nec;t;wmd;80000;80000;80000;100000;
+MDG450;Madagascar;O.Zr;Zircon;t;wmd;15582;25950;22400;28500;25250
+MDG450;Madagascar;Me.reo;;t;bgs;0;0;2000;2800;3200
+MEX484;Mexico;Me.Sb;Antimony;t;wmd;166;240;300;289;136
+MEX484;Mexico;M.bar;Barite;t;wmd;173781;359912;366234;415180;480954
+MEX484;Mexico;O.Al;Bauxite;t;wmd;96000;0;0;0;0
+MEX484;Mexico;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;109176;148475;264800;24321;79219
+MEX484;Mexico;Me.Bi;Bismuth;t;wmd;539;513;313;291;0
+MEX484;Mexico;Me.Cd;Cadmium;t;wmd;1244;1142;1307;952;978
+MEX484;Mexico;Me.Cu;Copper;t;wmd;793982;742246;696580;713704;800316
+MEX484;Mexico;M.fel;Feldspar;t;wmd;318169;500692;907755;516196;903385
+MEX484;Mexico;O.Fe;Ferrous ore;t;bgs;18317700;17746262;21244460;26089068;26000000
+MEX484;Mexico;M.flu;Fluorspar;t;wmd;659776;741678;1959654;1931532;1571269
+MEX484;Mexico;M.fue;Fuller's earth;t;bgs;111713;110860;0;0;0
+MEX484;Mexico;Me.Au;Gold;Kg;wmd;133552;126820;141143;133893;142787
+MEX484;Mexico;M.gra;Graphite, natural;t;wmd;14200;10310;4130;2342;2033
+MEX484;Mexico;M.gya;Gypsum and anhydrite;t;wmd;7697838;9197520;11275293;7759139;7977953
+MEX484;Mexico;M.kao;Kaolin;t;wmd;452070;325864;898246;246645;1003889
+MEX484;Mexico;Me.Pb;Lead;t;wmd;246755;243022;230869;372106;468486
+MEX484;Mexico;O.MgCO3;Magnesite;t;wmd;101000;101000;101000;800;0
+MEX484;Mexico;O.Mn;Manganese ore;t;bgs;549589;561612;556220;534044;565619
+MEX484;Mexico;Me.Hg;Mercury;t;wmd;267;200;230;50;70
+MEX484;Mexico;M.mic;Mica;t;bgs;145;145;408;595;600
+MEX484;Mexico;Me.Mo;Molybdenum;t;wmd;11896;13985;20265;21694;20577
+MEX484;Mexico;M.per;Perlite;t;wmd;28431;15899;26400;24497;0
+MEX484;Mexico;O.P;Phosphate rock;t;bgs;3294266;2307180;741678;831737;577152
+MEX484;Mexico;M.sal;Salt nec;t;wmd;10443786;9570779;9392052;8845239;
+MEX484;Mexico;Me.Se;Selenium;t;wmd;121;112;107;127;106
+MEX484;Mexico;Me.Ag;Silver;Kg;wmd;5474968;5815034;7243341;7485602;7424554
+MEX484;Mexico;O.Sr;Strontium mineral;t;bgs;33230;40699;35489;36180;38304
+MEX484;Mexico;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;17263;7129;8448;7202;29122
+MEX484;Mexico;Me.W;Tungsten;t;bgs;0;0;45;15;15
+MEX484;Mexico;M.ver;Vermiculite;t;wmd;310;464;244;148;104
+MEX484;Mexico;M.wol;Wollastonite;t;bgs;63683;98449;145814;159498;77665
+MEX484;Mexico;Me.Zn;Zinc;t;wmd;666896;671444;662355;859194;1008252
+MKD807;North Macedonia;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;1968;912;2945;682;2196
+MKD807;North Macedonia;Me.Cu;Copper;t;wmd;10429;8966;7718;7231;6625
+MKD807;North Macedonia;M.fel;Feldspar;t;wmd;19919;21237;30813;29519;13115
+MKD807;North Macedonia;Me.Au;Gold;Kg;wmd;664;972;767;593;448
+MKD807;North Macedonia;M.gya;Gypsum and anhydrite;t;wmd;202582;217491;230029;267181;229322
+MKD807;North Macedonia;Me.Pb;Lead;t;wmd;31030;39850;41900;43490;44930
+MKD807;North Macedonia;Me.Ag;Silver;Kg;wmd;13970;16020;15060;15620;16090
+MKD807;North Macedonia;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;729;478;559;0;0
+MKD807;North Macedonia;Me.Zn;Zinc;t;wmd;24870;27510;29720;31040;31750
+MLI466;Mali;Me.Au;Gold;Kg;wmd;46903;49622;60893;66739;71200
+MLI466;Mali;O.P;Phosphate rock;t;bgs;37236;41000;46000;46000;46000
+MLI466;Mali;Me.Ag;Silver;Kg;wmd;2600;2900;2844;3000;3000
+MLT470;Malta;M.crs;Crushed stone;t;bgs;1551411;1426820;1682385;1739310;1436438
+MLT470;Malta;M.sal;Salt nec;t;wmd;1600;1600;1600;1600;
+MMR104;Myanmar;Me.Sb;Antimony;t;wmd;2000;4500;2640;4800;6600
+MMR104;Myanmar;M.bar;Barite;t;wmd;2627;3206;9658;12439;2600
+MMR104;Myanmar;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;600;600;540;0;500
+MMR104;Myanmar;Me.Cu;Copper;t;wmd;94390;126930;179310;219200;196500
+MMR104;Myanmar;Me.Au;Gold;Kg;wmd;1446;1620;467;267;871
+MMR104;Myanmar;M.gya;Gypsum and anhydrite;t;wmd;245789;361015;309343;299316;240420
+MMR104;Myanmar;Me.Pb;Lead;t;wmd;21600;14890;24930;35090;27290
+MMR104;Myanmar;O.Mn;Manganese ore;t;bgs;293000;346000;519000;982000;634000
+MMR104;Myanmar;Me.Ni;Nickel;t;bgs;22562;21828;11475;16000;22200
+MMR104;Myanmar;M.sal;Salt nec;t;wmd;212041;158499;189146;213319;
+MMR104;Myanmar;Me.Sn;Tin;t;wmd;61400;67300;54500;38900;33440
+MMR104;Myanmar;Me.W;Tungsten;t;wmd;170;330;190;130;80
+MMR104;Myanmar;Me.Zn;Zinc;t;wmd;6500;13150;12240;13680;11310
+MMR104;Myanmar;Me.reo;;t;wmd;5460;10000;40800;34200;21000
+MNE499;Montenegro;O.Al;Bauxite;t;wmd;667259;927847;468164;774725;791813
+MNE499;Montenegro;M.crs;Crushed stone;t;bgs;184976;212697;166550;143219;163573
+MNE499;Montenegro;Me.Pb;Lead;t;wmd;2500;3050;3100;3480;640
+MNE499;Montenegro;M.sal;Salt nec;t;bgs;10000;10000;10000;10000;10000
+MNE499;Montenegro;M.sag;Sand and gravel;t;bgs;178906;173670;159528;156612;380976
+MNE499;Montenegro;Me.Zn;Zinc;t;wmd;8100;8820;10670;9520;10130
+MNG496;Mongolia;Me.Cu;Copper;t;wmd;374260;314920;309750;290980;291010
+MNG496;Mongolia;O.Fe;Ferrous ore;t;bgs;4936200;7694700;6225400;8572200;9224400
+MNG496;Mongolia;M.flu;Fluorspar;t;wmd;248900;319330;555230;699400;678900
+MNG496;Mongolia;Me.Au;Gold;Kg;wmd;18436;19849;20655;16235;20226
+MNG496;Mongolia;M.gya;Gypsum and anhydrite;t;bgs;56000;56000;56000;56000;56000
+MNG496;Mongolia;Me.Pb;Lead;t;wmd;4720;7390;11320;13500;12400
+MNG496;Mongolia;Me.Mo;Molybdenum;t;wmd;2432;2640;2580;2490;2890
+MNG496;Mongolia;M.sal;Salt nec;t;wmd;478;860;997;533;
+MNG496;Mongolia;Me.Ag;Silver;Kg;wmd;84920;67190;69120;79864;77762
+MNG496;Mongolia;Me.Sn;Tin;t;wmd;25;20;25;20;0
+MNG496;Mongolia;Me.W;Tungsten;t;wmd;755;523;430;370;35
+MNG496;Mongolia;Me.Zn;Zinc;t;wmd;50100;41350;43950;41550;38150
+MOZ508;Mozambique;O.Al;Bauxite;t;wmd;1451;3182;9912;8024;6491
+MOZ508;Mozambique;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;322;285;1091;77734;80189
+MOZ508;Mozambique;O.Be;Beryl;t;bgs;181;53;416;100;80
+MOZ508;Mozambique;Me.Au;Gold;Kg;wmd;201;166;507;430;488
+MOZ508;Mozambique;M.gra;Graphite, natural;t;bgs;580;802;106773;113803;18159
+MOZ508;Mozambique;O.FeTiO3;Ilmenite;t;bgs;903300;998200;958500;892900;756000
+MOZ508;Mozambique;Me.Nb;Niobium;t;wmd;4.893309456;6.99044208;8.388530496;7.689486288;11.883751536
+MOZ508;Mozambique;O.TiO2;Rutile;t;bgs;7800;9133;8154;8278;5957
+MOZ508;Mozambique;M.sal;Salt nec;t;wmd;10127;21458;27729;28250;
+MOZ508;Mozambique;Me.Ta;Tantalum;t;wmd;33.577666885;46.681146645000005;54.05185401000001;48.319081615;76.98294359
+MOZ508;Mozambique;O.Zr;Zircon;t;wmd;215222;159664;202022;121768;104076
+MRT478;Mauritania;Me.Cu;Copper;t;wmd;32818;28791;28137;29620;28491
+MRT478;Mauritania;O.Fe;Ferrous ore;t;bgs;13268061;11813000;10710305;12196491;12515312
+MRT478;Mauritania;Me.Au;Gold;Kg;wmd;7127;9096;9236;13554;14125
+MRT478;Mauritania;M.gya;Gypsum and anhydrite;t;wmd;60000;80000;130000;130000;120000
+MUS480;Mauritius;M.sal;Salt nec;t;wmd;500;1000;1000;1500;
+MWI454;Malawi;O.Fe;Ferrous ore;t;bgs;3800;5000;2563;3000;5018
+MWI454;Malawi;O.P;Phosphate rock;t;bgs;2500;1000;1594;1753;0
+MYS458;Malaysia;M.bar;Barite;t;bgs;16600;16600;0;0;16000
+MYS458;Malaysia;O.Al;Bauxite;t;bgs;342924;189131;589684;900561;594714
+MYS458;Malaysia;M.fel;Feldspar;t;bgs;441857;412004;414441;206798;0
+MYS458;Malaysia;O.Fe;Ferrous ore;t;bgs;1914232;3919632;3353634;4160462;5371411
+MYS458;Malaysia;Me.Au;Gold;Kg;wmd;2249;2124;2978;3151;1716
+MYS458;Malaysia;O.FeTiO3;Ilmenite;t;bgs;4316;6363;14158;2334;2548
+MYS458;Malaysia;M.kao;Kaolin;t;wmd;392933;444559;496219;400722;301503
+MYS458;Malaysia;Me.Mg;Magnesium;t;bgs;400;30;0;0;0
+MYS458;Malaysia;O.Mn;Manganese ore;t;bgs;700717;1226106;1262725;1130749;869864
+MYS458;Malaysia;M.mic;Mica;t;bgs;4716;4787;5165;4358;4083
+MYS458;Malaysia;O.TiO2;Rutile;t;bgs;3810;5266;5070;5947;5136
+MYS458;Malaysia;Me.Ag;Silver;Kg;wmd;1075;1404;1542;686;400
+MYS458;Malaysia;Me.Ta;Tantalum;t;wmd;6.55173988;4.9138049100000005;22.112122095;1.63793497;1.63793497
+MYS458;Malaysia;Me.Sn;Tin;t;wmd;4158;4819;3868;3611;2961
+MYS458;Malaysia;O.Zr;Zircon;t;wmd;653;1595;509;449;450
+MYS458;Malaysia;Me.reo;;t;wmd;3006;482;1076;184;70
+NAM516;Namibia;Me.As;Arsenic;t;wmd;1960;700;0;0;0
+NAM516;Namibia;Me.Cu;Copper;t;wmd;16391;15466;15177;14940;15741
+NAM516;Namibia;Nm.dig;Diamonds, gems;ct;wmd;1494350;1713800;1985670;1722830;1428445
+NAM516;Namibia;Nm.dii;Diamonds, industrial;ct;wmd;78650;90200;104510;90675;75180
+NAM516;Namibia;O.Fe;Ferrous ore;t;bgs;8478;2450;3824;15646;66164
+NAM516;Namibia;M.flu;Fluorspar;t;bgs;1495;0;0;0;0
+NAM516;Namibia;Me.Au;Gold;Kg;wmd;7062;7800;6632;7016;6718
+NAM516;Namibia;M.gra;Graphite, natural;t;bgs;0;2216;3456;0;0
+NAM516;Namibia;Me.Pb;Lead;t;wmd;6800;5805;4291;6320;8890
+NAM516;Namibia;O.Li;Lithium ore;t;bgs;0;0;30000;0;0
+NAM516;Namibia;O.Mn;Manganese ore;t;bgs;16896;27915;23045;32145;37072
+NAM516;Namibia;M.sal;Salt nec;t;wmd;835539;866586;1151153;983354;
+NAM516;Namibia;Me.Ag;Silver;Kg;wmd;4702;6490;3850;7765;7520
+NAM516;Namibia;Me.Sn;Tin;t;bgs;0;0;0;4;284
+NAM516;Namibia;Me.U;Uranium;t;wmd;3653.1906343200003;4223.89567074;5523.8820315600005;5477.24194686;5411.945828280001
+NAM516;Namibia;Me.Zn;Zinc;t;wmd;132470;131920;118310;124630;62260
+NCL540;New Caledonia;Me.Co;Cobalt;t;wmd;3188;2780;2104;1703;2197
+NCL540;New Caledonia;Me.Ni;Nickel;t;wmd;204207;215382;216225;208185;199697
+NER562;Niger;Me.Au;Gold;Kg;wmd;999;914;6207;5224;2361
+NER562;Niger;M.gya;Gypsum and anhydrite;t;bgs;0;3395;507;6211;9083
+NER562;Niger;Me.Ag;Silver;Kg;bgs;239;100;64;31;12
+NER562;Niger;Me.Sn;Tin;t;bgs;8;8;0;0;0
+NER562;Niger;Me.U;Uranium;t;wmd;3477.6543155400004;3447.9742616400003;2911.1892868200002;2981.57341464;2990.90143158
+NGA566;Nigeria;M.bar;Barite;t;wmd;537;717;387;370;544
+NGA566;Nigeria;M.fel;Feldspar;t;wmd;34144;27660;41355;33702;19453
+NGA566;Nigeria;O.Fe;Ferrous ore;t;bgs;1550;1550;1582;160;127
+NGA566;Nigeria;M.flu;Fluorspar;t;wmd;;;;4730;17557
+NGA566;Nigeria;Me.Au;Gold;Kg;wmd;7000;7000;10000;9000;1520
+NGA566;Nigeria;M.gya;Gypsum and anhydrite;t;wmd;28000;39939;39052;22142;30706
+NGA566;Nigeria;M.kao;Kaolin;t;bgs;24105;46935;11707;8649;7033
+NGA566;Nigeria;Me.Pb;Lead;t;wmd;14500;24260;17900;23550;20100
+NGA566;Nigeria;O.Li;Lithium ore;t;bgs;0;0;1267;133;130
+NGA566;Nigeria;Me.Mn;Manganese;t;wmd;20330;13550;22880;1000;5850
+NGA566;Nigeria;Me.Nb;Niobium;t;wmd;72.700597632;85.283393376;126.527001648;118.83751536;55.92353664
+NGA566;Nigeria;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;667;1897;2668;6630;8404
+NGA566;Nigeria;Me.Ta;Tantalum;t;wmd;54.05185401000001;393.1043928;188.36252155000003;98.2760982;81.8967485
+NGA566;Nigeria;Me.Sn;Tin;t;wmd;3443;8260;7850;6900;5970
+NGA566;Nigeria;Me.W;Tungsten;t;bgs;8;12;66;13;13
+NGA566;Nigeria;Me.Zn;Zinc;t;wmd;13400;22130;26920;23310;26880
+NGA566;Nigeria;O.Zr;Zircon;t;wmd;891;4086;1421;1000;242
+NIC558;Nicaragua;Me.Au;Gold;Kg;wmd;8391;7367;7703;9190;7935
+NIC558;Nicaragua;M.gya;Gypsum and anhydrite;t;wmd;41750;66740;70341;39925;64573
+NIC558;Nicaragua;M.sal;Salt nec;t;wmd;55000;50000;50000;55000;
+NIC558;Nicaragua;Me.Ag;Silver;Kg;wmd;21382;15419;11263;17362;20186
+NLD528;Netherlands;Me.Cd;Cadmium;t;wmd;1000;890;960;860;880
+NLD528;Netherlands;O.MgCO3;Magnesite;t;bgs;265857;282551;349000;292000;243000
+NLD528;Netherlands;M.sal;Salt nec;t;wmd;6625418;6935000;6750546;5913782;
+NLD528;Netherlands;M.sag;Sand and gravel;t;bgs;55900000;43600000;64800000;68600000;69000000
+NOR578;Norway;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;;0;3234;0;0
+NOR578;Norway;Me.Cd;Cadmium;t;wmd;335;416;380;370;344
+NOR578;Norway;M.crs;Crushed stone;t;bgs;70043000;75845000;80300804;84412381;79020476
+NOR578;Norway;M.fel;Feldspar;t;bgs;70015;87894;88000;88000;88000
+NOR578;Norway;O.Fe;Ferrous ore;t;bgs;1757851;1622477;1700000;1600000;1600000
+NOR578;Norway;M.gra;Graphite, natural;t;bgs;9600;9600;9600;9600;9000
+NOR578;Norway;M.gya;Gypsum and anhydrite;t;wmd;82386;87891;89655;102100;93602
+NOR578;Norway;O.FeTiO3;Ilmenite;t;bgs;630000;630000;630000;630000;630000
+NOR578;Norway;Me.Mo;Molybdenum;t;wmd;1;0;0;1;1
+NOR578;Norway;O.nep;Nepheline syenite;t;bgs;324000;324000;324000;324000;324000
+NOR578;Norway;Me.Ni;Nickel;t;bgs;200;200;300;200;300
+NOR578;Norway;M.sal;Salt nec;t;wmd;10632;10000;56000;10000;
+NOR578;Norway;M.sag;Sand and gravel;t;bgs;14959000;14696000;13324347;13362555;14053691
+NPL524;Nepal;O.Fe;Ferrous ore;t;bgs;0;772;396;267;0
+NPL524;Nepal;M.fic;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite;t;bgs;1;2;0;1;0
+NPL524;Nepal;Me.Pb;Lead;t;bgs;0;3900;0;0;0
+NPL524;Nepal;O.MgCO3;Magnesite;t;wmd;0;0;0;0;
+NPL524;Nepal;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;1860;7096;8658;7813;2719
+NRU520;Nauru;O.P;Phosphate rock;t;bgs;114350;126000;61042;81500;119498
+NZL554;New Zealand;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;700;700;4482;500;500
+NZL554;New Zealand;O.Fe;Ferrous ore;t;bgs;3495818;4008000;4000000;4000000;4000000
+NZL554;New Zealand;Me.Au;Gold;Kg;wmd;9866;10288;10045;8217;5860
+NZL554;New Zealand;M.kao;Kaolin;t;wmd;61650;50424;51369;50569;50000
+NZL554;New Zealand;M.sal;Salt nec;t;wmd;102000;102000;100000;100000;
+NZL554;New Zealand;Me.Ag;Silver;Kg;wmd;7960;8022;6332;4060;1393
+OMN512;Oman;O.Cr;Chromium ore;t;bgs;450800;631600;884900;732600;382100
+OMN512;Oman;Me.Cu;Copper;t;wmd;0;0;0;0;
+OMN512;Oman;M.gya;Gypsum and anhydrite;t;wmd;7933617;8438286;9666701;10982900;10213900
+OMN512;Oman;M.kao;Kaolin;t;wmd;188300;218600;110300;34100;43300
+OMN512;Oman;O.Mn;Manganese ore;t;bgs;21300;33900;44700;50000;8700
+OMN512;Oman;M.sal;Salt nec;t;wmd;12100;18035;11537;15003;
+PAK586;Pakistan;Me.Sb;Antimony;t;wmd;21;15;20;0;17
+PAK586;Pakistan;M.bar;Barite;t;wmd;157858;91711;88847;116480;55341
+PAK586;Pakistan;O.Al;Bauxite;t;wmd;57024;75375;145189;92936;101047
+PAK586;Pakistan;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;42038;42770;74268;49380;50000
+PAK586;Pakistan;O.Cr;Chromium ore;t;bgs;230000;350000;324700;467400;460000
+PAK586;Pakistan;Me.Cu;Copper;t;wmd;14136;10052;12538;13049;13200
+PAK586;Pakistan;M.fel;Feldspar;t;wmd;316289;273468;151743;346236;350000
+PAK586;Pakistan;O.Fe;Ferrous ore;t;bgs;432156;501664;677206;626646;620000
+PAK586;Pakistan;M.flu;Fluorspar;t;wmd;9494;2263;2777;4208;4200
+PAK586;Pakistan;M.fue;Fuller's earth;t;bgs;13740;18185;9188;12529;12000
+PAK586;Pakistan;M.gra;Graphite, natural;t;bgs;360;0;1840;0;0
+PAK586;Pakistan;M.gya;Gypsum and anhydrite;t;wmd;1871716;2079629;2475893;2517825;2149873
+PAK586;Pakistan;M.kao;Kaolin;t;wmd;20726;28710;19483;20756;14000
+PAK586;Pakistan;Me.Pb;Lead;t;wmd;1196;3050;4820;8090;7094
+PAK586;Pakistan;O.MgCO3;Magnesite;t;wmd;35228;19656;23596;42996;16165
+PAK586;Pakistan;Me.Mn;Manganese;t;wmd;20;430;50;390;400
+PAK586;Pakistan;O.P;Phosphate rock;t;bgs;115140;61677;68541;83044;80000
+PAK586;Pakistan;M.sal;Salt nec;t;wmd;3867325;3806888;3647584;4108929;
+PAK586;Pakistan;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;125985;152279;141504;156935;150009
+PAK586;Pakistan;Me.U;Uranium;t;wmd;44.944081620000006;44.944081620000006;44.944081620000006;44.944081620000006;44.944081620000006
+PAK586;Pakistan;Me.Zn;Zinc;t;wmd;7700;19460;26980;37365;35054
+PAN591;Panama;Me.Cu;Copper;t;bgs;0;0;0;147480;205548
+PAN591;Panama;Me.Au;Gold;Kg;wmd;0;0;0;1869;2633
+PAN591;Panama;M.sal;Salt nec;t;wmd;23470;18590;17281;27389;
+PAN591;Panama;Me.Ag;Silver;Kg;bgs;0;0;0;35217;49627
+PER604;Peru;Me.Sb;Antimony;t;wmd;0;0;0;0;
+PER604;Peru;Me.As;Arsenic;t;bgs;17610.84425478;16904.198904285;15456.82563012;18870.384681225;14401.02325221
+PER604;Peru;M.bar;Barite;t;wmd;7953;9182;15621;16373;5242
+PER604;Peru;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;19410;756;2383;46887;25532
+PER604;Peru;Me.Bi;Bismuth;t;bgs;188;124;145;73;74
+PER604;Peru;Me.Cd;Cadmium;t;wmd;820;797;765;772;451
+PER604;Peru;Me.Cu;Copper;t;wmd;2353859;2445585;2437035;2455440;2150126
+PER604;Peru;M.fel;Feldspar;t;wmd;16630;14930;31588;29134;24132
+PER604;Peru;O.Fe;Ferrous ore;t;bgs;7663124;8806452;9533871;10120007;8893972
+PER604;Peru;Me.Au;Gold;Kg;wmd;153006;151964;140211;128413;88054
+PER604;Peru;M.gya;Gypsum and anhydrite;t;wmd;257423;286657;458479;254382;171093
+PER604;Peru;Me.In;Indium;t;bgs;10;10;11;12;10
+PER604;Peru;M.kao;Kaolin;t;wmd;19098;17700;16004;9208;12536
+PER604;Peru;Me.Pb;Lead;t;wmd;314422;306784;289123;308116;241548
+PER604;Peru;O.Mn;Manganese ore;t;bgs;2650;2500;46400;41800;22500
+PER604;Peru;Me.Mo;Molybdenum;t;wmd;25757;28141;28034;30441;32185
+PER604;Peru;O.P;Phosphate rock;t;bgs;10561111;8450379;10308276;11091502;8594180
+PER604;Peru;M.sal;Salt nec;t;wmd;1450415;1481398;1509564;1266347;
+PER604;Peru;Me.Se;Selenium;t;wmd;45;50;55;60;53
+PER604;Peru;Me.Ag;Silver;Kg;wmd;4375337;4417987;4160162;3860306;2723879
+PER604;Peru;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;29379;42123;47309;43974;37938
+PER604;Peru;Me.Sn;Tin;t;wmd;18789;17790;18601;19853;20647
+PER604;Peru;Me.W;Tungsten;t;wmd;154;0;0;0;0
+PER604;Peru;Me.Zn;Zinc;t;wmd;1337081;1473073;1474674;1404382;1334570
+PHL608;Philippines;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;3361;1249;658;650;650
+PHL608;Philippines;O.Cr;Chromium ore;t;bgs;25745;20849;50650;36423;35112
+PHL608;Philippines;Me.Co;Cobalt;t;wmd;3500;3700;3600;3750;3600
+PHL608;Philippines;Me.Cu;Copper;t;wmd;83649;68156;69933;71892;60856
+PHL608;Philippines;M.fel;Feldspar;t;wmd;46630;47000;47000;47000;47000
+PHL608;Philippines;O.Fe;Ferrous ore;t;bgs;17088;0;0;0;42795
+PHL608;Philippines;Me.Au;Gold;Kg;wmd;23053;22749;20765;20646;17564
+PHL608;Philippines;M.kao;Kaolin;t;wmd;10059;10000;10000;10000;10000
+PHL608;Philippines;O.MgCO3;Magnesite;t;bgs;10310;200;140;140;140
+PHL608;Philippines;Me.Ni;Nickel;t;wmd;300506;339377;344966;323325;328372
+PHL608;Philippines;M.per;Perlite;t;bgs;14460;40789;9696;6608;10000
+PHL608;Philippines;O.P;Phosphate rock;t;bgs;8689;859;2736;3000;3000
+PHL608;Philippines;M.sal;Salt nec;t;wmd;1238610;1250000;1000000;800000;
+PHL608;Philippines;Me.Se;Selenium;t;wmd;90;100;100;100;100
+PHL608;Philippines;Me.Ag;Silver;Kg;wmd;35186;31737;29782;31267;24024
+PNG598;Papua New Guinea;O.Cr;Chromium ore;t;bgs;0;90121;92139;112749;113000
+PNG598;Papua New Guinea;Me.Co;Cobalt;t;wmd;2187;3307;3275;2915;2941
+PNG598;Papua New Guinea;Me.Cu;Copper;t;wmd;80022;105448;96277;99432;82841
+PNG598;Papua New Guinea;Me.Au;Gold;Kg;wmd;61785;61678;67282;71050;52510
+PNG598;Papua New Guinea;Me.Ni;Nickel;t;wmd;22234;34664;35354;33091;33659
+PNG598;Papua New Guinea;Me.Ag;Silver;Kg;wmd;95879;69650;113890;162630;130635
+POL616;Poland;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;1000;0;560;500;920
+POL616;Poland;Me.Cd;Cadmium;t;wmd;200;309;305;199;80
+POL616;Poland;Me.Cu;Copper;t;wmd;424276;419300;401300;398900;392700
+POL616;Poland;M.crs;Crushed stone;t;bgs;59448000;67617000;80161000;81562000;76286654
+POL616;Poland;M.fel;Feldspar;t;wmd;88140;91200;71480;42160;29440
+POL616;Poland;Me.Au;Gold;Kg;wmd;402;572;523;674;878
+POL616;Poland;M.gya;Gypsum and anhydrite;t;wmd;1043000;1108000;1042000;1065000;1057000
+POL616;Poland;M.kao;Kaolin;t;wmd;299830;284650;310850;317190;292940
+POL616;Poland;Me.Pb;Lead;t;wmd;43060;39000;40210;48510;46790
+POL616;Poland;O.MgCO3;Magnesite;t;wmd;77920;101920;102110;91490;65250
+POL616;Poland;Me.Mo;Molybdenum;t;bgs;1320;1220;1190;1230;1210
+POL616;Poland;Me.Ni;Nickel;t;wmd;770;720;660;755;710
+POL616;Poland;Me.Pd;Palladium;Kg;wmd;30;7;5;5;4
+POL616;Poland;Me.Pt;Platinum;Kg;wmd;50;11;8;8;6
+POL616;Poland;Me.Re;Rhenium;Kg;wmd;6443;7564;6290;5770;6580
+POL616;Poland;M.sal;Salt nec;t;wmd;4079000;4660000;4125000;4063000;
+POL616;Poland;M.sag;Sand and gravel;t;bgs;173175000;186296000;197005000;182811000;180243000
+POL616;Poland;Me.Se;Selenium;t;wmd;82;74;66;76;74
+POL616;Poland;Me.Ag;Silver;Kg;wmd;1264659;1289900;1264300;1249000;1218000
+POL616;Poland;Me.Zn;Zinc;t;wmd;61000;50000;43000;40000;43000
+PRK408;North Korea;M.bar;Barite;t;wmd;9000;4200;4200;4000;4000
+PRK408;North Korea;Me.Cd;Cadmium;t;wmd;200;200;200;150;150
+PRK408;North Korea;Me.Cu;Copper;t;bgs;12600;1800;2000;2000;2000
+PRK408;North Korea;O.Fe;Ferrous ore;t;bgs;4280000;4473000;3500000;3000000;2500000
+PRK408;North Korea;M.flu;Fluorspar;t;wmd;4525;6900;6900;6900;6900
+PRK408;North Korea;Me.Au;Gold;Kg;wmd;10000;10000;10000;10000;10000
+PRK408;North Korea;M.gra;Graphite, natural;t;wmd;47000;50000;45000;45000;45000
+PRK408;North Korea;Me.Pb;Lead;t;bgs;32116;32621;20000;25000;25000
+PRK408;North Korea;O.MgCO3;Magnesite;t;bgs;160935;172488;170000;170000;150000
+PRK408;North Korea;Me.Mo;Molybdenum;t;wmd;440;480;560;530;100
+PRK408;North Korea;Nm.PO;Phosphate and Phosphorus oxides;t;wmd;95000;95000;95000;95000;
+PRK408;North Korea;M.sal;Salt nec;t;wmd;500000;500000;500000;500000;
+PRK408;North Korea;Me.Ag;Silver;Kg;wmd;50000;70000;70000;50000;50000
+PRK408;North Korea;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;40000;40000;40000;40000;30000
+PRK408;North Korea;Me.W;Tungsten;t;wmd;50;310;1410;1130;410
+PRK408;North Korea;Me.Zn;Zinc;t;bgs;66469;35671;35000;30000;28000
+PRT620;Portugal;Me.Cu;Copper;t;wmd;74352;63812;49064;41553;32230
+PRT620;Portugal;M.crs;Crushed stone;t;bgs;25939048;28789458;30620462;32134534;35063333
+PRT620;Portugal;M.fel;Feldspar;t;wmd;132105;126211;130475;106754;122969
+PRT620;Portugal;M.gya;Gypsum and anhydrite;t;bgs;255026;152059;232921;209076;210231
+PRT620;Portugal;M.kao;Kaolin;t;wmd;283571;307982;374029;311677;320655
+PRT620;Portugal;Me.Pb;Lead;t;wmd;4126;5164;19440;27852;28178
+PRT620;Portugal;O.Li;Lithium ore;t;bgs;40758;65743;76818;59912;23185
+PRT620;Portugal;M.sal;Salt nec;t;wmd;6092;7800;6201;0;
+PRT620;Portugal;M.sag;Sand and gravel;t;bgs;5753545;6526376;8370573;10187542;10784029
+PRT620;Portugal;Me.Ag;Silver;Kg;wmd;38631;40186;90760;95270;95954
+PRT620;Portugal;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;11699;13600;10144;12901;9751
+PRT620;Portugal;Me.Sn;Tin;t;wmd;54;81;111;108;104
+PRT620;Portugal;Me.W;Tungsten;t;wmd;549;669;716;518;553
+PRT620;Portugal;Me.Zn;Zinc;t;wmd;71052;71357;144983;161569;176849
+PRY600;Paraguay;M.gya;Gypsum and anhydrite;t;wmd;4500;4500;4500;4500;4500
+PRY600;Paraguay;M.kao;Kaolin;t;wmd;6000;6000;6000;6000;6000
+ROU642;Romania;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;24996;28005;34809;41964;45495
+ROU642;Romania;Me.Cu;Copper;t;wmd;8390;8160;8555;9180;9130
+ROU642;Romania;M.crs;Crushed stone;t;bgs;34000000;31000000;28000000;28000000;28000000
+ROU642;Romania;M.fel;Feldspar;t;wmd;4501;5000;20000;20000;20000
+ROU642;Romania;Me.Au;Gold;Kg;wmd;500;960;900;500;500
+ROU642;Romania;M.gya;Gypsum and anhydrite;t;wmd;714273;764786;749668;878546;925782
+ROU642;Romania;M.kao;Kaolin;t;bgs;31000;0;0;0;0
+ROU642;Romania;Me.Pb;Lead;t;wmd;120;720;1200;520;510
+ROU642;Romania;O.Mn;Manganese ore;t;bgs;4477;8000;26000;45000;45000
+ROU642;Romania;M.sal;Salt nec;t;wmd;2100000;2340000;2374973;2015579;
+ROU642;Romania;M.sag;Sand and gravel;t;bgs;53500000;55000000;88000000;60000000;60000000
+ROU642;Romania;Me.Ag;Silver;Kg;wmd;18000;18000;18000;18000;18000
+ROU642;Romania;Me.U;Uranium;t;wmd;50.032090860000004;0;0;0;0
+ROU642;Romania;Me.Zn;Zinc;t;wmd;1500;770;330;1260;100
+RUS643;Russian Federation;Me.Sb;Antimony;t;wmd;6620;6120;30828;21671;17532
+RUS643;Russian Federation;Me.As;Arsenic;t;wmd;1500;1000;500;102;100
+RUS643;Russian Federation;M.asb;Asbestos;t;wmd;713675;710250;752917;789600;750000
+RUS643;Russian Federation;M.bar;Barite;t;wmd;434000;221000;265300;163000;265000
+RUS643;Russian Federation;O.Al;Bauxite;t;bgs;5432000;5523000;5651000;5574000;5570000
+RUS643;Russian Federation;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;589000;91000;50100;50000;50000
+RUS643;Russian Federation;Me.Bi;Bismuth;t;wmd;30;30;15;46;45
+RUS643;Russian Federation;M.bro;Bromine;Kg;bgs;;;;;500000
+RUS643;Russian Federation;Me.Cd;Cadmium;t;wmd;1100;1176;1201;1000;1000
+RUS643;Russian Federation;O.Cr;Chromium ore;t;bgs;485000;434000;469000;698000;689000
+RUS643;Russian Federation;Me.Co;Cobalt;t;wmd;8600;8900;8700;9400;9700
+RUS643;Russian Federation;Me.Cu;Copper;t;wmd;702300;761100;870500;812400;924100
+RUS643;Russian Federation;Nm.dig;Diamonds, gems;ct;wmd;24431760;21860500;22973133;25804591;18711931
+RUS643;Russian Federation;Nm.dii;Diamonds, industrial;ct;wmd;16287840;20754280;20187926;19466621;12474620
+RUS643;Russian Federation;M.fel;Feldspar;t;bgs;278142;281236;294411;294000;294000
+RUS643;Russian Federation;O.Fe;Ferrous ore;t;bgs;101000000;95000000;96100000;97500000;100200000
+RUS643;Russian Federation;M.flu;Fluorspar;t;bgs;3000;2700;6000;4000;32000
+RUS643;Russian Federation;Me.Ga;Gallium;t;wmd;4;5;6;8;5
+RUS643;Russian Federation;Me.Ge;Germanium;t;wmd;6;6;6;5;5
+RUS643;Russian Federation;Me.Au;Gold;Kg;wmd;253580;270300;279850;305050;308560
+RUS643;Russian Federation;M.gra;Graphite, natural;t;bgs;19400;25200;17800;16600;16600
+RUS643;Russian Federation;M.gya;Gypsum and anhydrite;t;wmd;4200000;3750000;5453400;4179300;4200000
+RUS643;Russian Federation;O.FeTiO3;Ilmenite;t;bgs;60000;0;0;0;0
+RUS643;Russian Federation;Me.In;Indium;t;wmd;5;5;4;6;10
+RUS643;Russian Federation;M.iod;Iodine;Kg;bgs;2952;7844;7895;3112;1300
+RUS643;Russian Federation;M.kao;Kaolin;t;bgs;1064800;1593000;1593000;1530000;1550000
+RUS643;Russian Federation;Me.Pb;Lead;t;wmd;204300;204700;206100;207900;200700
+RUS643;Russian Federation;O.MgCO3;Magnesite;t;wmd;1188900;1397000;1571400;1013800;1281400
+RUS643;Russian Federation;Me.Mn;Manganese;t;wmd;;0;8600;5900;28200
+RUS643;Russian Federation;Me.Hg;Mercury;t;wmd;50;50;50;50;30
+RUS643;Russian Federation;M.mic;Mica;t;bgs;4823;5219;4465;4500;4500
+RUS643;Russian Federation;Me.Mo;Molybdenum;t;wmd;3359;3227;2262;1989;1707
+RUS643;Russian Federation;O.nep;Nepheline syenite;t;bgs;4432000;4332000;4294000;4244000;4599000
+RUS643;Russian Federation;Me.Ni;Nickel;t;wmd;223000;223000;238800;233800;234100
+RUS643;Russian Federation;Me.Nb;Niobium;t;wmd;438.999762624;452.980646784;467.660575152;460.670133072;431.310276336
+RUS643;Russian Federation;Me.Pd;Palladium;Kg;wmd;86500;76270;92570;92900;81990
+RUS643;Russian Federation;M.per;Perlite;t;wmd;45000;45000;45000;45000;45000
+RUS643;Russian Federation;O.P;Phosphate rock;t;bgs;12300000;13200000;13600000;13800000;13800000
+RUS643;Russian Federation;Me.Pt;Platinum;Kg;wmd;22300;22400;21370;22420;21740
+RUS643;Russian Federation;Me.K2O;Potassium oxide;t;bgs;6588000;7320000;7015000;6771000;6893000
+RUS643;Russian Federation;Me.Re;Rhenium;Kg;wmd;1500;1500;1000;1000;2000
+RUS643;Russian Federation;Me.Rh;Rhodium;Kg;wmd;2644;2426;2146;2115;1800
+RUS643;Russian Federation;M.sal;Salt nec;t;wmd;6687000;7073000;6710000;8175000;
+RUS643;Russian Federation;Me.Se;Selenium;t;wmd;197;194;185;193;195
+RUS643;Russian Federation;Me.Ag;Silver;Kg;wmd;1493000;1373000;1400100;1407000;1380000
+RUS643;Russian Federation;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;20000;20000;12500;48000;104000
+RUS643;Russian Federation;Me.Ta;Tantalum;t;wmd;40.129406765000006;36.853536825;36.034569340000004;26.20695952;49.1380491
+RUS643;Russian Federation;Me.Te;Tellurium;t;wmd;40;44;35;38;40
+RUS643;Russian Federation;Me.Sn;Tin;t;wmd;627;1011;1531;2471;2559
+RUS643;Russian Federation;Me.W;Tungsten;t;wmd;2707;2144;2234;2433;2274
+RUS643;Russian Federation;Me.U;Uranium;t;wmd;3004.46945622;2917.1252976;2903.5572729600003;2911.1892868200002;2845.8931682400003
+RUS643;Russian Federation;Me.V;Vanadium;t;wmd;9458.963903414;10439.254489164;9551.951467548;10295.85198062;10941.723435117
+RUS643;Russian Federation;M.ver;Vermiculite;t;bgs;12363;9262;25904;29266;9000
+RUS643;Russian Federation;Me.Zn;Zinc;t;wmd;245800;255200;288000;275400;260700
+RUS643;Russian Federation;O.Zr;Zircon;t;wmd;7704;7324;7400;6300;6000
+RUS643;Russian Federation;Me.reo;;t;wmd;6126;5000;5192;5240;2663
+RWA646;Rwanda;Me.Au;Gold;Kg;wmd;1980;2000;2163;2000;2000
+RWA646;Rwanda;Me.Nb;Niobium;t;wmd;132.81839952;181.75149408;171.26583096;143.30406264;111.84707328
+RWA646;Rwanda;Me.Ta;Tantalum;t;wmd;237.50057065000001;323.492156575;311.2076443;257.974757775;196.5521964
+RWA646;Rwanda;Me.Sn;Tin;t;wmd;2560;3430;3405;2780;2030
+RWA646;Rwanda;Me.W;Tungsten;t;wmd;1020;905;1155;1120;1075
+SAU682;Saudi Arabia;O.Al;Bauxite;t;wmd;4768000;4125000;4906000;5127000;5243000
+SAU682;Saudi Arabia;Me.Cu;Copper;t;wmd;27840;43150;59200;68580;79060
+SAU682;Saudi Arabia;M.fel;Feldspar;t;wmd;188000;197000;175594;216000;216000
+SAU682;Saudi Arabia;Me.Au;Gold;Kg;wmd;7010;10465;13397;12418;13222
+SAU682;Saudi Arabia;M.gya;Gypsum and anhydrite;t;wmd;3000000;3150000;3352832;3472000;3500000
+SAU682;Saudi Arabia;M.kao;Kaolin;t;wmd;196000;206000;207461;227000;215000
+SAU682;Saudi Arabia;O.MgCO3;Magnesite;t;wmd;100000;104132;155000;200000;250000
+SAU682;Saudi Arabia;O.P;Phosphate rock;t;bgs;5400000;5800000;5444000;5716000;5700000
+SAU682;Saudi Arabia;M.sal;Salt nec;t;wmd;2400000;2520000;2646000;2778000;
+SAU682;Saudi Arabia;Me.Ag;Silver;Kg;wmd;4710;5133;6480;7123;7479
+SAU682;Saudi Arabia;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;42000;44000;46000;48000;48000
+SAU682;Saudi Arabia;Me.Zn;Zinc;t;wmd;4230;21787;27100;31870;33500
+SDN729;Sudan;O.Cr;Chromium ore;t;bgs;45000;32000;27000;12728;9000
+SDN729;Sudan;M.fel;Feldspar;t;bgs;49000;29000;36000;15300;25000
+SDN729;Sudan;Me.Au;Gold;Kg;wmd;93000;107300;93600;57700;35700
+SDN729;Sudan;M.gya;Gypsum and anhydrite;t;wmd;349236;333000;226000;193000;173000
+SDN729;Sudan;M.kao;Kaolin;t;wmd;6500;5446;11000;29000;19700
+SDN729;Sudan;O.Mn;Manganese ore;t;bgs;9800;4000;4000;1000;1000
+SDN729;Sudan;M.sal;Salt nec;t;wmd;223397;235000;267000;263000;
+SDN729;Sudan;Me.Ag;Silver;Kg;wmd;1000;2000;1000;1000;1000
+SDN729;Sudan;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;4250;4000;4000;2000;0
+SEN686;Senegal;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;172300;165900;177900;197673;201919
+SEN686;Senegal;Me.Au;Gold;Kg;wmd;6741;7255;12508;14550;12408
+SEN686;Senegal;O.FeTiO3;Ilmenite;t;bgs;416249;492441;506938;491602;505000
+SEN686;Senegal;O.leu;Leucoxene;t;bgs;9664;9975;9605;10130;9500
+SEN686;Senegal;Me.Mn;Manganese;t;wmd;600;1520;3330;1880;6580
+SEN686;Senegal;O.P;Phosphate rock;t;bgs;2609000;2385000;2699200;2391900;2938500
+SEN686;Senegal;M.sal;Salt nec;t;wmd;263218;265040;245700;286100;
+SEN686;Senegal;Me.Ag;Silver;Kg;wmd;640;660;940;898;1090
+SEN686;Senegal;O.Zr;Zircon;t;wmd;52627;81749;93569;80747;83257
+SLB090;Solomon Islands;O.Al;Bauxite;t;wmd;234500;1523900;1646200;1234030;841890
+SLE694;Sierra Leone;O.Al;Bauxite;t;wmd;1368531;1787716;1938461;1883863;1342139
+SLE694;Sierra Leone;Nm.dig;Diamonds, gems;ct;wmd;417952;165860;402530;433054;483232
+SLE694;Sierra Leone;Nm.dii;Diamonds, industrial;ct;wmd;131550;122380;339070;391403;202800
+SLE694;Sierra Leone;O.Fe;Ferrous ore;t;bgs;6576576;6531460;968585;722305;13000
+SLE694;Sierra Leone;Me.Au;Gold;Kg;wmd;188;142;464;75;25
+SLE694;Sierra Leone;O.FeTiO3;Ilmenite;t;bgs;28102;57040;49510;63350;45773
+SLE694;Sierra Leone;O.TiO2;Rutile;t;bgs;148541;165470;108320;136790;116569
+SLE694;Sierra Leone;O.Zr;Zircon;t;wmd;1329;3000;11400;8500;4564
+SLV222;El Salvador;M.sal;Salt nec;t;wmd;30000;30000;30000;30000;
+SRB688;Serbia;Me.Cu;Copper;t;wmd;34625;45115;44096;43550;52207
+SRB688;Serbia;M.fel;Feldspar;t;bgs;20000;20000;20000;20000;20000
+SRB688;Serbia;Me.Au;Gold;Kg;wmd;805;1199;839;1452;1550
+SRB688;Serbia;M.kao;Kaolin;t;bgs;253000;255000;279000;254000;234000
+SRB688;Serbia;Me.Pb;Lead;t;wmd;7080;8790;9110;9970;8420
+SRB688;Serbia;Me.Pd;Palladium;Kg;bgs;31;38;55;100;100
+SRB688;Serbia;Me.Pt;Platinum;Kg;bgs;4;2;5;10;20
+SRB688;Serbia;M.sal;Salt nec;t;wmd;9149;8197;7811;13464;
+SRB688;Serbia;Me.Se;Selenium;t;wmd;18;27;28;20;10
+SRB688;Serbia;Me.Ag;Silver;Kg;wmd;11345;12340;8970;14502;15900
+SRB688;Serbia;Me.Zn;Zinc;t;wmd;6900;7400;8230;7510;11480
+SSD728;South Sudan;Me.Au;Gold;Kg;bgs;200;200;200;200;200
+SUR740;Suriname;O.Al;Bauxite;t;wmd;0;0;0;0;
+SUR740;Suriname;Me.Au;Gold;Kg;wmd;12926;25844;26006;24516;21214
+SVK703;Slovakia;M.bar;Barite;t;bgs;25000;15690;9500;5770;6000
+SVK703;Slovakia;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;173530;226425;269990;260120;261640
+SVK703;Slovakia;Me.Cu;Copper;t;wmd;39;32;21;17;20
+SVK703;Slovakia;M.crs;Crushed stone;t;bgs;12833100;13518792;12790000;11551000;10823895
+SVK703;Slovakia;M.fel;Feldspar;t;bgs;8000;15800;17000;19100;29140
+SVK703;Slovakia;Me.Au;Gold;Kg;wmd;466;447;515;346;336
+SVK703;Slovakia;M.gya;Gypsum and anhydrite;t;bgs;53000;45700;55000;50000;65560
+SVK703;Slovakia;M.kao;Kaolin;t;wmd;11923;21400;34400;24970;30960
+SVK703;Slovakia;Me.Pb;Lead;t;wmd;133;147;114;111;102
+SVK703;Slovakia;O.MgCO3;Magnesite;t;wmd;683400;975100;1053900;1015800;787476
+SVK703;Slovakia;M.per;Perlite;t;bgs;19000;47510;36000;32000;37310
+SVK703;Slovakia;M.sag;Sand and gravel;t;bgs;1306800;1743489;2096000;1982000;1785727
+SVK703;Slovakia;Me.Ag;Silver;Kg;wmd;391;410;345;295;269
+SVK703;Slovakia;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;800;14000;43000;70100;91600
+SVK703;Slovakia;Me.Zn;Zinc;t;wmd;126;166;151;119;96
+SVN705;Slovenia;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;182;147;113;99;77
+SVN705;Slovenia;M.crs;Crushed stone;t;bgs;7470433;8642881;10282002;9550639;8983918
+SVN705;Slovenia;M.sal;Salt nec;t;wmd;2417;2335;2018;1437;
+SVN705;Slovenia;M.sag;Sand and gravel;t;bgs;1833732;2047403;1810666;1437101;1869851
+SWE752;Sweden;Me.Cu;Copper;t;wmd;79247;104594;106140;99332;100065
+SWE752;Sweden;M.crs;Crushed stone;t;bgs;75720385;84467197;91730406;92890100;91730897
+SWE752;Sweden;M.fel;Feldspar;t;wmd;22000;22000;28000;25000;20000
+SWE752;Sweden;O.Fe;Ferrous ore;t;bgs;31843000;31763000;35774000;38913000;39228000
+SWE752;Sweden;Me.Au;Gold;Kg;wmd;6463;7858;7866;7972;8249
+SWE752;Sweden;M.gra;Graphite, natural;t;wmd;0;0;0;0;
+SWE752;Sweden;Me.Pb;Lead;t;wmd;75830;71112;64751;68635;65402
+SWE752;Sweden;M.sag;Sand and gravel;t;bgs;11927694;11774505;12187744;10617896;9290761
+SWE752;Sweden;Me.Se;Selenium;t;wmd;64;66;59;53;50
+SWE752;Sweden;Me.Ag;Silver;Kg;wmd;498686;467500;443624;419926;400929
+SWE752;Sweden;Me.Te;Tellurium;t;wmd;39;35;45;41;42
+SWE752;Sweden;Me.Zn;Zinc;t;wmd;258264;251244;237715;247657;234811
+SYR760;Syria;M.gya;Gypsum and anhydrite;t;wmd;101000;66000;66000;70000;70000
+SYR760;Syria;O.P;Phosphate rock;t;bgs;0;100000;2000000;2000000;360000
+SYR760;Syria;M.sal;Salt nec;t;wmd;5000;5000;12000;50000;
+TGO768;Togo;Nm.dii;Diamonds, industrial;ct;wmd;0;0;0;16;0
+TGO768;Togo;Me.Au;Gold;Kg;wmd;14470;19960;10000;2000;2000
+TGO768;Togo;O.P;Phosphate rock;t;bgs;850076;732503;930857;703573;1300000
+THA764;Thailand;Me.Sb;Antimony;t;wmd;32;0;0;0;0
+THA764;Thailand;M.bar;Barite;t;wmd;223101;147954;67490;33644;22394
+THA764;Thailand;M.fel;Feldspar;t;wmd;1167147;1385925;1117803;1251143;1105344
+THA764;Thailand;O.Fe;Ferrous ore;t;bgs;0;135;0;17660;113239
+THA764;Thailand;M.flu;Fluorspar;t;wmd;20100;5500;16700;22247;9807
+THA764;Thailand;Me.Au;Gold;Kg;wmd;4293;0;0;0;0
+THA764;Thailand;M.gya;Gypsum and anhydrite;t;wmd;11746811;10646644;11197657;9787287;9291159
+THA764;Thailand;O.FeTiO3;Ilmenite;t;bgs;0;8;41;5095;153
+THA764;Thailand;M.kao;Kaolin;t;wmd;101618;103079;110437;92414;87250
+THA764;Thailand;O.Mn;Manganese ore;t;bgs;2750;8020;4000;4800;1400
+THA764;Thailand;M.per;Perlite;t;wmd;15690;5800;5600;15000;3500
+THA764;Thailand;O.P;Phosphate rock;t;bgs;500;8000;0;0;0
+THA764;Thailand;M.sal;Salt nec;t;wmd;1390548;1497223;1487364;1580390;
+THA764;Thailand;Me.Ag;Silver;Kg;wmd;35954;0;0;0;0
+THA764;Thailand;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;103926;61436;58676;14564;38146
+THA764;Thailand;Me.Sn;Tin;t;wmd;58;341;47;46;198
+THA764;Thailand;Me.W;Tungsten;t;wmd;29;43;65;22;57
+THA764;Thailand;Me.Zn;Zinc;t;wmd;35130;1580;0;0;0
+TJK762;Tajikistan;Me.Sb;Antimony;t;wmd;26970;26370;28890;29900;32000
+TJK762;Tajikistan;Me.Cu;Copper;t;wmd;2050;6060;8490;8500;1000
+TJK762;Tajikistan;M.flu;Fluorspar;t;wmd;;0;400;1000;10000
+TJK762;Tajikistan;Me.Au;Gold;Kg;wmd;5040;5500;6432;8100;8764
+TJK762;Tajikistan;M.gya;Gypsum and anhydrite;t;wmd;8750;43066;9639;14000;14000
+TJK762;Tajikistan;Me.Pb;Lead;t;wmd;57360;61090;52990;65570;41630
+TJK762;Tajikistan;Me.Hg;Mercury;t;wmd;120;100;120;80;160
+TJK762;Tajikistan;M.sal;Salt nec;t;wmd;35238;41323;36964;35324;
+TJK762;Tajikistan;Me.Ag;Silver;Kg;wmd;3200;6550;9500;11100;11350
+TJK762;Tajikistan;Me.Zn;Zinc;t;wmd;73850;92940;84330;90860;54720
+TKM795;Turkmenistan;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;10000;10000;10000;10000;10000
+TKM795;Turkmenistan;M.bro;Bromine;Kg;bgs;500000;500000;500000;500000;500000
+TKM795;Turkmenistan;M.iod;Iodine;Kg;bgs;510000;544000;540000;600000;600000
+TKM795;Turkmenistan;Me.K2O;Potassium oxide;t;wmd;;0;15200;11100;16000
+TKM795;Turkmenistan;M.sal;Salt nec;t;wmd;100000;100000;100000;100000;
+TUN788;Tunisia;M.bar;Barite;t;bgs;10000;0;0;0;0
+TUN788;Tunisia;O.Fe;Ferrous ore;t;bgs;210697;197965;175853;186519;171858
+TUN788;Tunisia;M.gya;Gypsum and anhydrite;t;bgs;902394;944245;984031;1046885;890000
+TUN788;Tunisia;O.P;Phosphate rock;t;bgs;3663613;4422100;2802000;4108800;3194100
+TUN788;Tunisia;M.sal;Salt nec;t;wmd;1346026;1403537;2116972;2039781;
+TUR792;Turkey;Me.Sb;Antimony;t;wmd;2750;4840;3570;3815;2570
+TUR792;Turkey;M.bar;Barite;t;wmd;321239;292447;465138;413811;283161
+TUR792;Turkey;O.Al;Bauxite;t;bgs;989156;1719144;678138;2255480;2399680
+TUR792;Turkey;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;1744912;1481617;1331955;1533547;1658837
+TUR792;Turkey;M.bor;Borate minerals;t;wmd;1831000;2025000;2432000;2040000;
+TUR792;Turkey;O.Cr;Chromium ore;t;bgs;2024821;2554222;2896651;3363791;3100000
+TUR792;Turkey;Me.Co;Cobalt;t;wmd;100;220;259;115;250
+TUR792;Turkey;Me.Cu;Copper;t;bgs;100000;83000;79600;73500;107000
+TUR792;Turkey;M.fel;Feldspar;t;wmd;9475819;10273573;11474040;9447810;10050911
+TUR792;Turkey;O.Fe;Ferrous ore;t;bgs;7137233;9992455;15650305;14473363;21454649
+TUR792;Turkey;M.flu;Fluorspar;t;wmd;10339;20150;6200;14400;19896
+TUR792;Turkey;Me.Au;Gold;Kg;wmd;24030;23090;27100;39000;42100
+TUR792;Turkey;M.gra;Graphite, natural;t;wmd;0;4000;16752;9990;15205
+TUR792;Turkey;M.gya;Gypsum and anhydrite;t;wmd;10124221;10223112;10896476;7489129;9280864
+TUR792;Turkey;M.kao;Kaolin;t;wmd;1283260;1362799;1515609;1283776;1224746
+TUR792;Turkey;Me.Pb;Lead;t;wmd;64300;74990;75990;71480;81520
+TUR792;Turkey;O.MgCO3;Magnesite;t;wmd;3258445;1694071;1958847;1496081;1560818
+TUR792;Turkey;O.Mn;Manganese ore;t;bgs;46867;77895;85334;114037;101766
+TUR792;Turkey;M.mic;Mica;t;bgs;14531;204;5732;454;4139
+TUR792;Turkey;Me.Mo;Molybdenum;t;wmd;0;900;450;0;0
+TUR792;Turkey;Me.Ni;Nickel;t;wmd;9340;14770;13560;4740;20200
+TUR792;Turkey;M.per;Perlite;t;wmd;1066251;606231;1088983;1174486;1146341
+TUR792;Turkey;O.P;Phosphate rock;t;bgs;772500;0;0;315215;872894
+TUR792;Turkey;M.sal;Salt nec;t;wmd;5328256;6673242;6298705;6961015;
+TUR792;Turkey;Me.Ag;Silver;Kg;wmd;174180;151490;202400;242000;98270
+TUR792;Turkey;M.soc;Sodium carbonate, natural;t;bgs;1976880;3274416;3400000;3500000;3400000
+TUR792;Turkey;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;203214;474482;284216;92077;143470
+TUR792;Turkey;Me.Ti;Titanium;t;wmd;2846.8787702500003;3817.8142666300005;3700.9424013250004;3673.9719708700004;3868.7584130450005
+TUR792;Turkey;M.ver;Vermiculite;t;wmd;1050;1618;18183;1370;19230
+TUR792;Turkey;Me.Zn;Zinc;t;bgs;118700;155900;184500;146800;136300
+TUR792;Turkey;O.Zr;Zircon;t;wmd;500;1200;1950;0;0
+TWN158;Taiwan;M.fel;Feldspar;t;bgs;0;0;0;0;0
+TWN158;Taiwan;Me.Au;Gold;Kg;wmd;0;4;4;6;3
+TWN158;Taiwan;M.kao;Kaolin;t;bgs;4035;1665;20;500;404
+TWN158;Taiwan;M.mic;Mica;t;bgs;1879;750;2970;3312;3186
+TWN158;Taiwan;M.sal;Salt nec;t;wmd;77300;77054;78539;76255;
+TWN158;Taiwan;M.tal;Talc (steatite, soapstone, pyrophyllite);t;bgs;250;0;17;6;0
+TZA834;Tanzania;O.Al;Bauxite;t;wmd;73;12;7;0;25995
+TZA834;Tanzania;Me.Cu;Copper;t;wmd;17400;15800;10000;14187;11700
+TZA834;Tanzania;Nm.dig;Diamonds, gems;ct;wmd;203915;258785;324105;354240;125110
+TZA834;Tanzania;Nm.dii;Diamonds, industrial;ct;wmd;35985;45670;57195;62510;22080
+TZA834;Tanzania;Me.Au;Gold;Kg;wmd;45778;43490;39304;48408;55805
+TZA834;Tanzania;M.gya;Gypsum and anhydrite;t;wmd;213744;123645;241260;256529;443926
+TZA834;Tanzania;M.kao;Kaolin;t;wmd;656;13816;129383;15343;98454
+TZA834;Tanzania;O.P;Phosphate rock;t;bgs;23658;1351;0;0;28376
+TZA834;Tanzania;M.sal;Salt nec;t;wmd;178200;124500;36600;99510;
+TZA834;Tanzania;Me.Ag;Silver;Kg;wmd;17984;10911;12041;12550;13187
+TZA834;Tanzania;Me.Sn;Tin;t;wmd;104;68;6;18;35
+UGA800;Uganda;O.Be;Beryl;t;bgs;14;0;24;15;186
+UGA800;Uganda;O.Fe;Ferrous ore;t;bgs;2163;2320;4500;0;0
+UGA800;Uganda;Me.Au;Gold;Kg;wmd;11;4;12;7;3205
+UGA800;Uganda;M.gya;Gypsum and anhydrite;t;bgs;0;60;0;0;0
+UGA800;Uganda;M.kao;Kaolin;t;wmd;45909;55317;17281;10448;323
+UGA800;Uganda;Me.Nb;Niobium;t;wmd;2.796176832;2.097132624;1.398088416;1.398088416;36.350298816
+UGA800;Uganda;Me.Sn;Tin;t;wmd;62;66;53;15;0
+UGA800;Uganda;Me.W;Tungsten;t;wmd;41;62;188;144;11
+UGA800;Uganda;M.ver;Vermiculite;t;wmd;3295;4119;10413;9674;14170
+UKR804;Ukraine;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;200000;113200;178200;124700;125000
+UKR804;Ukraine;M.bro;Bromine;Kg;bgs;4866000;4500000;4500000;4500000;4500000
+UKR804;Ukraine;M.fel;Feldspar;t;wmd;33627;35000;50000;60000;50000
+UKR804;Ukraine;O.Fe;Ferrous ore;t;bgs;62876000;60574000;60549000;76134000;78837700
+UKR804;Ukraine;Me.Ga;Gallium;t;wmd;9;9;6;5;4
+UKR804;Ukraine;Me.Ge;Germanium;t;wmd;1;1;1;1;1
+UKR804;Ukraine;M.gra;Graphite, natural;t;bgs;14630;14855;15000;15000;15000
+UKR804;Ukraine;M.gya;Gypsum and anhydrite;t;wmd;1303000;1528900;1386400;1409400;1529000
+UKR804;Ukraine;O.FeTiO3;Ilmenite;t;bgs;500000;500000;745417;818543;773093
+UKR804;Ukraine;M.kao;Kaolin;t;wmd;2335004;2379636;2091525;1843561;1680891
+UKR804;Ukraine;O.Mn;Manganese ore;t;bgs;1328271;1758172;1845156;1854240;1850000
+UKR804;Ukraine;M.per;Perlite;t;bgs;15772;16560;17000;17000;17000
+UKR804;Ukraine;O.TiO2;Rutile;t;bgs;90000;90000;106858;115500;110500
+UKR804;Ukraine;M.sal;Salt nec;t;wmd;1783530;1815684;2191619;2092795;
+UKR804;Ukraine;Me.U;Uranium;t;wmd;1004.8818249000001;836.1295184400001;1178.7221406;800.5134537600001;743.69735058
+UKR804;Ukraine;O.Zr;Zircon;t;wmd;29280;27239;21614;18000;16000
+UNK000;Kosovo;Me.Pb;Lead;t;wmd;6530;5100;4700;3960;3870
+UNK000;Kosovo;Me.Ni;Nickel;t;wmd;4310;7120;4790;3360;4180
+UNK000;Kosovo;Me.Zn;Zinc;t;wmd;4800;4500;3600;3050;3890
+URY858;Uruguay;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;6650;6640;7760;6730;16550
+URY858;Uruguay;M.fel;Feldspar;t;wmd;460;370;380;100;210
+URY858;Uruguay;Me.Au;Gold;Kg;wmd;999;1055;393;0;0
+URY858;Uruguay;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;290;100;420;50;520
+USA840;United States of America;M.bar;Barite;t;bgs;232000;334000;366000;414000;450000
+USA840;United States of America;O.Al;Bauxite;t;bgs;272908;352096;399712;154870;16438
+USA840;United States of America;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;4000000;4450000;4570000;4520000;4240000
+USA840;United States of America;O.Be;Beryl;t;bgs;3870;3760;4130;4000;3750
+USA840;United States of America;M.bor;Borate minerals;t;wmd;1134000;1075000;1075000;1030000;
+USA840;United States of America;M.bro;Bromine;Kg;bgs;225000000;225000000;225000000;225000000;225000000
+USA840;United States of America;Me.Cd;Cadmium;t;wmd;400;400;300;250;400
+USA840;United States of America;Me.Co;Cobalt;t;wmd;690;640;480;500;600
+USA840;United States of America;Me.Cu;Copper;t;wmd;1430000;1260000;1220000;1260000;1200000
+USA840;United States of America;M.fel;Feldspar;t;wmd;470000;440000;550000;450000;430000
+USA840;United States of America;O.Fe;Ferrous ore;t;bgs;41800000;47900000;49500000;46800000;38100000
+USA840;United States of America;M.fic;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite;t;bgs;79700;91300;89200;91300;85000
+USA840;United States of America;M.fue;Fuller's earth;t;bgs;1860000;1840000;1880000;1920000;2000000
+USA840;United States of America;Me.Ge;Germanium;t;wmd;3;2;2;2;2
+USA840;United States of America;Me.Au;Gold;Kg;wmd;228267;236778;226000;200000;193400
+USA840;United States of America;M.gya;Gypsum and anhydrite;t;wmd;19800000;20700000;21100000;21700000;21200000
+USA840;United States of America;M.iod;Iodine;Kg;bgs;1250000;1150000;1150000;1150000;1150000
+USA840;United States of America;M.kao;Kaolin;t;wmd;5290000;5450000;5350000;5060000;4570000
+USA840;United States of America;Me.Pb;Lead;t;wmd;346000;310000;280000;274000;306000
+USA840;United States of America;O.Li;Lithium ore;t;bgs;900;900;900;900;900
+USA840;United States of America;O.MgCO3;Magnesite;t;wmd;99800;294850;238828;294590;419076
+USA840;United States of America;Me.Hg;Mercury;t;wmd;15;15;15;15;15
+USA840;United States of America;M.mic;Mica;t;bgs;28000;40000;44000;40100;35000
+USA840;United States of America;Me.Mo;Molybdenum;t;wmd;36200;40700;41400;43600;51100
+USA840;United States of America;Me.Ni;Nickel;t;wmd;24100;22100;17600;13500;16700
+USA840;United States of America;Me.Pd;Palladium;Kg;bgs;13070;13600;14300;14300;14600
+USA840;United States of America;M.per;Perlite;t;wmd;521000;587000;504000;629000;845000
+USA840;United States of America;O.P;Phosphate rock;t;bgs;27100000;27900000;25700000;23300000;23400000
+USA840;United States of America;Me.Pt;Platinum;Kg;bgs;3890;3980;4160;4150;4200
+USA840;United States of America;Me.K2O;Potassium oxide;t;wmd;510000;480000;520000;510000;460000
+USA840;United States of America;Me.Re;Rhenium;Kg;wmd;8440;8200;8220;8360;8830
+USA840;United States of America;Me.Rh;Rhodium;Kg;wmd;103;100;100;100;100
+USA840;United States of America;M.sal;Salt nec;t;bgs;41750000;39560000;41001000;42000000;38610000
+USA840;United States of America;Me.Se;Selenium;t;wmd;122;116;152;144;150
+USA840;United States of America;Me.Ag;Silver;Kg;wmd;1153000;1030000;934000;981000;1030000
+USA840;United States of America;M.soc;Sodium carbonate, natural;t;bgs;11800000;12000000;11900000;11700000;9990000
+USA840;United States of America;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;578000;610000;648000;578000;490000
+USA840;United States of America;Me.Te;Tellurium;t;wmd;50;0;0;2;2
+USA840;United States of America;Me.Ti;Titanium;t;wmd;32963.859445;39556.631334000005;59934.2899;59934.2899;59934.2899
+USA840;United States of America;Me.U;Uranium;t;wmd;1121.90603742;939.5857063200001;557.1370117800001;66.99212166000001;5.93601078
+USA840;United States of America;Me.V;Vanadium;t;bgs;0;0;0;460;170
+USA840;United States of America;M.ver;Vermiculite;t;wmd;100000;100000;100000;100000;100000
+USA840;United States of America;M.wol;Wollastonite;t;bgs;60000;50000;60000;50000;40000
+USA840;United States of America;Me.Zn;Zinc;t;wmd;804800;773800;824000;753000;718000
+USA840;United States of America;O.Zr;Zircon;t;wmd;50000;45000;100000;30000;30000
+USA840;United States of America;Me.reo;;t;wmd;0;0;28000;56000;39000
+UZB860;Uzbekistan;M.ben;Bentonite, sepiolite and attapulgite;t;bgs;40000;40000;12559;32588;48739
+UZB860;Uzbekistan;Me.Bi;Bismuth;t;wmd;0;0;0;2;2
+UZB860;Uzbekistan;Me.Cd;Cadmium;t;wmd;290;306;237;250;450
+UZB860;Uzbekistan;Me.Cu;Copper;t;bgs;135000;140100;141200;137300;142800
+UZB860;Uzbekistan;M.fel;Feldspar;t;bgs;4300;4300;26841;47784;63595
+UZB860;Uzbekistan;Me.Au;Gold;Kg;wmd;100000;89900;92716;100900;104600
+UZB860;Uzbekistan;M.gya;Gypsum and anhydrite;t;bgs;80000;80000;323809;279432;288657
+UZB860;Uzbekistan;M.iod;Iodine;Kg;bgs;2000;2000;0;0;0
+UZB860;Uzbekistan;M.kao;Kaolin;t;wmd;323680;269906;291814;377184;373440
+UZB860;Uzbekistan;Me.Pb;Lead;t;bgs;30000;26000;21300;19100;18400
+UZB860;Uzbekistan;Me.Mo;Molybdenum;t;wmd;620;700;750;800;760
+UZB860;Uzbekistan;Me.Pd;Palladium;Kg;wmd;;;0;28;91
+UZB860;Uzbekistan;O.P;Phosphate rock;t;bgs;700000;700000;617900;588600;646000
+UZB860;Uzbekistan;Me.K2O;Potassium oxide;t;wmd;83000;114900;176900;198400;210000
+UZB860;Uzbekistan;Me.Re;Rhenium;Kg;wmd;660;530;500;800;1000
+UZB860;Uzbekistan;Me.Se;Selenium;t;wmd;10;25;28;30;40
+UZB860;Uzbekistan;Me.Ag;Silver;Kg;bgs;230000;232300;223900;260000;260000
+UZB860;Uzbekistan;Me.Te;Tellurium;t;wmd;3;3;2;2;3
+UZB860;Uzbekistan;Me.W;Tungsten;t;wmd;80;103;97;100;20
+UZB860;Uzbekistan;Me.U;Uranium;t;wmd;3325.0140383400003;3399.6381738600003;3444.58225548;3499.70235558;3499.70235558
+UZB860;Uzbekistan;Me.Zn;Zinc;t;bgs;12000;37000;31000;37000;41000
+VEN862;Venezuela;O.Al;Bauxite;t;wmd;340000;242000;92000;50000;0
+VEN862;Venezuela;Nm.dig;Diamonds, gems;ct;wmd;;0;800;0;794
+VEN862;Venezuela;Nm.dii;Diamonds, industrial;ct;wmd;;0;1200;0;0
+VEN862;Venezuela;M.fel;Feldspar;t;bgs;75000;36313;30000;30000;30000
+VEN862;Venezuela;O.Fe;Ferrous ore;t;bgs;7306000;4601000;2800000;4000000;2600000
+VEN862;Venezuela;Me.Au;Gold;Kg;wmd;800;8100;9100;9100;9000
+VEN862;Venezuela;M.kao;Kaolin;t;bgs;3000;3000;3000;3000;3000
+VEN862;Venezuela;Me.Ni;Nickel;t;wmd;0;0;0;0;
+VEN862;Venezuela;O.P;Phosphate rock;t;bgs;25000;68062;70000;70000;70000
+VEN862;Venezuela;M.sal;Salt nec;t;wmd;640000;600000;600000;600000;
+VNM704;Viet Nam;Me.Sb;Antimony;t;bgs;229;230;244;395;388
+VNM704;Viet Nam;M.bar;Barite;t;bgs;30000;26000;48000;50000;50000
+VNM704;Viet Nam;O.Al;Bauxite;t;wmd;1606100;2565000;3569700;3700000;3610000
+VNM704;Viet Nam;Me.Bi;Bismuth;t;wmd;2013;2403;2639;917;993
+VNM704;Viet Nam;Me.Co;Cobalt;t;wmd;134;0;0;0;0
+VNM704;Viet Nam;Me.Cu;Copper;t;wmd;22300;21100;25300;29240;37990
+VNM704;Viet Nam;M.fel;Feldspar;t;bgs;100000;100000;100000;100000;100000
+VNM704;Viet Nam;O.Fe;Ferrous ore;t;bgs;3056000;5515000;5588496;6106000;5239000
+VNM704;Viet Nam;M.flu;Fluorspar;t;wmd;218878;234905;238700;238003;219920
+VNM704;Viet Nam;Me.Au;Gold;Kg;wmd;584;557;570;540;618
+VNM704;Viet Nam;O.FeTiO3;Ilmenite;t;bgs;210800;225300;235126;216700;230400
+VNM704;Viet Nam;M.kao;Kaolin;t;wmd;100000;100000;100000;100000;100000
+VNM704;Viet Nam;Me.Pb;Lead;t;wmd;800;4500;14500;12500;13980
+VNM704;Viet Nam;O.Mn;Manganese ore;t;bgs;13400;50000;68194;76106;80000
+VNM704;Viet Nam;Me.Ni;Nickel;t;wmd;4272;0;0;0;0
+VNM704;Viet Nam;O.P;Phosphate rock;t;bgs;3142500;4588000;4332216;4489600;4389500
+VNM704;Viet Nam;M.sal;Salt nec;t;wmd;982000;648500;996500;912900;
+VNM704;Viet Nam;Me.Sn;Tin;t;bgs;4468;5200;5745;6369;6798
+VNM704;Viet Nam;Me.W;Tungsten;t;wmd;5041;5141;4881;4816;8066
+VNM704;Viet Nam;Me.Zn;Zinc;t;wmd;12000;12000;12000;13000;10900
+VNM704;Viet Nam;O.Zr;Zircon;t;wmd;9300;5500;10500;6600;10700
+VNM704;Viet Nam;Me.reo;;t;bgs;220;200;920;1300;1000
+YEM887;Yemen;M.gya;Gypsum and anhydrite;t;wmd;100000;50000;50000;20000;20000
+YEM887;Yemen;M.sal;Salt nec;t;wmd;50000;50000;50000;50000;
+ZAF710;South Africa;Me.Sb;Antimony;t;bgs;350;0;0;;
+ZAF710;South Africa;M.ben;Bentonite, sepiolite and attapulgite;t;wmd;148742;165141;173486;105084;85688
+ZAF710;South Africa;O.Cr;Chromium ore;t;bgs;14705180;16586863;17829038;17664239;13243231
+ZAF710;South Africa;Me.Co;Cobalt;t;wmd;1101;1065;1007;1027;897
+ZAF710;South Africa;Me.Cu;Copper;t;wmd;65257;65532;46900;52501;29068
+ZAF710;South Africa;Nm.dig;Diamonds, gems;ct;wmd;3322220;3877040;3964730;2872280;3399300
+ZAF710;South Africa;Nm.dii;Diamonds, industrial;ct;wmd;4983330;5815560;5947100;4308420;5098950
+ZAF710;South Africa;M.fel;Feldspar;t;wmd;127872;116705;76803;76255;48427
+ZAF710;South Africa;O.Fe;Ferrous ore;t;bgs;66455868;74643475;74263738;72430288;55635308
+ZAF710;South Africa;M.fic;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite;t;bgs;180000;200000;200000;190000;180000
+ZAF710;South Africa;M.flu;Fluorspar;t;wmd;177000;218399;230000;210000;210000
+ZAF710;South Africa;Me.Au;Gold;Kg;wmd;142202;137290;117144;105185;95887
+ZAF710;South Africa;M.gya;Gypsum and anhydrite;t;wmd;262457;320685;321988;277102;205542
+ZAF710;South Africa;O.FeTiO3;Ilmenite;t;bgs;1020000;550000;765000;1100000;1000000
+ZAF710;South Africa;M.kao;Kaolin;t;wmd;21141;31186;23724;27827;20639
+ZAF710;South Africa;Me.Pb;Lead;t;wmd;39344;48150;35118;42936;28048
+ZAF710;South Africa;O.MgCO3;Magnesite;t;wmd;8800;8700;8500;8500;8500
+ZAF710;South Africa;O.Mn;Manganese ore;t;bgs;13735509;14143794;14919207;17008951;16020435
+ZAF710;South Africa;M.mic;Mica;t;bgs;8;0;32;9;176
+ZAF710;South Africa;Me.Ni;Nickel;t;wmd;48994;48463;43236;43443;34908
+ZAF710;South Africa;Me.Pd;Palladium;Kg;wmd;76273;80713;80629;80684;66264
+ZAF710;South Africa;M.per;Perlite;t;wmd;1000;1000;1000;1000;1000
+ZAF710;South Africa;O.P;Phosphate rock;t;bgs;1696533;2079294;2058274;1825719;581392
+ZAF710;South Africa;Me.Pt;Platinum;Kg;wmd;133241;132500;137053;132989;111993
+ZAF710;South Africa;Me.Rh;Rhodium;Kg;wmd;19237;18665;18608;19545;16972
+ZAF710;South Africa;O.TiO2;Rutile;t;bgs;67000;95000;103000;110000;100000
+ZAF710;South Africa;M.sal;Salt nec;t;wmd;473339;492860;478285;510012;
+ZAF710;South Africa;Me.Ag;Silver;Kg;wmd;55622;62536;46467;55903;38148
+ZAF710;South Africa;M.tal;Talc (steatite, soapstone, pyrophyllite);t;wmd;23576;58776;102142;135430;92318
+ZAF710;South Africa;Me.U;Uranium;t;wmd;381.60069300000004;257.79246816;195.88835574;138.22425102;111.08820174
+ZAF710;South Africa;Me.V;Vanadium;t;wmd;8893.756359973;4457.801417942;4308.237082859;4516.058687038;4808.465364616
+ZAF710;South Africa;M.ver;Vermiculite;t;wmd;166483;166084;141346;158013;118223
+ZAF710;South Africa;Me.Zn;Zinc;t;wmd;26695;30778;28129;125157;160816
+ZAF710;South Africa;O.Zr;Zircon;t;wmd;377430;361813;303610;320000;311800
+ZMB894;Zambia;O.Be;Beryl;t;bgs;5;3;5;6;6
+ZMB894;Zambia;Me.Co;Cobalt;t;wmd;5276;2649;1766;1271;367
+ZMB894;Zambia;Me.Cu;Copper;t;wmd;774290;799329;857847;796430;882061
+ZMB894;Zambia;Me.Au;Gold;Kg;wmd;4610;4373;4044;4522;3994
+ZMB894;Zambia;O.Mn;Manganese ore;t;bgs;120000;92675;77277;15904;30000
+ZMB894;Zambia;Me.Ni;Nickel;t;bgs;0;0;487;2500;3251
+ZMB894;Zambia;Me.Ag;Silver;Kg;bgs;0;0;93;7212;9000
+ZMB894;Zambia;Me.Zn;Zinc;t;bgs;0;0;0;44;1500
+ZWE716;Zimbabwe;M.bar;Barite;t;bgs;200;200;200;200;200
+ZWE716;Zimbabwe;O.Cr;Chromium ore;t;bgs;112026;688838;894660;1550064;1272139
+ZWE716;Zimbabwe;Me.Co;Cobalt;t;wmd;409;445;403;402;956
+ZWE716;Zimbabwe;Me.Cu;Copper;t;wmd;9101;8839;9077;8731;7933
+ZWE716;Zimbabwe;Nm.dig;Diamonds, gems;ct;wmd;639920;752360;975730;423840;534090
+ZWE716;Zimbabwe;Nm.dii;Diamonds, industrial;ct;wmd;1493140;1755500;2276690;1695350;2136370
+ZWE716;Zimbabwe;Me.Au;Gold;Kg;wmd;22747;26495;35054;29429;20873
+ZWE716;Zimbabwe;M.gra;Graphite, natural;t;wmd;5622;1577;0;0;0
+ZWE716;Zimbabwe;O.Li;Lithium ore;t;bgs;48000;51000;70000;65000;20859
+ZWE716;Zimbabwe;Me.Ni;Nickel;t;wmd;17743;16594;17850;16918;16336
+ZWE716;Zimbabwe;Me.Pd;Palladium;Kg;wmd;12222;11822;12094;11640;12890
+ZWE716;Zimbabwe;O.P;Phosphate rock;t;bgs;6500;24000;20000;19000;19000
+ZWE716;Zimbabwe;Me.Pt;Platinum;Kg;wmd;15110;14257;14703;13857;15004
+ZWE716;Zimbabwe;Me.Rh;Rhodium;Kg;wmd;1322;1283;1334;1224;1368
+ZWE716;Zimbabwe;Me.Ag;Silver;Kg;bgs;1463;1480;1542;1500;1500
+ZWE716;Zimbabwe;Me.W;Tungsten;t;bgs;1248;1000;0;0;0
+ZWE716;Zimbabwe;M.ver;Vermiculite;t;wmd;29312;23302;33161;25524;26388

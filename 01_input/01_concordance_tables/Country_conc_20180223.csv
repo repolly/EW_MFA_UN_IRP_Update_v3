@@ -1,0 +1,253 @@
+CountryID;CountryName;ISO_Alpha2;ISO_Alpha3;ISO_Numeric;ISO_CountryName;IEA_Name;IEA_Code;UNSD;EIA;BGS;USGS;FAO AreaName;FAO AreaCode;AlphaNumISO
+AE;United Arab Emirates;AE;ARE;784;United Arab Emirates (the);United Arab Emirates;ARE;United Arab Emirates;United Arab Emirates;United Arab Emirates;United Arab Emirates;United Arab Emirates;225;ARE784
+AF;Afghanistan;AF;AFG;4;Afghanistan;;;Afghanistan;Afghanistan;Afghanistan;Afghanistan;Afghanistan;2;AFG004
+AG;Antigua and Barbuda;AG;ATG;28;Antigua and Barbuda;;;Antigua and Barbuda;Antigua and Barbuda;;Antigua and Barbuda;Antigua and Barbuda;8;ATG028
+AI;Anguilla;AI;AIA;660;Anguilla;;;Anguilla;Anguilla;;Anguilla;Anguilla;258;AIA660
+AL;Albania;AL;ALB;8;Albania;Albania;ALB;Albania;Albania;Albania;Albania;Albania;3;ALB008
+AM;Armenia;AM;ARM;51;Armenia;Armenia;ARM;Armenia;Armenia;Armenia;Armenia;Armenia;1;ARM051
+AN;Netherlands Antilles (former);AN;ANT;530;Netherlands Antilles;Netherlands Antilles;;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;151;ANT530
+AO;Angola;AO;AGO;24;Angola;Angola;AGO;Angola;Angola;Angola;Angola;Angola;7;AGO024
+AR;Argentina;AR;ARG;32;Argentina;Argentina;ARG;Argentina;Argentina;Argentina;Argentina;Argentina;9;ARG032
+AS;American Samoa;AS;ASM;16;American Samoa;;;;American Samoa;;American Samoa;American Samoa;5;ASM016
+AT;Austria;AT;AUT;40;Austria;Austria;AUT;Austria;Austria;Austria;Austria;Austria;11;AUT040
+AU;Australia;AU;AUS;36;Australia;Australia;AUS;Australia;Australia;Australia;Australia;Australia;10;AUS036
+AW;Aruba;AW;ABW;533;Aruba;;;Aruba;Aruba;;Aruba;Aruba;22;ABW533
+AZ;Azerbaijan;AZ;AZE;31;Azerbaijan;Azerbaijan;AZE;Azerbaijan;Azerbaijan;Azerbaijan;Azerbaijan;Azerbaijan;52;AZE031
+BA;Bosnia and Herzegovina;BA;BIH;70;Bosnia and Herzegovina;Bosnia and Herzegovina;BIH;Bosnia and Herzegovina;Bosnia and Herzegovina;Bosnia & Herzegovina;Bosnia and Herzegovina;Bosnia and Herzegovina;80;BIH070
+BB;Barbados;BB;BRB;52;Barbados;;;Barbados;Barbados;Barbados;Barbados;Barbados;14;BRB052
+BD;Bangladesh;BD;BGD;50;Bangladesh;Bangladesh;BGD;Bangladesh;Bangladesh;Bangladesh;Bangladesh;Bangladesh;16;BGD050
+BE;Belgium;BE;BEL;56;Belgium;Belgium;BEL;Belgium;Belgium;Belgium;Belgium;Belgium;255;BEL056
+BF;Burkina Faso;BF;BFA;854;Burkina Faso;;;Burkina Faso;Burkina Faso;Burkina Faso;Burkina Faso;Burkina Faso;233;BFA854
+BG;Bulgaria;BG;BGR;100;Bulgaria;Bulgaria;BGR;Bulgaria;Bulgaria;Bulgaria;Bulgaria;Bulgaria;27;BGR100
+BH;Bahrain;BH;BHR;48;Bahrain;Bahrain;BHR;Bahrain;Bahrain;Bahrain;Bahrain;Bahrain;13;BHR048
+BI;Burundi;BI;BDI;108;Burundi;;;Burundi;Burundi;Burundi;Burundi;Burundi;29;BDI108
+BJ;Benin;BJ;BEN;204;Benin;Benin;BEN;Benin;Benin;Benin;Benin;Benin;53;BEN204
+BM;Bermuda;BM;BMU;60;Bermuda;;;Bermuda;Bermuda;;Bermuda;Bermuda;17;BMU060
+BN;Brunei Darussalam;BN;BRN;96;Brunei Darussalam;Brunei Darussalam;BRN;Brunei Darussalam;Brunei;Brunei;Brunei Darussalam;Brunei Darussalam;26;BRN096
+BO;Bolivia;BO;BOL;68;Bolivia (Plurinational State of);Bolivia;BOL;Bolivia (Plur. State of);Bolivia;Bolivia;Bolivia;Bolivia (Plurinational State of);19;BOL068
+BR;Brazil;BR;BRA;76;Brazil;Brazil;BRA;Brazil;Brazil;Brazil;Brazil;Brazil;21;BRA076
+BS;Bahamas;BS;BHS;44;Bahamas (the);;;Bahamas;Bahamas, The;Bahamas;Bahamas;Bahamas;12;BHS044
+BT;Bhutan;BT;BTN;64;Bhutan;;;Bhutan;Bhutan;Bhutan;Bhutan;Bhutan;18;BTN064
+BW;Botswana;BW;BWA;72;Botswana;Botswana;BWA;Botswana;Botswana;Botswana;Botswana;Botswana;20;BWA072
+BY;Belarus;BY;BLR;112;Belarus;Belarus;BLR;Belarus;Belarus;Belarus;Belarus;Belarus;57;BLR112
+BZ;Belize;BZ;BLZ;84;Belize;;;Belize;Belize;;Belize;Belize;23;BLZ084
+CA;Canada;CA;CAN;124;Canada;Canada;CAN;Canada;Canada;Canada;Canada;Canada;33;CAN124
+CC;Cocos (Keeling) Islands;CC;CCK;166;Cocos (Keeling) Islands (the);;;;Cocos (Keeling) Islands;;Cocos (Keeling) Islands;;;CCK166
+CD;DR Congo;CD;COD;180;Congo (the Democratic Republic of the);Democratic Republic of the Congo;COD;Dem. Rep. of the Congo;Congo (Kinshasa);Congo, Democratic Republic;Congo (Kinshasa);Democratic Republic of the Congo;250;COD180
+CF;Central African Republic;CF;CAF;140;Central African Republic (the);;;Central African Republic;Central African Republic;Central African Republic;Central African Republic;Central African Republic;37;CAF140
+CG;Rep Congo;CG;COG;178;Congo (the);Congo;COG;Congo;Congo (Brazzaville);Congo;Congo (Brazzaville);Congo;46;COG178
+CH;Switzerland;CH;CHE;756;Switzerland;Switzerland;CHE;Switzerland;Switzerland;Switzerland;Switzerland;Switzerland;211;CHE756
+CI;Cote d'Ivoire;CI;CIV;384;C“te d'Ivoire;C“te d'Ivoire;CIV;C“te d'Ivoire;Cote dIvoire (IvoryCoast);Ivory Coast;C“te d?Ivoire (Ivory Coast);C“te d'Ivoire;107;CIV384
+CK;Cook Islands;CK;COK;184;Cook Islands (the);;;Cook Islands;Cook Islands;;Cook Islands;Cook Islands;47;COK184
+CL;Chile;CL;CHL;152;Chile;Chile;CHL;Chile;Chile;Chile;Chile;Chile;40;CHL152
+CM;Cameroon;CM;CMR;120;Cameroon;Cameroon;CMR;Cameroon;Cameroon;Cameroon;Cameroon;Cameroon;32;CMR120
+CN;China;CN;CHN;156;China;People's Republic of China;CHN;China;China;China;China;China, mainland;41;CHN156
+CO;Colombia;CO;COL;170;Colombia;Colombia;COL;Colombia;Colombia;Colombia;Colombia;Colombia;44;COL170
+CR;Costa Rica;CR;CRI;188;Costa Rica;Costa Rica;CRI;Costa Rica;Costa Rica;Costa Rica;Costa Rica;Costa Rica;48;CRI188
+CS;Czechoslovakia;;CSK;200;Czechoslovakia;;;Czechoslovakia (Former);Former Czechoslovakia;Czechoslovakia;Czechoslovakia;;;CSK200
+CU;Cuba;CU;CUB;192;Cuba;Cuba;CUB;Cuba;Cuba;Cuba;Cuba;Cuba;49;CUB192
+CV;Cape Verde;CV;CPV;132;Cabo Verde;;;Cabo Verde;Cape Verde;Cape Verde;Cape Verde;Cabo Verde;35;CPV132
+CX;Christmas Island;CX;CXR;162;Christmas Island;;;;Christmas Island;Christmas Island;Christmas Island;Christmas Island;42;CXR162
+CY;Cyprus;CY;CYP;196;Cyprus;Cyprus;CYP;Cyprus;Cyprus;Cyprus;Cyprus;Cyprus;50;CYP196
+CZ;Czech Republic;CZ;CZE;203;Czech Republic (the);Czech Republic;CZE;Czech Republic;Czech Republic;Czech Republic;Czech Republic;Czech Republic;167;CZE203
+DE;Germany;DE;DEU;276;Germany;Germany;DEU;Germany;Germany;Germany;Germany;Germany;79;DEU276
+DE;Germany;;DDR;278;;;;German Dem. R. (former);Germany, East;German Democratic Rep;;;;DDR278
+DE;Germany;;DEU;280;;;;Germany, Fed. R. (former);Germany, West;German Federal Republic;;;;DEU280
+DJ;Djibouti;DJ;DJI;262;Djibouti;;;Djibouti;Djibouti;Djibouti;Djibouti;Djibouti;72;DJI262
+DK;Denmark;DK;DNK;208;Denmark;Denmark;DNK;Denmark;Denmark;Denmark;Denmark;Denmark;54;DNK208
+DM;Dominica;DM;DMA;212;Dominica;;;Dominica;Dominica;;Dominica;Dominica;55;DMA212
+DO;Dominican Republic;DO;DOM;214;Dominican Republic (the);Dominican Republic;DOM;Dominican Republic;Dominican Republic;Dominican Republic;Dominican Republic;Dominican Republic;56;DOM214
+DZ;Algeria;DZ;DZA;12;Algeria;Algeria;DZA;Algeria;Algeria;Algeria;Algeria;Algeria;4;DZA012
+EC;Ecuador;EC;ECU;218;Ecuador;Ecuador;ECU;Ecuador;Ecuador;Ecuador;Ecuador;Ecuador;58;ECU218
+EE;Estonia;EE;EST;233;Estonia;Estonia;EST;Estonia;Estonia;Estonia;Estonia;Estonia;63;EST233
+EG;Egypt;EG;EGY;818;Egypt;Egypt;EGY;Egypt;Egypt;Egypt;Egypt;Egypt;59;EGY818
+ER;Eritrea;ER;ERI;232;Eritrea;Eritrea;ERI;Eritrea;Eritrea;Eritrea;Eritrea;Eritrea;178;ERI232
+ES;Spain;ES;ESP;724;Spain;Spain;ESP;Spain;Spain;Spain;Spain;Spain;203;ESP724
+ET;Ethiopia;ET;ETH;231;Ethiopia;Ethiopia;ETH;Ethiopia;Ethiopia;Ethiopia;Ethiopia;Ethiopia;238;ETH231
+ET;Ethiopia (Former);ET;ETH;230;Ethiopia;;;;;;;Ethiopia PDR;62;ETH230
+FI;Finland;FI;FIN;246;Finland;Finland;FIN;Finland;Finland;Finland;Finland;Finland;67;FIN246
+FJ;Fiji Islands;FJ;FJI;242;Fiji;;;Fiji;Fiji;Fiji;Fiji;Fiji;66;FJI242
+FK;Falkland Islands (Malvinas);FK;FLK;238;Falkland Islands (the) [Malvinas];;;Falkland Is. (Malvinas);Falkland Islands (Islas Malvinas);;Falkland Islands (Malvinas);Falkland Islands (Malvinas);65;FLK238
+FM;Micronesia;FM;FSM;583;Micronesia (Federated States of);;;Micronesia (FS of);Micronesia;;Micronesia;Micronesia (Federated States of);145;FSM583
+FO;Faroe Islands;FO;FRO;234;Faroe Islands (the);;;;Faroe Islands;;Faroe Islands;Faroe Islands;64;FRO234
+FR;France;FR;FRA;250;France;France;FRA;France;France;France;France;France;68;FRA250
+GA;Gabon;GA;GAB;266;Gabon;Gabon;GAB;Gabon;Gabon;Gabon;Gabon;Gabon;74;GAB266
+GB;United Kingdom;GB;GBR;826;United Kingdom of Great Britain and Northern Ireland (the);United Kingdom;GBR;United Kingdom;United Kingdom;United Kingdom;United Kingdom;United Kingdom;229;GBR826
+GD;Grenada;GD;GRD;308;Grenada;;;Grenada;Grenada;;Grenada;Grenada;86;GRD308
+GE;Georgia;GE;GEO;268;Georgia;Georgia;GEO;Georgia;Georgia;Georgia;Georgia;Georgia;73;GEO268
+GF;French Guiana;GF;GUF;254;French Guiana;;;;French Guiana;French Guiana;French Guiana;French Guiana;69;GUF254
+GH;Ghana;GH;GHA;288;Ghana;Ghana;GHA;Ghana;Ghana;Ghana;Ghana;Ghana;81;GHA288
+GI;Gibraltar;GI;GIB;292;Gibraltar;Gibraltar;GIB;Greece;Gibraltar;;Gibraltar;Gibraltar;82;GIB292
+GL;Greenland;GL;GRL;304;Greenland;;;;Greenland;Greenland;;;;GRL304
+GM;Gambia;GM;GMB;270;Gambia (the);;;Gambia;Gambia, The;Gambia;Gambia;Gambia;75;GMB270
+GN;Guinea;GN;GIN;324;Guinea;;;Guinea;Guinea;Guinea;Guinea;Guinea;90;GIN324
+GP;Guadeloupe;GP;GLP;312;Guadeloupe;;;;Guadeloupe;;Guadeloupe;Guadeloupe;87;GLP312
+GQ;Equatorial Guinea;GQ;GNQ;226;Equatorial Guinea;;;Equatorial Guinea;Equatorial Guinea;Equatorial Guinea;Equatorial Guinea;Equatorial Guinea;61;GNQ226
+GR;Greece;GR;GRC;300;Greece;Greece;GRC;Greece;Greece;Greece;Greece;Greece;84;GRC300
+GT;Guatemala;GT;GTM;320;Guatemala;Guatemala;GTM;Guatemala;Guatemala;Guatemala;Guatemala;Guatemala;89;GTM320
+GU;Guam;GU;GUM;316;Guam;;;;Guam;;Guam;Guam;88;GUM316
+GW;Guinea-Bissau;GW;GNB;624;Guinea-Bissau;;;Guinea-Bissau;Guinea-Bissau;;Guinea-Bissau;Guinea-Bissau;175;GNB624
+GY;Guyana;GY;GUY;328;Guyana;;;Guyana;Guyana;Guyana;Guyana;Guyana;91;GUY328
+HN;Honduras;HN;HND;340;Honduras;Honduras;HND;Honduras;Honduras;Honduras;Honduras;Honduras;95;HND340
+HR;Croatia;HR;HRV;191;Croatia;Croatia;HRV;Croatia;Croatia;Croatia;Croatia;Croatia;98;HRV191
+HT;Haiti;HT;HTI;332;Haiti;Haiti;HTI;Haiti;Haiti;Haiti;Haiti;Haiti;93;HTI332
+HU;Hungary;HU;HUN;348;Hungary;Hungary;HUN;Hungary;Hungary;Hungary;Hungary;Hungary;97;HUN348
+ID;Indonesia;ID;IDN;360;Indonesia;Indonesia;IDN;Indonesia;Indonesia;Indonesia;Indonesia;Indonesia;101;IDN360
+IE;Ireland;IE;IRL;372;Ireland;Ireland;IRL;Ireland;Ireland;Ireland, Republic of;Ireland;Ireland;104;IRL372
+IL;Israel;IL;ISR;376;Israel;Israel;ISR;Israel;Israel;Israel;Israel;Israel;105;ISR376
+IN;India;IN;IND;356;India;India;IND;India;India;India;India;India;100;IND356
+IO;British Indian Ocean Territory;IO;IOT;86;British Indian Ocean Territory (the);;;;British Indian Ocean Territory;;British Indian Ocean Territory;;;IOT086
+IQ;Iraq;IQ;IRQ;368;Iraq;Iraq;IRQ;Iraq;Iraq;Iraq;Iraq;Iraq;103;IRQ368
+IR;Iran;IR;IRN;364;Iran (Islamic Republic of);Islamic Republic of Iran;IRN;Iran (Islamic Rep. of);Iran;Iran;Iran;Iran (Islamic Republic of);102;IRN364
+IS;Iceland;IS;ISL;352;Iceland;Iceland;ISL;Iceland;Iceland;Iceland;Iceland;Iceland;99;ISL352
+IT;Italy;IT;ITA;380;Italy;Italy;ITA;Italy;Italy;Italy;Italy;Italy;106;ITA380
+JM;Jamaica;JM;JAM;388;Jamaica;Jamaica;JAM;Jamaica;Jamaica;Jamaica;Jamaica;Jamaica;109;JAM388
+JO;Jordan;JO;JOR;400;Jordan;Jordan;JOR;Jordan;Jordan;Jordan;Jordan;Jordan;112;JOR400
+JP;Japan;JP;JPN;392;Japan;Japan;JPN;Japan;Japan;Japan;Japan;Japan;110;JPN392
+KE;Kenya;KE;KEN;404;Kenya;Kenya;KEN;Kenya;Kenya;Kenya;Kenya;Kenya;114;KEN404
+KG;Kyrgyzstan;KG;KGZ;417;Kyrgyzstan;Kyrgyzstan;KGZ;Kyrgyzstan;Kyrgyzstan;Kyrgyzstan;Kyrgyzstan;Kyrgyzstan;113;KGZ417
+KH;Cambodia;KH;KHM;116;Cambodia;Cambodia;KHM;Cambodia;Cambodia;Cambodia;Cambodia;Cambodia;115;KHM116
+KI;Kiribati;KI;KIR;296;Kiribati;;;Kiribati;Kiribati;Banaba;Kiribati;Kiribati;83;KIR296
+KM;Comoros;KM;COM;174;Comoros (the);;;Comoros;Comoros;;Comoros;Comoros;45;COM174
+KN;Saint Kitts and Nevis;KN;KNA;659;Saint Kitts and Nevis;;;Saint Lucia;Saint Kitts and Nevis;;Saint Kitts and Nevis;Saint Kitts and Nevis;188;KNA659
+KP;North Korea;KP;PRK;408;Korea (the Democratic People's Republic of);Democratic People's Republic of Korea;PRK;D.P.R. of Korea;Korea, North;Korea, Dem. P.R. of;Korea, North;Democratic People's Republic of Korea;116;PRK408
+KR;South Korea;KR;KOR;410;Korea (the Republic of);Korea;KOR;Korea, Republic of;Korea, South;Korea (Rep. of);Korea, Republic of;Republic of Korea;117;KOR410
+KW;Kuwait;KW;KWT;414;Kuwait;Kuwait;KWT;Kuwait;Kuwait;Kuwait;Kuwait;Kuwait;118;KWT414
+KY;Cayman Islands;KY;CYM;136;Cayman Islands (the);;;Cayman Islands;Cayman Islands;;Cayman Islands;Cayman Islands;36;CYM136
+KZ;Kazakhstan;KZ;KAZ;398;Kazakhstan;Kazakhstan;KAZ;Kazakhstan;Kazakhstan;Kazakhstan;Kazakhstan;Kazakhstan;108;KAZ398
+LA;Laos;LA;LAO;418;Lao People's Democratic Republic (the);;;Lao People's DR;Laos;Laos;Laos;Lao People's Democratic Republic;120;LAO418
+LB;Lebanon;LB;LBN;422;Lebanon;Lebanon;LBN;Lebanon;Lebanon;Lebanon;Lebanon;Lebanon;121;LBN422
+LC;Saint Lucia;LC;LCA;662;Saint Lucia;;;;Saint Lucia;;Saint Lucia;Saint Lucia;189;LCA662
+LI;Liechtenstein;LI;LIE;438;Liechtenstein;;;Liechtenstein;Liechtenstein;;Liechtenstein;Liechtenstein;125;LIE438
+LK;Sri Lanka;LK;LKA;144;Sri Lanka;Sri Lanka;LKA;Sri Lanka;Sri Lanka;Sri Lanka;Sri Lanka;Sri Lanka;38;LKA144
+LR;Liberia;LR;LBR;430;Liberia;;;Liberia;Liberia;Liberia;Liberia;Liberia;123;LBR430
+LS;Lesotho;LS;LSO;426;Lesotho;;;Lesotho;Lesotho;Lesotho;Lesotho;Lesotho;122;LSO426
+LT;Lithuania;LT;LTU;440;Lithuania;Lithuania;LTU;Lithuania;Lithuania;Lithuania;Lithuania;Lithuania;126;LTU440
+LV;Latvia;LV;LVA;428;Latvia;Latvia;LVA;Latvia;Latvia;Latvia;Latvia;Latvia;119;LVA428
+LU;Luxembourg;LU;LUX;442;Luxembourg;Luxembourg;LUX;Luxembourg;Luxembourg;Luxembourg;Luxembourg;Luxembourg;256;LUX442
+LY;Libya;LY;LBY;434;Libya;Libya;LBY;Libya;Libya;Libya;Libya;Libya;124;LBY434
+MA;Morocco;MA;MAR;504;Morocco;Morocco;MAR;Morocco;Morocco;Morocco;Morocco;Morocco;143;MAR504
+MD;Moldova;MD;MDA;498;Moldova (the Republic of);Moldova;MDA;Republic of Moldova;Moldova;Moldova;Moldova;Republic of Moldova;146;MDA498
+MG;Madagascar;MG;MDG;450;Madagascar;;;Madagascar;Madagascar;Madagascar;Madagascar;Madagascar;129;MDG450
+MH;Marshall Islands;MH;MHL;584;Marshall Islands (the);;;Marshall Islands;Marshall Islands;;Marshall Islands;Marshall Islands;127;MHL584
+MK;Macedonia;MK;MKD;807;Macedonia (the former Yugoslav Republic of);Former Yugoslav Republic of Macedonia;MKD;TFYR of Macedonia;Macedonia;Macedonia;Macedonia;The former Yugoslav Republic of Macedonia;154;MKD807
+ML;Mali;ML;MLI;466;Mali;;;Mali;Mali;Mali;Mali;Mali;133;MLI466
+MM;Myanmar;MM;MMR;104;Myanmar;Myanmar;MMR;Myanmar;Burma (Myanmar);Burma;Burma;Myanmar;28;MMR104
+MN;Mongolia;MN;MNG;496;Mongolia;Mongolia;MNG;Mongolia;Mongolia;Mongolia;Mongolia;Mongolia;141;MNG496
+MP;Northern Mariana Islands;MP;MNP;580;Northern Mariana Islands (the);;;;Northern Mariana Islands;;Northern Mariana Islands;;;MNP580
+MQ;Martinique;MQ;MTQ;474;Martinique;;;;Martinique;;Martinique;Martinique;135;MTQ474
+MR;Mauritania;MR;MRT;478;Mauritania;;;Mauritania;Mauritania;Mauritania;Mauritania;Mauritania;136;MRT478
+MS;Montserrat;MS;MSR;500;Montserrat;;;Montserrat;Montserrat;;Montserrat;Montserrat;142;MSR500
+MT;Malta;MT;MLT;470;Malta;Malta;MLT;Malta;Malta;Malta;Malta;Malta;134;MLT470
+MU;Mauritius;MU;MUS;480;Mauritius;Mauritius;MAURITIUS;Mauritius;Mauritius;Mauritius;Mauritius;Mauritius;137;MUS480
+MV;Maldives;MV;MDV;462;Maldives;;;Maldives;Maldives;;Maldives;Maldives;132;MDV462
+MW;Malawi;MW;MWI;454;Malawi;;;Malawi;Malawi;Malawi;Malawi;Malawi;130;MWI454
+MX;Mexico;MX;MEX;484;Mexico;Mexico;MEX;Mexico;Mexico;Mexico;Mexico;Mexico;138;MEX484
+MY;Malaysia;MY;MYS;458;Malaysia;Malaysia;MYS;Malaysia;Malaysia;Malaysia;Malaysia;Malaysia;131;MYS458
+MZ;Mozambique;MZ;MOZ;508;Mozambique;Mozambique;MOZ;Mozambique;Mozambique;Mozambique;Mozambique;Mozambique;144;MOZ508
+NA;Namibia;NA;NAM;516;Namibia;Namibia;NAM;Namibia;Namibia;Namibia;Namibia;Namibia;147;NAM516
+NC;New Caledonia;NC;NCL;540;New Caledonia;;;New Caledonia;New Caledonia;New Caledonia;New Caledonia;New Caledonia;153;NCL540
+NE;Niger;NE;NER;562;Niger (the);Niger;NER;Niger;Niger;Niger;Niger;Niger;158;NER562
+NF;Norfolk Island;NF;NFK;574;Norfolk Island;;;;Norfolk Island;;Norfolk Island;Norfolk Island;161;NFK574
+NG;Nigeria;NG;NGA;566;Nigeria;Nigeria;NGA;Nigeria;Nigeria;Nigeria;Nigeria;Nigeria;159;NGA566
+NI;Nicaragua;NI;NIC;558;Nicaragua;Nicaragua;NIC;Nicaragua;Nicaragua;Nicaragua;Nicaragua;Nicaragua;157;NIC558
+NL;Netherlands;NL;NLD;528;Netherlands (the);Netherlands;NLD;Netherlands;Netherlands;Netherlands;Netherlands;Netherlands;150;NLD528
+NO;Norway;NO;NOR;578;Norway;Norway;NOR;Norway;Norway;Norway;Norway;Norway;162;NOR578
+NP;Nepal;NP;NPL;524;Nepal;Nepal;NPL;Nepal;Nepal;Nepal;Nepal;Nepal;149;NPL524
+NR;Nauru;NR;NRU;520;Nauru;;;Nauru;Nauru;Nauru;Nauru;Nauru;148;NRU520
+NU;Niue;NU;NIU;570;Niue;;;;Niue;;Niue;Niue;160;NIU570
+NZ;New Zealand;NZ;NZL;554;New Zealand;New Zealand;NZL;New Zealand;New Zealand;New Zealand;New Zealand;New Zealand;156;NZL554
+OM;Oman;OM;OMN;512;Oman;Oman;OMN;Oman;Oman;Oman;Oman;Oman;221;OMN512
+PA;Panama;PA;PAN;591;Panama;Panama;PAN;Panama;Panama;Panama;Panama;Panama;166;PAN591
+PE;Peru;PE;PER;604;Peru;Peru;PER;Peru;Peru;Peru;Peru;Peru;170;PER604
+PF;French Polynesia;PF;PYF;258;French Polynesia;;;French Polynesia;French Polynesia;;French Polynesia;French Polynesia;70;PYF258
+PG;Papua New Guinea;PG;PNG;598;Papua New Guinea;;;Papua New Guinea;Papua New Guinea;Papua New Guinea;Papua New Guinea;Papua New Guinea;168;PNG598
+PH;Philippines;PH;PHL;608;Philippines (the);Philippines;PHL;Philippines;Philippines;Philippines;Philippines;Philippines;171;PHL608
+PK;Pakistan;PK;PAK;586;Pakistan;Pakistan;PAK;Pakistan;Pakistan;Pakistan;Pakistan;Pakistan;165;PAK586
+PL;Poland;PL;POL;616;Poland;Poland;POL;Poland;Poland;Poland;Poland;Poland;173;POL616
+PM;Saint Pierre and Miquelon;PM;SPM;666;Saint Pierre and Miquelon;;;;Saint Pierre and Miquelon;;Saint Pierre and Miquelon;Saint Pierre and Miquelon;190;SPM666
+PN;Pitcairn Islands;PN;PCN;612;Pitcairn;;;;Pitcairn Islands;;Pitcairn Islands;;;PCN612
+PR;Puerto Rico;PR;PRI;630;Puerto Rico;;;Puerto Rico;Puerto Rico;;Puerto Rico;Puerto Rico;177;PRI630
+PS;Palestine;PS;PSE;275;Palestine, State of;;;State of Palestine;Palestinian Territories;;Palestine;Occupied Palestinian Territory;299;PSE275
+PT;Portugal;PT;PRT;620;Portugal;Portugal;PRT;Portugal;Portugal;Portugal;Portugal;Portugal;174;PRT620
+PW;Palau;PW;PLW;585;Palau;;;Palau;Palau;;Palau;;;PLW585
+PY;Paraguay;PY;PRY;600;Paraguay;Paraguay;PRY;Paraguay;Paraguay;Paraguay;Paraguay;Paraguay;169;PRY600
+QA;Qatar;QA;QAT;634;Qatar;Qatar;QAT;Qatar;Qatar;Qatar;Qatar;Qatar;179;QAT634
+RE;R‚union;RE;REU;638;R‚union;;;R‚union;Reunion;;R‚union;R‚union;182;REU638
+RO;Romania;RO;ROU;642;Romania;Romania;ROU;Romania;Romania;Romania;Romania;Romania;183;ROU642
+RS;Serbia;RS;SRB;688;Serbia;Serbia;SRB;Serbia;Serbia;Serbia;Serbia;Serbia;272;SRB688
+RU;Russian Federation;RU;RUS;643;Russian Federation (the);Russian Federation;RUS;Russian Federation;Russia;Russia;Russia;Russian Federation;185;RUS643
+RW;Rwanda;RW;RWA;646;Rwanda;;;Rwanda;Rwanda;Rwanda;Rwanda;Rwanda;184;RWA646
+SA;Saudi Arabia;SA;SAU;682;Saudi Arabia;Saudi Arabia;SAU;Saudi Arabia;Saudi Arabia;Saudi Arabia;Saudi Arabia;Saudi Arabia;194;SAU682
+SB;Solomon Islands;SB;SLB;90;Solomon Islands;;;Solomon Islands;Solomon Islands;Solomon Islands;Solomon Islands;Solomon Islands;25;SLB090
+SC;Seychelles;SC;SYC;690;Seychelles;;;Seychelles;Seychelles;Seychelles;Seychelles;Seychelles;196;SYC690
+SD;Sudan;SD;SDN;729;Sudan (the);Sudan;SDN;Sudan;Sudan and South Sudan;Sudan;Sudan;Sudan;276;SDN729
+SD;Sudan;;;736;;;;Sudan (former);;;;Sudan (former);206;SDN736
+SE;Sweden;SE;SWE;752;Sweden;Sweden;SWE;Sweden;Sweden;Sweden;Sweden;Sweden;210;SWE752
+SG;Singapore;SG;SGP;702;Singapore;Singapore;SGP;Singapore;Singapore;Singapore;Singapore;Singapore;200;SGP702
+SH;Saint Helena;SH;SHN;654;Saint Helena, Ascension and Tristan da Cunha;;;Saint Kitts and Nevis;Saint Helena;;Saint Helena;Saint Helena, Ascension and Tristan da Cunha;187;SHN654
+SI;Slovenia;SI;SVN;705;Slovenia;Slovenia;SVN;Slovenia;Slovenia;Slovenia;Slovenia;Slovenia;198;SVN705
+SK;Slovakia;SK;SVK;703;Slovakia;Slovak Republic;SVK;Slovakia;Slovakia;Slovakia;Slovakia;Slovakia;199;SVK703
+SL;Sierra Leone;SL;SLE;694;Sierra Leone;;;Sierra Leone;Sierra Leone;Sierra Leone;Sierra Leone;Sierra Leone;197;SLE694
+SM;San Marino;SM;SMR;674;San Marino;;;San Marino;San Marino;;San Marino;;;SMR674
+SN;Senegal;SN;SEN;686;Senegal;Senegal;SEN;Senegal;Senegal;Senegal;Senegal;Senegal;195;SEN686
+SO;Somalia;SO;SOM;706;Somalia;;;Somalia;Somalia;Somalia;Somalia;Somalia;201;SOM706
+SR;Suriname;SR;SUR;740;Suriname;Suriname;SUR;Suriname;Suriname;Suriname;Suriname;Suriname;207;SUR740
+SS;South Sudan;SS;SSD;728;South Sudan;South Sudan;SSD;South Sudan;Sudan and South Sudan;South Sudan;South Sudan;South Sudan;277;SSD728
+ST;Sao Tome and Principe;ST;STP;678;Sao Tome and Principe;;;Sao Tome and Principe;Sao Tome and Principe;;Sao Tome and Principe;Sao Tome and Principe;193;STP678
+SU;USSR;SU;SUN;810;USSR;Former Soviet Union (If no detail);FSUND;USSR (Former);Former U.S.S.R.;Soviet Union;USSR;USSR;228;SUN810
+SV;El Salvador;SV;SLV;222;El Salvador;El Salvador;SLV;El Salvador;El Salvador;El Salvador;El Salvador;El Salvador;60;SLV222
+SY;Syria;SY;SYR;760;Syrian Arab Republic;Syrian Arab Republic;SYR;Syrian Arab Republic;Syria;Syria;Syria;Syrian Arab Republic;212;SYR760
+SZ;Swaziland;SZ;SWZ;748;Swaziland;;;Swaziland;Swaziland;Swaziland;Swaziland;Swaziland;209;SWZ748
+TC;Turks and Caicos Islands;TC;TCA;796;Turks and Caicos Islands (the);;;Turks and Caicos Islands;Turks and Caicos Islands;Turks and Caicos Islands;Turks and Caicos Islands;Turks and Caicos Islands;224;TCA796
+TD;Chad;TD;TCD;148;Chad;;;Chad;Chad;Chad;Chad;Chad;39;TCD148
+TG;Togo;TG;TGO;768;Togo;Togo;TGO;Togo;Togo;Togo;Togo;Togo;217;TGO768
+TH;Thailand;TH;THA;764;Thailand;Thailand;THA;Thailand;Thailand;Thailand;Thailand;Thailand;216;THA764
+TJ;Tajikistan;TJ;TJK;762;Tajikistan;Tajikistan;TJK;Tajikistan;Tajikistan;Tajikistan;Tajikistan;Tajikistan;208;TJK762
+TK;Tokelau;TK;TKL;772;Tokelau;;;;Tokelau;;Tokelau;Tokelau;218;TKL772
+TL;Timor-Leste;TL;TLS;626;Timor-Leste;;;Timor-Leste;Timor-Leste (East Timor);East Timor;Timor-Leste;Timor-Leste;176;TLS626
+TM;Turkmenistan;TM;TKM;795;Turkmenistan;Turkmenistan;TKM;Turkmenistan;Turkmenistan;Turkmenistan;Turkmenistan;Turkmenistan;213;TKM795
+TN;Tunisia;TN;TUN;788;Tunisia;Tunisia;TUN;Tunisia;Tunisia;Tunisia;Tunisia;Tunisia;222;TUN788
+TO;Tonga;TO;TON;776;Tonga;;;Tonga;Tonga;;Tonga;Tonga;219;TON776
+TR;Turkey;TR;TUR;792;Turkey;Turkey;TUR;Turkey;Turkey;Turkey;Turkey;Turkey;223;TUR792
+TT;Trinidad and Tobago;TT;TTO;780;Trinidad and Tobago;Trinidad and Tobago;TTO;Trinidad and Tobago;Trinidad and Tobago;Trinidad & Tobago;Trinidad and Tobago;Trinidad and Tobago;220;TTO780
+TV;Tuvalu;TV;TUV;798;Tuvalu;;;Tuvalu;Tuvalu;;Tuvalu;Tuvalu;227;TUV798
+TW;Taiwan;TW;TWN;158;Taiwan (Province of China);Chinese Taipei;TWN;;Taiwan;Taiwan;Taiwan;China, Taiwan Province of;214;TWN158
+TZ;Tanzania;TZ;TZA;834;Tanzania, United Republic of;Tanzania;TZA;United Rep. of Tanzania;Tanzania;Tanzania;Tanzania;United Republic of Tanzania;215;TZA834
+UA;Ukraine;UA;UKR;804;Ukraine;Ukraine;UKR;Ukraine;Ukraine;Ukraine;Ukraine;Ukraine;230;UKR804
+UG;Uganda;UG;UGA;800;Uganda;;;Uganda;Uganda;Uganda;Uganda;Uganda;226;UGA800
+US;United States of America;US;USA;840;United States of America (the);United States;USA;United States;United States;USA;United States;United States of America;231;USA840
+UY;Uruguay;UY;URY;858;Uruguay;Uruguay;URY;Uruguay;Uruguay;Uruguay;Uruguay;Uruguay;234;URY858
+UZ;Uzbekistan;UZ;UZB;860;Uzbekistan;Uzbekistan;UZB;Uzbekistan;Uzbekistan;Uzbekistan;Uzbekistan;Uzbekistan;235;UZB860
+VC;Saint Vincent/Grenadines;VC;VCT;670;Saint Vincent and the Grenadines;;;St. Vincent and the Grenadines;Saint Vincent/Grenadines;;Saint Vincent/Grenadines;Saint Vincent and the Grenadines;191;VCT670
+VE;Venezuela;VE;VEN;862;Venezuela (Bolivarian Republic of);Venezuela;VEN;Venezuela (Bolivar. Rep.);Venezuela;Venezuela;Venezuela;Venezuela (Bolivarian Republic of);236;VEN862
+VG;British Virgin Islands;VG;VGB;92;Virgin Islands (British);;;British Virgin Islands;Virgin Islands, British;;British Virgin Islands;British Virgin Islands;239;VGB092
+VI;US Virgin Islands;VI;VIR;850;Virgin Islands (U.S.);;;;US Virgin Islands;;US Virgin Islands;United States Virgin Islands;240;VIR850
+VN;Viet Nam;VN;VNM;704;Viet Nam;Viet Nam;VNM;Viet Nam;Vietnam;Vietnam;Vietnam;Viet Nam;237;VNM704
+VU;Vanuatu;VU;VUT;548;Vanuatu;;;Vanuatu;Vanuatu;New Hebrides;Vanuatu;Vanuatu;155;VUT548
+WF;Wallis and Futuna Islands;WF;WLF;876;Wallis and Futuna;;;;Wallis and Futuna Islands;;Wallis and Futuna Islands;Wallis and Futuna Islands;243;WLF876
+WS;Samoa;WS;WSM;882;Samoa;;;Samoa;Samoa;;Samoa;Samoa;244;WSM882
+YE;Yemen;YE;YEM;887;Yemen;Yemen;YEM;Yemen;Yemen;Yemen, Republic of;Yemen;Yemen;249;YEM887
+YE;Yemen;;YEM;886;;;;Yemen Arab Rep. (former);;Yemen Arab Republic;;Yemen;;YEM886
+YE;Yemen;;YMD;720;;;;Yemen, Dem. (former);;Yemen (PDR);;Yemen;;YMD720
+YT;Mayotte;YT;MYT;175;Mayotte;;;;Mayotte;;Mayotte;Mayotte;270;MYT175
+YU;Yugoslavia SFR;YU;YUG;890;Yugoslavia;Former Yugoslavia (If no detail);YUGOND;Yugoslavia, SFR (former);Former Yugoslavia;Yugoslavia;Yugoslavia SFR;Yugoslav SFR;248;YUG890
+ZA;South Africa;ZA;ZAF;710;South Africa;South Africa;ZAF;South Africa;South Africa;South Africa;South Africa;South Africa;202;ZAF710
+ZM;Zambia;ZM;ZMB;894;Zambia;Zambia;ZMB;Zambia;Zambia;Zambia;Zambia;Zambia;251;ZMB894
+ZW;Zimbabwe;ZW;ZWE;716;Zimbabwe;Zimbabwe;ZWE;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;Zimbabwe;181;ZWE716
+CW;Cura‡ao;CW;CUW;531;Cura‡ao;Cura‡ao;CUW;;Netherlands Antilles;;;;;CUW531
+HK;Hong Kong;HK;HKG;344;Hong Kong;Hong Kong (China);HKG;China: Hong Kong SAR;Hong Kong;Hong Kong;;China, Hong Kong SAR;96;HKG344
+ME;Montenegro;ME;MNE;499;Montenegro;Montenegro;MNE;Montenegro;Montenegro;Montenegro;Montenegro;Montenegro;273;MNE499
+XS;Serbia and Montenegro;;SCG;891;Serbia and Montenegro;;;Serbia and Montenegro;Former Serbia and Montenegro;Serbia and Montenegro;Serbia and Montenegro;Serbia and Montenegro;186;SCG891
+XK;Kosovo;XK;UNK;;Kosovo;Kosovo;KOSOVO;;Kosovo;Kosovo;;;;KOSOVO
+MO;Macao;MO;MAC;446;Macao;;;China: Macao SAR;Macau;;;China, Macao SAR;128;MAC446
+;Monaco;;MCO;492;;;;;Monaco;;;;;MCO492
+EH;Western Sahara;EH;ESH;732;Western Sahara;;;;Western Sahara;;;Western Sahara;205;ESH732
+AE;United Arab Emirates;;;;;;;;;Sharjah;;;;
+EH;Western Sahara;;;;;;;;;Spanish Sahara;;;;
+CD;DR Congo;ZR;ZAR;;;;;;;Zaire;;;;
+BQ;Bonaire;BQ;BES;535;;;;;;Bonaire;;;;BES535
+ZW;Zimbabwe;RH;RSR;;Southern Rhodesia;;;;;Rhodesia;;;;
+;;;;;;;;;;;;Belgium-Luxemburg;15;BLGLUX
+;Andorra;;AND;20;;;;;;;;;6;AND020
+;Zanzibar;;EAZ;;;;;;;;;;;EAZXXX

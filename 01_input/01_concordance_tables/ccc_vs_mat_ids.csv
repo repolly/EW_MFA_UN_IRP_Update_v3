@@ -1,0 +1,144 @@
+MFA4Plus;MFA13Plus;CCC_Code;CCC_Name;material_id;material_name
+Metal ores;Ferrous ores;A.2.1.Fe;Iron ores;O.Fe;Ferrous ore
+Metal ores;Ferrous ores;A.2.1.Fe;Iron ores;AO.Fe;Iron - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Ag;Silver ores;AO.Ag;Silver - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Al;Bauxite and other aluminium ores - gross ore;Me.Al;Aluminium
+Metal ores;Non-ferrous ores;A.2.2.Al;Bauxite and other aluminium ores - gross ore;O.Al;Bauxite
+Metal ores;Non-ferrous ores;A.2.2.Au;Gold ores;AO.Au;Gold - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Cr;Chromium ores;Me.Cr;Chromium
+Metal ores;Non-ferrous ores;A.2.2.Cr;Chromium ores;AO.Cr;Chromium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Cr;Chromium ores;O.Cr;Chromium ore
+Metal ores;Non-ferrous ores;A.2.2.Cu;Copper ores;AO.Cu;Copper - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Mn;Manganese ores;AO.Mn;Manganese - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Mn;Manganese ores;O.Mn;Manganese ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Sb;Antimony - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.As;Arsenic
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;O.Be;Beryl
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Bi;Bismuth - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.Cd;Cadmium
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Co;Cobalt - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;O.NbTa;Coltan
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;O.Nb;Columbite, niobium ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.Ga;Gallium
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.Ge;Germanium
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.In;Indium
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Li;Lithium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.lic;Lithium compound n.e.c.
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.Li2O;Lithium oxide
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;O.Li;Lithium ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.Mg;Magnesium
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.Hg;Mercury
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Hg;Mercury - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Mo;Molybdenum - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;O.CeLaPO4;Monazite
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Nb;Niobium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.reo;Rare-earth oxides
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.rem;REM - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.Re;Rhenium
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;Me.Se;Selenium
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;O.Sr;Strontium mineral
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;O.Ta;Tantalite, tantalum ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Ta;Tantalum - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.Te;Tellurium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.W;Tungsten - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;AO.V;Vanadium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.nec;Other metal ores;O.Zr;Zircon
+Metal ores;Non-ferrous ores;A.2.2.Ni;Nickel ores;AO.Ni;Nickel - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Pb;Lead ores;AO.Pb;Lead - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Pt;Platinum group metal ores;AO.Ir;Iridium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Pt;Platinum group metal ores;AO.Pd;Palladium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Pt;Platinum group metal ores;AO.Os;Osmium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Pt;Platinum group metal ores;Me.pgm;PGM
+Metal ores;Non-ferrous ores;A.2.2.Pt;Platinum group metal ores;AO.pgm;PGM - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Pt;Platinum group metal ores;AO.Pt;Platinum - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Pt;Platinum group metal ores;AO.Rh;Rhodium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Sn;Tin ores;AO.Sn;Tin - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Ti;Titanium ores;O.FeTiO3;Ilmenite
+Metal ores;Non-ferrous ores;A.2.2.Ti;Titanium ores;O.leu;Leucoxene
+Metal ores;Non-ferrous ores;A.2.2.Ti;Titanium ores;O.TiO2;Rutile
+Metal ores;Non-ferrous ores;A.2.2.Ti;Titanium ores;AO.Ti;Titanium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Ti;Titanium ores;O.Ti;Titanium ore
+Metal ores;Non-ferrous ores;A.2.2.U;Uranium ores;AO.U;Uranium - associated ore
+Metal ores;Non-ferrous ores;A.2.2.Zn;Zinc ores;AO.Zn;Zinc - associated ore
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.1;Ornamental or building stone;M.dim;Dimension stone n.e.c.
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.1;Ornamental or building stone;M.ign;Igneous rock (basalt, basaltic lava, diabase, granite, porphyry, etc.)
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.1;Ornamental or building stone;M.mat;Marble, travertines etc.
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.1;Ornamental or building stone;M.orn;Ornamental stone
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.1;Ornamental or building stone;M.sas;Sandstone
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.1;Ornamental or building stone;M.sla;Slate including fill (incl. roof slate)
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.2.1;Chalk;M.cha;Chalk
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.2.2;Dolomite;M.dol;Dolomite
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.2.3;Limestone;M.cal;Calcite
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.2.3;Limestone;Me.CaCO3;Calcium carbonate
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.2.3;Limestone;M.lim;Limestone
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.2.3;Limestone;M.mas;Marl and shell
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.1;Fertilizer minerals n.e.c.;Nm.PO;Phosphate and Phosphorus oxides
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.1;Fertilizer minerals n.e.c.;O.P;Phosphate rock
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.1;Fertilizer minerals n.e.c.;O.K2O;Potash
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.2;Chemical minerals n.e.c.;M.bar;Barite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.2;Chemical minerals n.e.c.;M.bor;Borate minerals
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.2;Chemical minerals n.e.c.;M.flu;Fluorspar
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.2;Chemical minerals n.e.c.;O.FeS;Pyrite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.2;Chemical minerals n.e.c.;O.S;Sulphur ore
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.2;Chemical minerals n.e.c.;Nm.S;Sulphur
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.abr;Abrasives, natural (puzzolan, pumice, volcanic cinder etc.)
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.asb;Asbestos
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.bro;Bromine
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;O.dig;Diamond ore, gems
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;O.dii;Diamond ore, industrial
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;Nm.dia;Diamonds (unspecified)
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.dia;Diatomite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.fel;Feldspar
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;O.gem;Gemstone-bearing mineral ore
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;Nm.gem;Gemstones n.e.c.
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.gra;Graphite, natural
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.iod;Iodine
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.irp;Iron ore for pigments
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;O.MgCO3;Magnesite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.mic;Mica
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;O.nep;Nepheline syenite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.och;Ochre and pigment earths
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.per;Perlite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.qar;Qartz and quartzite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.soc;Sodium carbonate, natural
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.tal;Talc (steatite, soapstone, pyrophyllite)
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.ver;Vermiculite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.4.3;Industrial minerals n.e.c;M.wol;Wollastonite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.5;Salt;M.brs;Brine salt
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.5;Salt;M.evs;Evaporated salt
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.5;Salt;M.ros;Rock salt
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.5;Salt;M.sal;Salt nec
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.5;Salt;M.ses;Sea salt
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.6;Gypsum;M.gya;Gypsum and anhydrite
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.7.1;Structural clays;M.coc;Common clay, clay for bricks etc.
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.7.1;Structural clays;M.loa;Loam
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.bac;Ball clay
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.ben;Bentonite, sepiolite and attapulgite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.fic;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.fue;Fuller's earth
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.ill;Illite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.kao;Kaolin
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.lat;Laterite
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.poc;Potter clay
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.7.2;Specialty clays;M.spc;Special clay
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.8.1;Industrial sand and gravel;M.ins;Industrial sand
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.8.1;Industrial sand and gravel;Nm.SiO2;Silica
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.8.1;Industrial sand and gravel;M.SiO2;Silica Sand
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.8.2;Sand gravel and crushed rock for construction;M.crs;Crushed stone
+Non-metallic minerals;Non-metallic minerals - construction dominant;A.3.8.2;Sand gravel and crushed rock for construction;M.sag;Sand and gravel
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.9;Other non-metallic minerals n.e.c.;M.asp;Asphalt
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.9;Other non-metallic minerals n.e.c.;M.chf;Chert and flint
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.9;Other non-metallic minerals n.e.c.;M.onm;Other non-metallic minerals n.e.c.
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.9;Other non-metallic minerals n.e.c.;M.osm;Silicate minerals n.e.c.
+Non-metallic minerals;Non-metallic minerals - industrial or agricultural dominant;A.3.9;Other non-metallic minerals n.e.c.;M.sto;Stone, n.e.c.
+Fossil Fuels;Coal;A.4.1.1.1;Lignite (brown coal);F.lig;Lignite
+Fossil Fuels;Coal;A.4.1.1.2;Other Sub-Bituminous Coal;F.sbc;Sub-bituminous coal
+Fossil Fuels;Coal;A.4.1.2.1;Anthracite;F.ant;Anthracite
+Fossil Fuels;Coal;A.4.1.2.2;Coking Coal;F.coc;Coking Coal
+Fossil Fuels;Coal;A.4.1.2.3;Other Bituminous Coal;F.obc;Other bituminous coal
+Fossil Fuels;Coal;A.4.1.3;Peat;M.pea;Peat for agricultural use
+Fossil Fuels;Coal;A.4.1.3;Peat;F.pea;Peat for energy use
+Fossil Fuels;Petroleum;A.4.2.1;Crude oil;F.cro;Crude oil
+Fossil Fuels;Natural Gas;A.4.2.2;Natural gas;F.nag;Natural gas
+Fossil Fuels;Petroleum;A.4.2.3;Natural gas liquids;F.ngl;Natural gas liquids
+Fossil Fuels;Oil shale and tar sands;A.4.3;Oil shale and tar sands;F.ois;Oil shale and oil sands

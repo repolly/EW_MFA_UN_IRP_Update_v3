@@ -1,0 +1,236 @@
+---
+title: "bgs_vs_estimates"
+output:
+  html_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+#knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(readxl)
+library(scales)
+library(grid)
+library(knitr)
+library(kableExtra)
+library(viridis)
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+# clear R environment
+rm(list = ls())
+
+
+### read data
+
+# estimates
+sag_estimates <- read_rds("./04_output/05_supplementary_info/estimated_constr_min.rds") %>%
+  filter(material_id == "M.sag")
+
+# intermediate data before integration of estimations
+data <- read_rds("./03_intermediate/4b_data_estimation/data_estimated_ores.rds") 
+
+# ids
+cou_ids <- read_delim("./01_input/01_concordance_tables/country_ids.csv",
+                      delim = ";",
+                      locale = locale('se', encoding = 'ISO8859-1'))
+
+mat_ids <- read_delim("./01_input/01_concordance_tables/material_ids.csv", delim = ";")
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+## filter and format
+
+all <- data %>%
+  filter(material_id %in% c("M.sag", "M.crs")) %>%
+  union(.,
+        sag_estimates %>%
+          rename(source = source_est)
+        )
+
+
+# include names
+all <- all %>%
+  left_join(.,
+            cou_ids %>%
+              select(alphanumiso, country)
+            ) %>%
+  left_join(.,
+            mat_ids %>%
+              select(material_id, material_name)
+            )
+
+
+
+# include totals for bgs, usgs, wmd
+all_incl <- all %>%
+  bind_rows(.,
+        all %>%
+          filter(source %in% c("bgs", "usgs", "wmd_ext")) %>%
+          group_by(alphanumiso, country, year, source) %>%
+          summarise(value = sum(value, na.rm = TRUE)) %>%
+          ungroup() %>%
+          mutate(material_name = "total")
+        ) %>%
+  arrange(source, material_name)
+
+
+
+# include sums of esimate for sag + crushed rock from each source
+bgs_crs_est <- all %>%
+  filter((source == "bgs" & material_id == "M.crs") | grepl("estimation", source)) %>%
+  filter(alphanumiso %in% (all %>% filter(source == "bgs") %>% distinct(alphanumiso) %>% pull())) %>%
+  group_by(alphanumiso, country, year) %>%
+  summarise(value = sum(value, na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(source = "bgs") %>%
+  mutate(material_name = "reported crushed rock + estimation sand & gravel")
+
+usgs_crs_est <- all %>%
+  filter((source == "usgs" & material_id == "M.crs") | grepl("estimation", source)) %>%
+  filter(alphanumiso %in% (all %>% filter(source == "usgs") %>% distinct(alphanumiso) %>% pull())) %>%
+  group_by(alphanumiso, country, year) %>%
+  summarise(value = sum(value, na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(source = "usgs") %>%
+  mutate(material_name = "reported crushed rock + estimation sand & gravel")
+
+
+all_incl <- all_incl %>%
+  bind_rows(., bgs_crs_est) %>%
+  bind_rows(., usgs_crs_est) %>%
+  arrange(source, material_name) %>%
+  filter(alphanumiso != "YUG891")
+
+```
+
+#### Number of data points by source
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+summary <- all %>%
+  group_by(source, material_name) %>%
+  summarise(n = n()) %>%
+  ungroup()
+
+# table for Rmd output
+DT::datatable(summary, rownames = FALSE, caption = "Number of data points by source")
+
+```
+
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+
+
+
+#### Countries with more than one source or type of data for A.3.8.2
+<br> 
+<br> 
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+### filter and illustrate
+
+a <- list()
+
+list_cou <- all_incl %>%
+  group_by(country, year) %>%
+  summarise(n = n()) %>%
+  ungroup() %>%
+  filter(n > 1) %>%
+  distinct(country) %>%
+  arrange(country) %>%
+  pull()
+
+# include colors in table (in order to be consistent)
+colours <- viridis(17)[c(1:4, 7, 10:13, 16:17)]
+
+all_incl <- all_incl %>%
+  left_join(.,
+            all_incl %>%
+              distinct(source, material_name) %>%
+              mutate(colour = !!colours)
+            ) %>%
+  mutate(colour = ifelse(
+    source == "bgs" & grepl("reported", material_name, useBytes = TRUE),
+    "orange",
+    colour
+  )) %>%
+  mutate(colour = ifelse(
+    source == "usgs" & grepl("reported", material_name, useBytes = TRUE),
+    "yellow",
+    colour
+  )) %>%
+  mutate(colour = ifelse(
+    grepl("estimation based on", source, useBytes = TRUE),
+    "red",
+    colour
+  ))
+
+
+#i <- "Germany"
+
+for (i in list_cou) {
+    
+    a[[i]] <- htmltools::tags$div(
+      htmltools::tags$br(),
+      all_incl %>%
+      filter(country == i) %>%
+      plotly::plot_ly(
+      x = ~year,
+      y = ~value,
+      name = ~paste(source, ":", material_name),
+      color = ~I(colour)
+      ) %>%
+      plotly::add_lines() %>%
+      plotly::layout(
+        title = i,
+        legend = list(
+          orientation = "h",
+          y = -0.3
+          )
+        ),
+    
+    htmltools::tags$br(),
+    htmltools::tags$br()
+    )
+    
+    
+    # # table for Rmd output
+    # DT::datatable(
+    #   highest_values, 
+    #   rownames = FALSE,
+    #   caption = "Ratios for each commodity/country/year"
+    #   )  
+    # 
+}
+
+
+htmltools::tagList(a)
+
+
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+
+
+```
+
+<br> 

@@ -1,0 +1,2 @@
+alphanumiso;year_start;year_end;alphanumiso_new;comment
+YUG890;1992;2005;SCG891;Yugoslavia in WMD data represents both, YUG890 until 1991 and SCG891 until 2005, but is classified in harmonization as YUG890. The latter should not have any data after 1991, which would falsely be deleted.

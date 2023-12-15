@@ -1,0 +1,29 @@
+Country;CountryID;ISO_alpha-3;Former;End of exist.;Begin of exist.
+Armenia;AM;ARM;USSR;;1992
+Azerbaijan;AZ;AZE;USSR;;1992
+Bosnia and Herzegovina;BA;BIH;Yugoslavia SFR;;1993
+Belarus;BY;BLR;USSR;;1992
+Czechoslovakia;CS;CSK;;1992;
+Czech Republic;CZ;CZE;Czechoslovakia;;1993
+Estonia;EE;EST;USSR;;1992
+Georgia;GE;GEO;USSR;;1992
+Croatia;HR;HRV;Yugoslavia SFR;;1993
+Kyrgyzstan;KG;KGZ;USSR;;1992
+Kazakhstan;KZ;KAZ;USSR;;1992
+Lithuania;LT;LTU;USSR;;1992
+Latvia;LV;LVA;USSR;;1992
+Moldova;MD;MDA;USSR;;1992
+Macedonia;MK;MKD;Yugoslavia SFR;;1993
+Montenegro;ME;MNE;Serbia and Montenegro;;2006
+Serbia;RS;SRB;Serbia and Montenegro;;2006
+Serbia and Montenegro;XS;SCG;Yugoslavia SFR;2005;1992
+Russian Federation;RU;RUS;USSR;;1992
+Slovenia;SI;SVN;Yugoslavia SFR;;1993
+Slovakia;SK;SVK;Czechoslovakia;;1993
+USSR;SU;SUN;;1991;
+Tajikistan;TJ;TJK;USSR;;1992
+Turkmenistan;TM;TKM;USSR;;1992
+Ukraine;UA;UKR;USSR;;1992
+Uzbekistan;UZ;UZB;USSR;;1992
+Kosovo;XK;UNK;Serbia and Montenegro;;2008
+Yugoslavia SFR;YU;YUG;;1992;

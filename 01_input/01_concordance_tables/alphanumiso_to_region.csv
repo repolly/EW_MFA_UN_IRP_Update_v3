@@ -1,0 +1,246 @@
+Country,AlphaNumISO,PolicySet,MFandRP_Reg
+Aruba,ABW533,0,Latin America + Caribbean
+Afghanistan,AFG004,1,Asia + Pacific
+Angola,AGO024,1,Africa
+Anguilla,AIA660,0,Latin America + Caribbean
+Albania,ALB008,1,Europe
+Andorra,AND020,0,Europe
+Netherlands Antilles,ANT530,0,Latin America + Caribbean
+United Arab Emirates,ARE784,1,West Asia
+Argentina,ARG032,1,Latin America + Caribbean
+Armenia,ARM051,1,EECCA
+American Samoa,ASM016,0,Asia + Pacific
+Antigua and Barbuda,ATG028,1,Latin America + Caribbean
+Australia,AUS036,1,Asia + Pacific
+Austria,AUT040,1,Europe
+Azerbaijan,AZE031,1,EECCA
+Burundi,BDI108,1,Africa
+Belgium,BEL056,1,Europe
+Benin,BEN204,1,Africa
+Burkina Faso,BFA854,1,Africa
+Bangladesh,BGD050,1,Asia + Pacific
+Bulgaria,BGR100,1,Europe
+Bahrain,BHR048,1,West Asia
+Bahamas,BHS044,1,Latin America + Caribbean
+Bosnia and Herzegovina,BIH070,1,Europe
+Belgium-Luxemburg,BLGLUX,0,Europe
+Belarus,BLR112,1,EECCA
+Belize,BLZ084,1,Latin America + Caribbean
+Bermuda,BMU060,0,Latin America + Caribbean
+Bolivia,BOL068,1,Latin America + Caribbean
+Brazil,BRA076,1,Latin America + Caribbean
+Barbados,BRB052,1,Latin America + Caribbean
+Brunei Darussalam,BRN096,1,Asia + Pacific
+Bhutan,BTN064,1,Asia + Pacific
+Botswana,BWA072,1,Africa
+Central African Republic,CAF140,1,Africa
+Canada,CAN124,1,North America
+Cocos (Keeling) Islands,CCK166,0,Asia + Pacific
+Switzerland,CHE756,1,Europe
+Chile,CHL152,1,Latin America + Caribbean
+China,CHN156,1,Asia + Pacific
+Cote d'Ivoire,CIV384,1,Africa
+Cameroon,CMR120,1,Africa
+DR Congo,COD180,1,Africa
+Rep Congo,COG178,1,Africa
+Cook Islands,COK184,0,Asia + Pacific
+Colombia,COL170,1,Latin America + Caribbean
+Comoros,COM174,1,Africa
+Cape Verde,CPV132,1,Africa
+Costa Rica,CRI188,1,Latin America + Caribbean
+Czechoslovakia,CSK200,1,Europe
+Cuba,CUB192,1,Latin America + Caribbean
+Christmas Island,CXR162,0,Asia + Pacific
+Cayman Islands,CYM136,0,Latin America + Caribbean
+Cyprus,CYP196,1,Europe
+Czech Republic,CZE203,1,Europe
+East Germany,DDR278,0,Europe
+Germany,DEU276,1,Europe
+West Germany,DEU280,0,Europe
+Djibouti,DJI262,1,Africa
+Dominica,DMA212,1,Latin America + Caribbean
+Denmark,DNK208,1,Europe
+Dominican Republic,DOM214,1,Latin America + Caribbean
+Algeria,DZA012,1,Africa
+Zanzibar,EAZXXX,0,Africa
+Ecuador,ECU218,1,Latin America + Caribbean
+Egypt,EGY818,1,Africa
+Eritrea,ERI232,1,Africa
+Western Sahara,ESH732,0,Africa
+Spain,ESP724,1,Europe
+Estonia,EST233,1,Europe
+Ethiopia (Former),ETH230,1,Africa
+Ethiopia,ETH231,1,Africa
+Finland,FIN246,1,Europe
+Fiji Islands,FJI242,1,Asia + Pacific
+Falkland Islands (Malvinas),FLK238,0,Latin America + Caribbean
+France,FRA250,1,Europe
+Faroe Islands,FRO234,0,Europe
+Micronesia,FSM583,1,Asia + Pacific
+Gabon,GAB266,1,Africa
+United Kingdom,GBR826,1,Europe
+Georgia,GEO268,1,EECCA
+Ghana,GHA288,1,Africa
+Gibraltar,GIB292,0,Europe
+Guinea,GIN324,1,Africa
+Guadeloupe,GLP312,0,Latin America + Caribbean
+Gambia,GMB270,1,Africa
+Guinea-Bissau,GNB624,1,Africa
+Equatorial Guinea,GNQ226,1,Africa
+Greece,GRC300,1,Europe
+Grenada,GRD308,1,Latin America + Caribbean
+Greenland,GRL304,0,Europe
+Guatemala,GTM320,1,Latin America + Caribbean
+French Guiana,GUF254,0,Latin America + Caribbean
+Guam,GUM316,0,Asia + Pacific
+Guyana,GUY328,1,Latin America + Caribbean
+Hong Kong,HKG344,0,Asia + Pacific
+Honduras,HND340,1,Latin America + Caribbean
+Croatia,HRV191,1,Europe
+Haiti,HTI332,1,Latin America + Caribbean
+Hungary,HUN348,1,Europe
+Indonesia,IDN360,1,Asia + Pacific
+India,IND356,1,Asia + Pacific
+British Indian Ocean Territory,IOT086,0,Asia + Pacific
+Ireland,IRL372,1,Europe
+Iran,IRN364,1,Asia + Pacific
+Iraq,IRQ368,1,West Asia
+Iceland,ISL352,1,Europe
+Israel,ISR376,1,Europe
+Italy,ITA380,1,Europe
+Jamaica,JAM388,1,Latin America + Caribbean
+Jordan,JOR400,1,West Asia
+Japan,JPN392,1,Asia + Pacific
+Kazakhstan,KAZ398,1,EECCA
+Kenya,KEN404,1,Africa
+Kyrgyzstan,KGZ417,1,EECCA
+Cambodia,KHM116,1,Asia + Pacific
+Kiribati,KIR296,1,Asia + Pacific
+Saint Kitts and Nevis,KNA659,0,Latin America + Caribbean
+South Korea,KOR410,1,Asia + Pacific
+Kuwait,KWT414,1,West Asia
+Laos,LAO418,1,Asia + Pacific
+Lebanon,LBN422,1,West Asia
+Liberia,LBR430,1,Africa
+Libya,LBY434,1,Africa
+Saint Lucia,LCA662,0,Latin America + Caribbean
+Liechtenstein,LIE438,0,Europe
+Sri Lanka,LKA144,1,Asia + Pacific
+Lesotho,LSO426,1,Africa
+Lithuania,LTU440,1,Europe
+Luxembourg,LUX442,1,Europe
+Latvia,LVA428,1,Europe
+Macau,MAC446,0,Asia + Pacific
+Morocco,MAR504,1,Africa
+Monaco,MCO492,0,Europe
+Moldova,MDA498,1,EECCA
+Madagascar,MDG450,1,Africa
+Maldives,MDV462,1,Asia + Pacific
+Mexico,MEX484,1,Latin America + Caribbean
+Marshall Islands,MHL584,1,Asia + Pacific
+Macedonia,MKD807,1,Europe
+Mali,MLI466,1,Africa
+Malta,MLT470,1,Europe
+Myanmar,MMR104,1,Asia + Pacific
+Montenegro,MNE499,1,Europe
+Mongolia,MNG496,1,Asia + Pacific
+Northern Mariana Islands,MNP580,0,Asia + Pacific
+Mozambique,MOZ508,1,Africa
+Mauritania,MRT478,1,Africa
+Montserrat,MSR500,0,Latin America + Caribbean
+Martinique,MTQ474,0,Latin America + Caribbean
+Mauritius,MUS480,1,Africa
+Malawi,MWI454,1,Africa
+Malaysia,MYS458,1,Asia + Pacific
+Mayotte,MYT175,0,Africa
+Namibia,NAM516,1,Africa
+New Caledonia,NCL540,0,Asia + Pacific
+Niger,NER562,1,Africa
+Norfolk Island,NFK574,0,Asia + Pacific
+Nigeria,NGA566,1,Africa
+Nicaragua,NIC558,1,Latin America + Caribbean
+Niue,NIU570,0,Asia + Pacific
+Netherlands,NLD528,1,Europe
+Norway,NOR578,1,Europe
+Nepal,NPL524,1,Asia + Pacific
+Nauru,NRU520,0,Asia + Pacific
+New Zealand,NZL554,1,Asia + Pacific
+Oman,OMN512,1,West Asia
+Pakistan,PAK586,1,Asia + Pacific
+Panama,PAN591,1,Latin America + Caribbean
+Pitcairn Islands,PCN612,0,Asia + Pacific
+Peru,PER604,1,Latin America + Caribbean
+Philippines,PHL608,1,Asia + Pacific
+Palau,PLW585,1,Asia + Pacific
+Papua New Guinea,PNG598,1,Asia + Pacific
+Poland,POL616,1,Europe
+Puerto Rico,PRI630,0,Latin America + Caribbean
+North Korea,PRK408,1,Asia + Pacific
+Portugal,PRT620,1,Europe
+Paraguay,PRY600,1,Latin America + Caribbean
+Palestine,PSE275,0,West Asia
+French Polynesia,PYF258,0,Asia + Pacific
+Qatar,QAT634,1,West Asia
+Reunion,REU638,0,Africa
+Romania,ROU642,1,Europe
+Russian Federation,RUS643,1,EECCA
+Rwanda,RWA646,1,Africa
+Saudi Arabia,SAU682,1,West Asia
+Serbia (and Montenegro),SCG891,1,Europe
+Sudan,SDN729,1,Africa
+Sudan (Former),SDN736,1,Africa
+Senegal,SEN686,1,Africa
+Singapore,SGP702,1,Asia + Pacific
+Saint Helena,SHN654,0,Africa
+Solomon Islands,SLB090,1,Asia + Pacific
+Sierra Leone,SLE694,1,Africa
+El Salvador,SLV222,1,Latin America + Caribbean
+San Marino,SMR674,0,Europe
+Somalia,SOM706,1,Africa
+Saint Pierre and Miquelon,SPM666,0,North America
+Serbia,SRB688,1,Europe
+South Sudan,SSD728,1,Africa
+Sao Tome and Principe,STP678,1,Africa
+USSR,SUN810,1,EECCA
+Suriname,SUR740,1,Latin America + Caribbean
+Slovakia,SVK703,1,Europe
+Slovenia,SVN705,1,Europe
+Sweden,SWE752,1,Europe
+Swaziland,SWZ748,1,Africa
+Seychelles,SYC690,1,Africa
+Syria,SYR760,1,West Asia
+Turks and Caicos Islands,TCA796,,Latin America + Caribbean
+Chad,TCD148,1,Africa
+Togo,TGO768,1,Africa
+Thailand,THA764,1,Asia + Pacific
+Tajikistan,TJK762,1,EECCA
+Tokelau,TKL772,0,Asia + Pacific
+Turkmenistan,TKM795,1,EECCA
+Timor-Leste,TLS626,1,Asia + Pacific
+Tonga,TON776,1,Asia + Pacific
+Trinidad and Tobago,TTO780,1,Latin America + Caribbean
+Tunisia,TUN788,1,Africa
+Turkey,TUR792,1,Europe
+Tuvalu,TUV798,1,Asia + Pacific
+Taiwan,TWN158,,Asia + Pacific
+Tanzania,TZA834,1,Africa
+Uganda,UGA800,1,Africa
+Ukraine,UKR804,1,EECCA
+Uruguay,URY858,1,Latin America + Caribbean
+United States of America,USA840,1,North America
+Uzbekistan,UZB860,1,EECCA
+Saint Vincent/Grenadines,VCT670,0,Latin America + Caribbean
+Venezuela,VEN862,1,Latin America + Caribbean
+British Virgin Islands,VGB092,1,Latin America + Caribbean
+US Virgin Islands,VIR850,0,Latin America + Caribbean
+Viet Nam,VNM704,1,Asia + Pacific
+Vanuatu,VUT548,1,Asia + Pacific
+Wallis and Futuna Islands,WLF876,0,Asia + Pacific
+Samoa,WSM882,1,Asia + Pacific
+North Yemen,YEM886,0,West Asia
+Yemen,YEM887,1,West Asia
+South Yemen,YMD720,0,West Asia
+Yugoslavia SFR,YUG890,1,Europe
+South Africa,ZAF710,1,Africa
+Zambia,ZMB894,1,Africa
+Zimbabwe,ZWE716,1,Africa

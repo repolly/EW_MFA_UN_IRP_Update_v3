@@ -1,0 +1,73 @@
+category;ore_id;associated_ore_name;material_id
+associated;AO.Al;Aluminium - associated ore;Me.Al
+associated;AO.Sb;Antimony - associated ore;Me.Sb
+associated;AO.As;Arsenic - associated ore;Me.As
+associated;AO.Be;Beryllium - associated ore;Me.Be
+associated;AO.Bi;Bismuth - associated ore;Me.Bi
+associated;AO.Cd;Cadmium - associated ore;Me.Cd
+associated;AO.Cs;Caesium - associated ore;Me.Cs
+associated;AO.Cr;Chromium - associated ore;Me.Cr
+associated;AO.Co;Cobalt - associated ore;Me.Co
+associated;AO.Cu;Copper - associated ore;Me.Cu
+associated;AO.Ga;Gallium - associated ore;Me.Ga
+associated;AO.Ge;Germanium - associated ore;Me.Ge
+associated;AO.Au;Gold - associated ore;Me.Au
+associated;AO.Hf;Hafnium - associated ore;Me.Hf
+associated;AO.In;Indium - associated ore;Me.In
+associated;AO.Fe;Iron - associated ore;Me.Fe
+associated;AO.Pb;Lead - associated ore;Me.Pb
+associated;AO.Li;Lithium - associated ore;Me.Li
+associated;AO.Mg;Magnesium - associated ore;Me.Mg
+associated;AO.Mn;Manganese - associated ore;Me.Mn
+associated;AO.Hg;Mercury - associated ore;Me.Hg
+associated;AO.Mo;Molybdenum - associated ore;Me.Mo
+associated;AO.Ni;Nickel - associated ore;Me.Ni
+associated;AO.Nb;Niobium - associated ore;Me.Nb
+associated;AO.Ir;Iridium - associated ore;Me.Ir
+associated;AO.Os;Osmium - associated ore;Me.Os
+associated;AO.Pd;Palladium - associated ore;Me.Pd
+associated;AO.Pt;Platinum - associated ore;Me.Pt
+associated;AO.Rh;Rhodium - associated ore;Me.Rh
+associated;AO.Ru;Ruthenium - associated ore;Me.Ru
+associated;AO.rem;REM - associated ore;Me.Ce
+associated;AO.rem;REM - associated ore;Me.Dy
+associated;AO.rem;REM - associated ore;Me.Er
+associated;AO.rem;REM - associated ore;Me.Eu
+associated;AO.rem;REM - associated ore;Me.Gd
+associated;AO.rem;REM - associated ore;Me.Ho
+associated;AO.rem;REM - associated ore;Me.La
+associated;AO.rem;REM - associated ore;Me.Lu
+associated;AO.rem;REM - associated ore;Me.Nd
+associated;AO.rem;REM - associated ore;Me.Pr
+associated;AO.rem;REM - associated ore;Me.Pm
+associated;AO.rem;REM - associated ore;Me.Sm
+associated;AO.rem;REM - associated ore;Me.Sc
+associated;AO.rem;REM - associated ore;Me.Tb
+associated;AO.rem;REM - associated ore;Me.Tm
+associated;AO.rem;REM - associated ore;Me.Yb
+associated;AO.rem;REM - associated ore;Me.Y
+associated;AO.rem;REM - associated ore;Me.reo
+associated;AO.Re;Rhenium - associated ore;Me.Re
+associated;AO.Rb;Rubidium - associated ore;Me.Rb
+associated;AO.Se;Selenium - associated ore;Me.Se
+associated;AO.Ag;Silver - associated ore;Me.Ag
+associated;AO.Sr;Strontium - associated ore;Me.Sr
+associated;AO.Ta;Tantalum - associated ore;Me.Ta
+associated;AO.Te;Tellurium - associated ore;Me.Te
+associated;AO.Tl;Thallium - associated ore;Me.Tl
+associated;AO.Th;Thorium - associated ore;Me.Th
+associated;AO.Sn;Tin - associated ore;Me.Sn
+associated;AO.Ti;Titanium - associated ore;Me.Ti
+associated;AO.W;Tungsten - associated ore;Me.W
+associated;AO.U;Uranium - associated ore;Me.U
+associated;AO.V;Vanadium - associated ore;Me.V
+associated;AO.Zn;Zinc - associated ore;Me.Zn
+associated;AO.Zr;Zirconium - associated ore;Me.Zr
+associated;O.Li;Lithium ore;Me.Li2O
+associated;O.K2O;Potash;Me.K2O
+associated;O.P;Phosphate rock;Nm.PO
+associated;O.S;Sulphur ore;Nm.S
+associated;O.dig;Diamond ore, gems;Nm.dig
+associated;O.dii;Diamond ore, industrial;Nm.dii
+associated;F.ois;Oil shale and oil sands;Ff.ois
+associated;O.nep;Nepheline syenite;Con.nep

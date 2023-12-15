@@ -1,0 +1,312 @@
+CCC;CCC name;Commodityid;Commodity name
+A.1.1.1.1;Rice;117;Rice, Paddy
+A.1.1.1.2;Wheat;121;Wheat (and  spelt)
+A.1.1.1.3;Cereals n.e.c.;110;Barley
+A.1.1.1.3;Cereals n.e.c.;111;Buckwheat
+A.1.1.1.3;Cereals n.e.c.;112;Canary Seed
+A.1.1.1.3;Cereals n.e.c.;113;Maize (grain maize)
+A.1.1.1.3;Cereals n.e.c.;114;Millet
+A.1.1.1.3;Cereals n.e.c.;115;Mixed Grain
+A.1.1.1.3;Cereals n.e.c.;116;Oats
+A.1.1.1.3;Cereals n.e.c.;118;Rye
+A.1.1.1.3;Cereals n.e.c.;119;Sorghum
+A.1.1.1.3;Cereals n.e.c.;120;Triticale
+A.1.1.1.3;Cereals n.e.c.;122;Cereals nec (including Pop Corn, Fonio and Quinoa)
+A.1.1.1.3;Cereals n.e.c.;268;Fonio
+A.1.1.1.3;Cereals n.e.c.;269;Quinoa
+A.1.1.10;Other crops n.e.c;266;Natural Gums
+A.1.1.10;Other crops n.e.c;267;Natural Rubber
+A.1.1.11;Spice - beverage - pharmaceutical crops;206;Anise, Badian, Fennel
+A.1.1.11;Spice - beverage - pharmaceutical crops;207;Chicory Roots
+A.1.1.11;Spice - beverage - pharmaceutical crops;208;Coffee, Green
+A.1.1.11;Spice - beverage - pharmaceutical crops;209;Hops
+A.1.1.11;Spice - beverage - pharmaceutical crops;210;Peppermint
+A.1.1.11;Spice - beverage - pharmaceutical crops;212;Pyrethrum, Dried Flowers
+A.1.1.11;Spice - beverage - pharmaceutical crops;215;Tea
+A.1.1.11;Spice - beverage - pharmaceutical crops;216;Spices nec (including Cinnamon,Ginger,Nutmeg,Mace,Cardamons, Pepper,Vanilla,Cloves)
+A.1.1.11;Spice - beverage - pharmaceutical crops;217;Cocoa Beans
+A.1.1.11;Spice - beverage - pharmaceutical crops;218;Mate
+A.1.1.11;Spice - beverage - pharmaceutical crops;309;Cinnamon (canella)
+A.1.1.11;Spice - beverage - pharmaceutical crops;310;Cloves
+A.1.1.11;Spice - beverage - pharmaceutical crops;311;Ginger
+A.1.1.11;Spice - beverage - pharmaceutical crops;314;Nutmeg, mace and cardamoms
+A.1.1.11;Spice - beverage - pharmaceutical crops;315;Vanilla
+A.1.1.11;Spice - beverage - pharmaceutical crops;320;Pepper (Piper spp.)
+A.1.1.11;Spice - beverage - pharmaceutical crops;336;Tea nes
+A.1.1.12;Tobacco;265;Tobacco Leaves
+A.1.1.2;Roots and tubers;123;Potatoes
+A.1.1.2;Roots and tubers;124;Sweet Potatoes
+A.1.1.2;Roots and tubers;125;Yams
+A.1.1.2;Roots and tubers;270;Cassava
+A.1.1.2;Roots and tubers;271;Roots and Tubers, nes
+A.1.1.2;Roots and tubers;272;Taro (cocoyam)
+A.1.1.2;Roots and tubers;273;Yautia (cocoyam)
+A.1.1.3;Sugar crops;213;Sugar Beets
+A.1.1.3;Sugar crops;214;Sugar Cane
+A.1.1.3;Sugar crops;219;Sugar Crops nes
+A.1.1.4;Pulses;129;Lentils
+A.1.1.4;Pulses;130;Lupins
+A.1.1.4;Pulses;131;Vetches
+A.1.1.4;Pulses;132;Pulses nec
+A.1.1.4;Pulses;274;Bambara beans
+A.1.1.4;Pulses;275;Beans, dry
+A.1.1.4;Pulses;276;Beans, green
+A.1.1.4;Pulses;277;Broad beans, horse beans, dry
+A.1.1.4;Pulses;278;Chick peas
+A.1.1.4;Pulses;279;Cow peas, dry
+A.1.1.4;Pulses;280;Peas, dry
+A.1.1.4;Pulses;281;Pigeon peas
+A.1.1.4;Pulses;282;String beans
+A.1.1.5;Nuts;200;Almonds
+A.1.1.5;Nuts;201;Chestnuts
+A.1.1.5;Nuts;202;Hazelnuts (Filberts)
+A.1.1.5;Nuts;203;Pistachios
+A.1.1.5;Nuts;204;Walnuts
+A.1.1.5;Nuts;302;Arecanuts
+A.1.1.5;Nuts;303;Brazil nuts, with shell
+A.1.1.5;Nuts;304;Cashew nuts, with shell
+A.1.1.5;Nuts;305;Kolanuts
+A.1.1.5;Nuts;306;Nuts, nes
+A.1.1.5;Nuts;307;Tung Nuts
+A.1.1.6;Oil bearing crops;133;Groundnuts in Shell
+A.1.1.6;Oil bearing crops;134;Hempseed
+A.1.1.6;Oil bearing crops;135;Linseed
+A.1.1.6;Oil bearing crops;136;Melonseed
+A.1.1.6;Oil bearing crops;137;Mustard Seed
+A.1.1.6;Oil bearing crops;138;Olives
+A.1.1.6;Oil bearing crops;139;Poppy Seed
+A.1.1.6;Oil bearing crops;140;Rapeseed (rape and turnip rape)
+A.1.1.6;Oil bearing crops;141;Safflower Seed
+A.1.1.6;Oil bearing crops;143;Sesame Seed
+A.1.1.6;Oil bearing crops;144;Soybeans
+A.1.1.6;Oil bearing crops;145;Sunflower Seed
+A.1.1.6;Oil bearing crops;146;Oilseeds nec (including Castor Beans, Kapokseed in Shell, Karite Nuts /Sheanuts/,Tung Nuts, Coconuts)
+A.1.1.6;Oil bearing crops;183;Oil Palm Fruit
+A.1.1.6;Oil bearing crops;283;Castor oil seed
+A.1.1.6;Oil bearing crops;285;Coconuts
+A.1.1.6;Oil bearing crops;287;Kapokseed in Shell
+A.1.1.6;Oil bearing crops;288;Karite Nuts (Sheanuts)
+A.1.1.6;Oil bearing crops;318;Jojoba Seeds
+A.1.1.6;Oil bearing crops;322;Tallowtree Seeds
+A.1.1.6;Oil bearing crops;334;Cottonseed
+A.1.1.7;Vegetables;147;Artichokes
+A.1.1.7;Vegetables;148;Asparagus
+A.1.1.7;Vegetables;150;Cabbages
+A.1.1.7;Vegetables;151;Carrots
+A.1.1.7;Vegetables;152;Cauliflower
+A.1.1.7;Vegetables;153;Chillies and peppers, green
+A.1.1.7;Vegetables;154;Cucumbers and Gherkins
+A.1.1.7;Vegetables;155;Eggplants
+A.1.1.7;Vegetables;156;Garlic
+A.1.1.7;Vegetables;158;Leeks and other Alliac. Veg.
+A.1.1.7;Vegetables;159;Lettuce
+A.1.1.7;Vegetables;161;Mushrooms
+A.1.1.7;Vegetables;163;Peas, Green
+A.1.1.7;Vegetables;164;Pumpkins, Squash, Gourds
+A.1.1.7;Vegetables;165;Spinach
+A.1.1.7;Vegetables;166;Tomatoes
+A.1.1.7;Vegetables;167;Vegetables Fresh nec (including Okra)
+A.1.1.7;Vegetables;289;Okra
+A.1.1.7;Vegetables;290;Onions (inc. shallots), green
+A.1.1.7;Vegetables;291;Onions, dry
+A.1.1.7;Vegetables;292;Other melons (inc.cantaloupes)
+A.1.1.7;Vegetables;293;Watermelons
+A.1.1.7;Vegetables;312;Leguminous vegetables, nes
+A.1.1.7;Vegetables;313;Maize, green
+A.1.1.7;Vegetables;325;Chillies and peppers, dry
+A.1.1.7;Vegetables;335;Cassava leaves
+A.1.1.8;Fruits;168;Apples
+A.1.1.8;Fruits;169;Apricots
+A.1.1.8;Fruits;170;Avocados
+A.1.1.8;Fruits;172;Blueberries
+A.1.1.8;Fruits;173;Carobs
+A.1.1.8;Fruits;174;Cherries
+A.1.1.8;Fruits;175;Currants
+A.1.1.8;Fruits;176;Dates
+A.1.1.8;Fruits;177;Figs
+A.1.1.8;Fruits;178;Gooseberries
+A.1.1.8;Fruits;179;Grapefruit and Pomelos
+A.1.1.8;Fruits;180;Grapes
+A.1.1.8;Fruits;181;Kiwi Fruit
+A.1.1.8;Fruits;182;Lemons and Limes
+A.1.1.8;Fruits;184;Oranges
+A.1.1.8;Fruits;185;Peaches and Nectarines
+A.1.1.8;Fruits;186;Pears
+A.1.1.8;Fruits;187;Persimmons
+A.1.1.8;Fruits;188;Pineapples
+A.1.1.8;Fruits;189;Plums
+A.1.1.8;Fruits;190;Quinces
+A.1.1.8;Fruits;191;Raspberries
+A.1.1.8;Fruits;192;Sour Cherries
+A.1.1.8;Fruits;193;Strawberries
+A.1.1.8;Fruits;194;Tang. Mand Clement. Satsma
+A.1.1.8;Fruits;195;Berries nec (including Cranberries)
+A.1.1.8;Fruits;196;Citrus Fruit nec
+A.1.1.8;Fruits;199;Stone Fruit nec, 
+A.1.1.8;Fruits;294;Bananas
+A.1.1.8;Fruits;295;Cashewapple
+A.1.1.8;Fruits;296;Cranberries
+A.1.1.8;Fruits;297;Fruit Fresh Nes
+A.1.1.8;Fruits;298;Fruit, tropical fresh nes
+A.1.1.8;Fruits;299;Mangoes, mangosteens, guavas
+A.1.1.8;Fruits;300;Papayas
+A.1.1.8;Fruits;301;Plantains
+A.1.1.8;Fruits;321;Pome fruit, nes
+A.1.1.9;Fibres;254;Cotton Lint
+A.1.1.9;Fibres;255;Flax Fibre and Tow
+A.1.1.9;Fibres;256;Hemp Fibre and Tow
+A.1.1.9;Fibres;257;Abaca (Manila Hemp)
+A.1.1.9;Fibres;258;Agave Fibres nes
+A.1.1.9;Fibres;259;Coir
+A.1.1.9;Fibres;260;Fibre Crops nes
+A.1.1.9;Fibres;261;Ramie
+A.1.1.9;Fibres;262;Sisal
+A.1.1.9;Fibres;263;Kapok Fibre
+A.1.1.9;Fibres;264;Jute and Jute-like Fibres
+A.1.1.9;Fibres;308;Other Bastfibres
+A.1.2.1.1;Straw;323;Crop Residues Straw
+A.1.2.1.2;Other crop residues (sugar and fodder beet leaves etc);324;Crop Residues Feed
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);224;Alfalfa for Forage and Silage
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);225;Beets for Fodder
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);226;Cabbage for Fodder
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);227;Carrots for Fodder
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);228;Clover for Forage and Silage
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);230;Maize for Forage and Silage (green maize)
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);232;Rye Grass, Forage and Silage
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);233;Sorghum for Forage and Silage
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);234;Swedes for Fodder
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);235;Turnips for Fodder
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);236;Vegetables and Roots, Fodder
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);237;Forage Products nec
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);238;Grasses nec for Forage and Silage
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);239;Leguminous nec for forage and Silage
+A.1.2.2.1;Fodder crops (including biomass harvest from grassland);241;Green Oilseeds for Fodder
+A.1.2.2.2;Grazed biomass;243;Grazing
+A.1.3.1;Timber (Industrial roundwood);247;Coniferous wood - Industrial roundwood
+A.1.3.1;Timber (Industrial roundwood);248;Non-coniferous wood - Industrial roundwood
+A.1.3.2;Wood fuel and other extraction;332;Coniferous wood - Wood fuel
+A.1.3.2;Wood fuel and other extraction;333;Non-coniferous wood - Wood fuel
+A.1.4.1;Wild fish catch;250;Marine fish catch
+A.1.4.1;Wild fish catch;251;Inland waters fish catch
+A.1.4.2;All other aquatic animals;252;Other (e.g. Aquatic mammals)
+A.1.4.3;Aquatic plants;222;Aquatic plants
+A.2.1.Fe;Iron ores;7;Iron ores
+A.2.2.Ag;Silver ores;34;Silver
+A.2.2.Al;Bauxite and other aluminium ores - gross ore;10;Bauxite (Aluminium)
+A.2.2.Au;Gold ores;20;Gold
+A.2.2.Cr;Chromium ores;15;Chromium
+A.2.2.Cu;Copper ores;17;Copper
+A.2.2.Mn;Manganese ores;25;Manganese
+A.2.2.nec;Other metal ores;8;Antimony
+A.2.2.nec;Other metal ores;9;Arsenic
+A.2.2.nec;Other metal ores;11;Beryllium
+A.2.2.nec;Other metal ores;12;Bismuth
+A.2.2.nec;Other metal ores;13;Cadmium
+A.2.2.nec;Other metal ores;14;Caesium
+A.2.2.nec;Other metal ores;16;Cobalt
+A.2.2.nec;Other metal ores;18;Gallium
+A.2.2.nec;Other metal ores;19;Germanium
+A.2.2.nec;Other metal ores;21;Indium and Thallium
+A.2.2.nec;Other metal ores;23;Lithium
+A.2.2.nec;Other metal ores;24;Magnesium
+A.2.2.nec;Other metal ores;26;Mercury
+A.2.2.nec;Other metal ores;27;Molybdenum
+A.2.2.nec;Other metal ores;29;Niobium + Tantalum
+A.2.2.nec;Other metal ores;31;Rare Earths Metals
+A.2.2.nec;Other metal ores;32;Selenium
+A.2.2.nec;Other metal ores;33;Sillicium
+A.2.2.nec;Other metal ores;35;Strontium
+A.2.2.nec;Other metal ores;36;Tellurium
+A.2.2.nec;Other metal ores;39;Tungsten
+A.2.2.nec;Other metal ores;41;Vanadium
+A.2.2.nec;Other metal ores;43;Zirconium and Hafnium
+A.2.2.nec;Other metal ores;340;Monazite (Thorium)
+A.2.2.nec;Other metal ores;342;Rhenium
+A.2.2.Ni;Nickel ores;28;Nickel
+A.2.2.Pb;Lead ores;22;Lead
+A.2.2.Pt;Platinum group metal ores;30;Platinum-group (PGM)
+A.2.2.Sn;Tin ores;37;Tin
+A.2.2.Ti;Titanium ores;38;Titanium (incl/ Ilmenite and Rutile)
+A.2.2.U;Uranium ores;40;Uranium
+A.2.2.Zn;Zinc ores;42;Zinc
+A.3.1;Ornamental or building stone;64;Igneous rock (basalt, basaltic lava, diabase, granite, porphyry, etc.)
+A.3.1;Ornamental or building stone;66;Sandstone
+A.3.1;Ornamental or building stone;67;Slate including fill (incl. roof slate)
+A.3.1;Ornamental or building stone;100;Marble, travertines etc.
+A.3.1;Ornamental or building stone;103;Turfaceous rock
+A.3.2.1;Chalk;61;Chalk
+A.3.2.2;Dolomite;63;Dolomite
+A.3.2.3;Limestone;60;Calcite
+A.3.2.3;Limestone;65;Limestone
+A.3.2.3;Limestone;351;Marl and shell
+A.3.4.1;Fertilizer minerals n.e.c.;85;Phosphate rock (natural phosphates)
+A.3.4.1;Fertilizer minerals n.e.c.;86;Potash
+A.3.4.2;Chemical minerals n.e.c.;72;Barite
+A.3.4.2;Chemical minerals n.e.c.;73;Borate minerals
+A.3.4.2;Chemical minerals n.e.c.;78;Fluorspar
+A.3.4.2;Chemical minerals n.e.c.;89;Sulphur
+A.3.4.2;Chemical minerals n.e.c.;90;Sulphur from pyrites
+A.3.4.3;Industrial minerals n.e.c;59;Siliceous earth
+A.3.4.3;Industrial minerals n.e.c;70;Abrasives, natural (puzzolan, pumice, volcanic cinder etc.)
+A.3.4.3;Industrial minerals n.e.c;74;Diamonds, gems
+A.3.4.3;Industrial minerals n.e.c;75;Diamonds, industrial
+A.3.4.3;Industrial minerals n.e.c;76;Diatomite
+A.3.4.3;Industrial minerals n.e.c;77;Feldspar
+A.3.4.3;Industrial minerals n.e.c;79;Graphite, natural
+A.3.4.3;Industrial minerals n.e.c;80;Iron ore for pigments
+A.3.4.3;Industrial minerals n.e.c;81;Magnesite
+A.3.4.3;Industrial minerals n.e.c;82;Mica
+A.3.4.3;Industrial minerals n.e.c;83;Ochre and pigment earths
+A.3.4.3;Industrial minerals n.e.c;84;Pegmatite sand
+A.3.4.3;Industrial minerals n.e.c;87;Qartz and quartzite
+A.3.4.3;Industrial minerals n.e.c;88;Strontium minerals
+A.3.4.3;Industrial minerals n.e.c;92;Talc (steatite, soapstone, pyrophyllite)
+A.3.4.3;Industrial minerals n.e.c;93;Talcous slate
+A.3.4.3;Industrial minerals n.e.c;94;Asbestos
+A.3.4.3;Industrial minerals n.e.c;95;Gluesand
+A.3.4.3;Industrial minerals n.e.c;97;Perlite
+A.3.4.3;Industrial minerals n.e.c;316;Vermiculite
+A.3.4.3;Industrial minerals n.e.c;317;Wollastonite
+A.3.4.3;Industrial minerals n.e.c;337;Bromine
+A.3.4.3;Industrial minerals n.e.c;339;Iodine
+A.3.4.3;Industrial minerals n.e.c;341;Nepheline syenite
+A.3.4.3;Industrial minerals n.e.c;343;Sodium carbonate, natural
+A.3.5;Salt;344;Brine salt
+A.3.5;Salt;345;Evaporated salt
+A.3.5;Salt;346;Sea salt
+A.3.5;Salt;347;Rock salt
+A.3.5;Salt;348;Salt nec
+A.3.6;Gypsum;96;Gypsum and anhydrite
+A.3.7.1;Structural clays;105;Common clay, clay for bricks etc.
+A.3.7.1;Structural clays;106;Loam
+A.3.7.2;Specialty clays;49;Ball clay
+A.3.7.2;Specialty clays;50;Bentonite, sepiolite and attapulgite
+A.3.7.2;Specialty clays;51;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite (all Al-containing)
+A.3.7.2;Specialty clays;52;Fuller's earth
+A.3.7.2;Specialty clays;53;Kaolin
+A.3.7.2;Specialty clays;54;Potter clay
+A.3.7.2;Specialty clays;55;Special clay
+A.3.7.2;Specialty clays;56;Slate clay
+A.3.7.2;Specialty clays;352;Laterite
+A.3.7.2;Specialty clays;353;Illite
+A.3.8.1;Industrial sand and gravel;57;Industrial sand
+A.3.8.1;Industrial sand and gravel;58;Sillica sand (quartzsand)
+A.3.8.2;Sand gravel and crushed rock for construction;68;Crushed stone
+A.3.8.2;Sand gravel and crushed rock for construction;108;Sand and gravel
+A.3.8.2;Sand gravel and crushed rock for construction;109;Construction Minerals nec
+A.3.9;Other non-metallic minerals n.e.c.;62;Chert and flint
+A.3.9;Other non-metallic minerals n.e.c.;71;Amber
+A.3.9;Other non-metallic minerals n.e.c.;104;Asphalt
+A.3.9;Other non-metallic minerals n.e.c.;107;Lavasand
+A.4.1.1.1;Lignite (brown coal);326;Lignite
+A.4.1.1.2;Other Sub-Bituminous Coal;330;Sub-bituminous coal
+A.4.1.2.1;Anthracite;327;Anthracite
+A.4.1.2.2;Coking Coal;328;Coking Coal
+A.4.1.2.3;Other Bituminous Coal;329;Other bituminous coal
+A.4.1.3;Peat;6;Peat for energy use
+A.4.1.3;Peat;69;Peat for agricultural use
+A.4.2.1;Crude oil;3;Crude oil
+A.4.2.2;Natural gas;4;Natural gas
+A.4.2.3;Natural gas liquids;5;Natural gas liquids
+A.4.3;Oil shale and tar sands;349;Oil shale and oil sands
+A.4.3;Oil shale and tar sands;350;Other hydrocarbons

@@ -1,0 +1,40 @@
+CCC_Code;CCC_Name;MFA13Plus;MFA4Plus
+A.2.1.Fe;Iron ores;Ferrous ores;Metal ores
+A.2.2.Ag;Silver ores;Non-ferrous ores;Metal ores
+A.2.2.Al;Bauxite and other aluminium ores - gross ore;Non-ferrous ores;Metal ores
+A.2.2.Au;Gold ores;Non-ferrous ores;Metal ores
+A.2.2.Cr;Chromium ores;Non-ferrous ores;Metal ores
+A.2.2.Cu;Copper ores;Non-ferrous ores;Metal ores
+A.2.2.Mn;Manganese ores;Non-ferrous ores;Metal ores
+A.2.2.nec;Other metal ores;Non-ferrous ores;Metal ores
+A.2.2.Ni;Nickel ores;Non-ferrous ores;Metal ores
+A.2.2.Pb;Lead ores;Non-ferrous ores;Metal ores
+A.2.2.Pt;Platinum group metal ores;Non-ferrous ores;Metal ores
+A.2.2.Sn;Tin ores;Non-ferrous ores;Metal ores
+A.2.2.Ti;Titanium ores;Non-ferrous ores;Metal ores
+A.2.2.U;Uranium ores;Non-ferrous ores;Metal ores
+A.2.2.Zn;Zinc ores;Non-ferrous ores;Metal ores
+A.3.1;Ornamental or building stone;Non-metallic minerals - construction dominant;Non-metallic minerals
+A.3.2.1;Chalk;Non-metallic minerals - construction dominant;Non-metallic minerals
+A.3.2.2;Dolomite;Non-metallic minerals - construction dominant;Non-metallic minerals
+A.3.2.3;Limestone;Non-metallic minerals - construction dominant;Non-metallic minerals
+A.3.4.1;Fertilizer minerals n.e.c.;Non-metallic minerals - industrial or agricultural dominant;Metal ores
+A.3.4.2;Chemical minerals n.e.c.;Non-metallic minerals - industrial or agricultural dominant;Products from metals
+A.3.4.3;Industrial minerals n.e.c;Non-metallic minerals - industrial or agricultural dominant;Products from non-metallic minerals
+A.3.5;Salt;Non-metallic minerals - industrial or agricultural dominant;Non-metallic minerals
+A.3.6;Gypsum;Non-metallic minerals - construction dominant;Non-metallic minerals
+A.3.7.1;Structural clays;Non-metallic minerals - construction dominant;Non-metallic minerals
+A.3.7.2;Specialty clays;Non-metallic minerals - industrial or agricultural dominant;Non-metallic minerals
+A.3.8.1;Industrial sand and gravel;Non-metallic minerals - industrial or agricultural dominant;Non-metallic minerals
+A.3.8.2;Sand gravel and crushed rock for construction;Non-metallic minerals - construction dominant;Non-metallic minerals
+A.3.9;Other non-metallic minerals n.e.c.;Non-metallic minerals - industrial or agricultural dominant;Non-metallic minerals
+A.4.1.1.1;Lignite (brown coal);Coal;Fossil Fuels
+A.4.1.1.2;Other Sub-Bituminous Coal;Coal;Fossil Fuels
+A.4.1.2.1;Anthracite;Coal;Fossil Fuels
+A.4.1.2.2;Coking Coal;Coal;Fossil Fuels
+A.4.1.2.3;Other Bituminous Coal;Coal;Fossil Fuels
+A.4.1.3;Peat;Coal;Fossil Fuels
+A.4.2.1;Crude oil;Petroleum;Fossil Fuels
+A.4.2.2;Natural gas;Natural Gas;Fossil Fuels
+A.4.2.3;Natural gas liquids;Petroleum;Fossil Fuels
+A.4.3;Oil shale and tar sands;Oil shale and tar sands;Fossil Fuels

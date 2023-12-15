@@ -1,0 +1,234 @@
+"","commodity_id","mineral_id","region","est_factor"
+"1","Me.Ag","O.Ag","Africa",0.500155
+"2","Me.Ag","O.Ag","Asia + Pacific",1
+"3","Me.Ag","O.Ag","EECCA",0.333670666666667
+"4","Me.Ag","O.Ag","Europe",0.561194444444444
+"5","Me.Ag","O.Ag","Latin America + Caribbean",0.333419333333333
+"6","Me.Ag","O.Ag","North America",0.500225
+"7","Me.Al","O.Al","Africa",NA
+"8","Me.Al","O.Al","Asia + Pacific",NA
+"9","Me.Al","O.Al","EECCA",0.47
+"10","Me.Al","O.Al","Europe",NA
+"11","Me.Al","O.Al","Latin America + Caribbean",NA
+"12","Me.Al","O.Al","West Asia",NA
+"13","Me.Au","O.Au","Africa",4.98374e-06
+"14","Me.Au","O.Au","Asia + Pacific",5.675e-06
+"15","Me.Au","O.Au","EECCA",5.5e-06
+"16","Me.Au","O.Au","Europe",4.3539e-06
+"17","Me.Au","O.Au","Latin America + Caribbean",6.54238095238095e-06
+"18","Me.Au","O.Au","North America",1.85865e-06
+"19","Me.Be","O.Be","Africa",NA
+"20","Me.Be","O.Be","Asia + Pacific",1
+"21","Me.Be","O.Be","EECCA",NA
+"22","Me.Be","O.Be","Europe",NA
+"23","Me.Be","O.Be","Latin America + Caribbean",NA
+"24","Me.Be","O.Be","North America",1
+"25","Me.Co","O.Co","Africa",1
+"26","Me.Co","O.Co","Asia + Pacific",1
+"27","Me.Co","O.Co","EECCA",1
+"28","Me.Co","O.Co","Europe",1
+"29","Me.Co","O.Co","Latin America + Caribbean",1
+"30","Me.Co","O.Co","North America",1
+"31","Me.Cu","O.Cu","Africa",0.2645375
+"32","Me.Cu","O.Cu","Asia + Pacific",0.008765
+"33","Me.Cu","O.Cu","EECCA",0.176
+"34","Me.Cu","O.Cu","Europe",0.255375
+"35","Me.Cu","O.Cu","Latin America + Caribbean",0.00876875
+"36","Me.Cu","O.Cu","North America",0.0059
+"37","Me.Cu","O.Cu","West Asia",0.0052
+"38","Me.Fe","O.Fe","Africa",NA
+"39","Me.Fe","O.Fe","Asia + Pacific",0.365285714285714
+"40","Me.Fe","O.Fe","EECCA",0.3225
+"41","Me.Fe","O.Fe","Europe",NA
+"42","Me.Fe","O.Fe","Latin America + Caribbean",NA
+"43","Me.Fe","O.Fe","North America",0.28
+"44","Me.Hf","O.Zr","Africa",NA
+"45","Me.Hf","O.Zr","Asia + Pacific",0.888888888888889
+"46","Me.Hf","O.Zr","EECCA",1
+"47","Me.Hf","O.Zr","Latin America + Caribbean",1
+"48","Me.Hf","O.Zr","North America",1
+"49","Me.K2O","O.K2O","Africa",0.45
+"50","Me.K2O","O.K2O","Asia + Pacific",0.225
+"51","Me.K2O","O.K2O","EECCA",0.45
+"52","Me.K2O","O.K2O","Europe",0.45
+"53","Me.K2O","O.K2O","Latin America + Caribbean",0.45
+"54","Me.K2O","O.K2O","North America",0.45
+"55","Me.K2O","O.K2O","West Asia",0.45
+"56","Me.Mn","O.Mn","Africa",NA
+"57","Me.Mn","O.Mn","Asia + Pacific",NA
+"58","Me.Mn","O.Mn","EECCA",0.21975
+"59","Me.Mn","O.Mn","Europe",NA
+"60","Me.Mn","O.Mn","Latin America + Caribbean",NA
+"61","Me.Mn","O.Mn","North America",0.225
+"62","Me.Mo","O.Mo","Asia + Pacific",0.00125
+"63","Me.Mo","O.Mo","EECCA",0.000419
+"64","Me.Mo","O.Mo","Europe",1
+"65","Me.Mo","O.Mo","Latin America + Caribbean",0.666766666666667
+"66","Me.Mo","O.Mo","North America",1
+"67","Me.Nb","O.Nb","Africa",NA
+"68","Me.Nb","O.Nb","Asia + Pacific",1
+"69","Me.Nb","O.Nb","EECCA",NA
+"70","Me.Nb","O.Nb","Europe",NA
+"71","Me.Nb","O.Nb","Latin America + Caribbean",0.25
+"72","Me.Nb","O.Nb","North America",1
+"73","Me.Nb","O.NbTa","Africa",NA
+"74","Me.Nb","O.NbTa","Asia + Pacific",1
+"75","Me.Nb","O.NbTa","EECCA",NA
+"76","Me.Nb","O.NbTa","Europe",NA
+"77","Me.Nb","O.NbTa","Latin America + Caribbean",0.25
+"78","Me.Nb","O.NbTa","North America",1
+"79","Me.Nb","O.Ta","Africa",NA
+"80","Me.Nb","O.Ta","Asia + Pacific",1
+"81","Me.Nb","O.Ta","EECCA",NA
+"82","Me.Nb","O.Ta","Europe",NA
+"83","Me.Nb","O.Ta","Latin America + Caribbean",0.25
+"84","Me.Nb","O.Ta","North America",1
+"85","Me.Ni","O.Ni","Africa",0.4042
+"86","Me.Ni","O.Ni","Asia + Pacific",0.01744
+"87","Me.Ni","O.Ni","EECCA",0.669333333333333
+"88","Me.Ni","O.Ni","Europe",0.451722222222222
+"89","Me.Ni","O.Ni","Latin America + Caribbean",0.01558
+"90","Me.Ni","O.Ni","North America",1
+"91","Me.Ni","O.Ni",NA,0.012
+"92","Me.Pb","O.Pb","Africa",0.067851372311412
+"93","Me.Pb","O.Pb","Asia + Pacific",0.0731713432992077
+"94","Me.Pb","O.Pb","EECCA",0.0534685558101038
+"95","Me.Pb","O.Pb","Europe",0.0543695918413854
+"96","Me.Pb","O.Pb","Latin America + Caribbean",0.0864271255226535
+"97","Me.Pb","O.Pb","North America",0.18108349713513
+"98","Me.Pb","O.Pb","West Asia",0.0654161796977223
+"99","Me.Pb","O.Pb",NA,0.024
+"100","Me.Pd","O.PGM","Africa",0.500005
+"101","Me.Pd","O.PGM","Asia + Pacific",1e-05
+"102","Me.Pd","O.PGM","EECCA",0.500005
+"103","Me.Pd","O.PGM","Europe",0.66667
+"104","Me.Pd","O.PGM","Latin America + Caribbean",1e-05
+"105","Me.Pd","O.PGM","North America",2.4e-05
+"106","Me.Pt","O.PGM","Africa",0.500005
+"107","Me.Pt","O.PGM","Asia + Pacific",1e-05
+"108","Me.Pt","O.PGM","EECCA",0.500005
+"109","Me.Pt","O.PGM","Europe",0.66667
+"110","Me.Pt","O.PGM","Latin America + Caribbean",1e-05
+"111","Me.Pt","O.PGM","North America",2.4e-05
+"112","Me.Rh","O.PGM","Africa",0.500005
+"113","Me.Rh","O.PGM","Asia + Pacific",1e-05
+"114","Me.Rh","O.PGM","EECCA",0.500005
+"115","Me.Rh","O.PGM","Europe",0.66667
+"116","Me.Rh","O.PGM","Latin America + Caribbean",1e-05
+"117","Me.Rh","O.PGM","North America",2.4e-05
+"118","Me.Sn","O.Sn","Africa",0.015
+"119","Me.Sn","O.Sn","Asia + Pacific",0.00019
+"120","Me.Sn","O.Sn","EECCA",0.02
+"121","Me.Sn","O.Sn","Europe",0.01099
+"122","Me.Sn","O.Sn","Latin America + Caribbean",0.00136666666666667
+"123","Me.Sn","O.Sn","North America",0.001755
+"124","Me.Ta","O.Nb","Africa",NA
+"125","Me.Ta","O.Nb","Asia + Pacific",1
+"126","Me.Ta","O.Nb","EECCA",NA
+"127","Me.Ta","O.Nb","Europe",NA
+"128","Me.Ta","O.Nb","Latin America + Caribbean",0.25
+"129","Me.Ta","O.Nb","North America",1
+"130","Me.Ta","O.NbTa","Africa",NA
+"131","Me.Ta","O.NbTa","Asia + Pacific",1
+"132","Me.Ta","O.NbTa","EECCA",NA
+"133","Me.Ta","O.NbTa","Europe",NA
+"134","Me.Ta","O.NbTa","Latin America + Caribbean",0.25
+"135","Me.Ta","O.NbTa","North America",1
+"136","Me.Ta","O.Ta","Africa",NA
+"137","Me.Ta","O.Ta","Asia + Pacific",1
+"138","Me.Ta","O.Ta","EECCA",NA
+"139","Me.Ta","O.Ta","Europe",NA
+"140","Me.Ta","O.Ta","Latin America + Caribbean",0.25
+"141","Me.Ta","O.Ta","North America",1
+"142","Me.Ti","O.FeTiO","Africa",NA
+"143","Me.Ti","O.FeTiO","Asia + Pacific",NA
+"144","Me.Ti","O.FeTiO","EECCA",NA
+"145","Me.Ti","O.FeTiO","Europe",NA
+"146","Me.Ti","O.FeTiO","Latin America + Caribbean",1
+"147","Me.Ti","O.FeTiO","North America",1
+"148","Me.Ti","O.leu","Africa",NA
+"149","Me.Ti","O.leu","Asia + Pacific",NA
+"150","Me.Ti","O.leu","EECCA",NA
+"151","Me.Ti","O.leu","Europe",NA
+"152","Me.Ti","O.leu","Latin America + Caribbean",1
+"153","Me.Ti","O.leu","North America",1
+"154","Me.Ti","O.TiO","Africa",NA
+"155","Me.Ti","O.TiO","Asia + Pacific",NA
+"156","Me.Ti","O.TiO","EECCA",NA
+"157","Me.Ti","O.TiO","Europe",NA
+"158","Me.Ti","O.TiO","Latin America + Caribbean",1
+"159","Me.Ti","O.TiO","North America",1
+"160","Me.TO","O.Nb","Africa",NA
+"161","Me.TO","O.Nb","Asia + Pacific",1
+"162","Me.TO","O.Nb","EECCA",NA
+"163","Me.TO","O.Nb","Europe",NA
+"164","Me.TO","O.Nb","Latin America + Caribbean",0.25
+"165","Me.TO","O.Nb","North America",1
+"166","Me.TO","O.NbTa","Africa",NA
+"167","Me.TO","O.NbTa","Asia + Pacific",1
+"168","Me.TO","O.NbTa","EECCA",NA
+"169","Me.TO","O.NbTa","Europe",NA
+"170","Me.TO","O.NbTa","Latin America + Caribbean",0.25
+"171","Me.TO","O.NbTa","North America",1
+"172","Me.TO","O.Ta","Africa",NA
+"173","Me.TO","O.Ta","Asia + Pacific",1
+"174","Me.TO","O.Ta","EECCA",NA
+"175","Me.TO","O.Ta","Europe",NA
+"176","Me.TO","O.Ta","Latin America + Caribbean",0.25
+"177","Me.TO","O.Ta","North America",1
+"178","Me.U","O.U","EECCA",0.00192
+"179","Me.U","O.U","Europe",0.0024
+"180","Me.UO","O.U","EECCA",0.00192
+"181","Me.UO","O.U","Europe",0.0024
+"182","Me.W","O.WO","Asia + Pacific",0.00165
+"183","Me.W","O.WO","EECCA",0.002615
+"184","Me.W","O.WO","Europe",0.0044
+"185","Me.W","O.WO","Latin America + Caribbean",0.0098
+"186","Me.Zn","O.Zn","Africa",0.0758973330146026
+"187","Me.Zn","O.Zn","Asia + Pacific",0.083261052397282
+"188","Me.Zn","O.Zn","EECCA",0.046548570183938
+"189","Me.Zn","O.Zn","Europe",0.0583194993817952
+"190","Me.Zn","O.Zn","Latin America + Caribbean",0.0920508160367886
+"191","Me.Zn","O.Zn","North America",0.153125200331148
+"192","Me.Zn","O.Zn","West Asia",0.0553162819050485
+"193","Me.Zn","O.Zn",NA,0.023
+"194","Me.Zr","O.Zr","Africa",NA
+"195","Me.Zr","O.Zr","Asia + Pacific",0.888888888888889
+"196","Me.Zr","O.Zr","EECCA",1
+"197","Me.Zr","O.Zr","Latin America + Caribbean",1
+"198","Me.Zr","O.Zr","North America",1
+"199","Nm.dig","O.dig","Africa",1.22318e-07
+"200","Nm.dig","O.dig","Asia + Pacific",5.345205e-07
+"201","Nm.dig","O.dig","EECCA",6.97666666666667e-07
+"202","Nm.dig","O.dig","North America",2.53115e-07
+"203","Nm.dii","O.dii","Africa",1.48093666666667e-07
+"204","Nm.dii","O.dii","Asia + Pacific",5.345205e-07
+"205","Nm.dii","O.dii","EECCA",6.97666666666667e-07
+"206","Nm.P","O.P","Africa",NA
+"207","Nm.P","O.P","Asia + Pacific",NA
+"208","Nm.P","O.P","EECCA",1
+"209","Nm.P","O.P","Europe",NA
+"210","Nm.P","O.P","Latin America + Caribbean",NA
+"211","Nm.P","O.P","North America",1
+"212","Nm.P","O.P","West Asia",NA
+"213","Nm.PO","O.P","Africa",NA
+"214","Nm.PO","O.P","Asia + Pacific",NA
+"215","Nm.PO","O.P","EECCA",1
+"216","Nm.PO","O.P","Europe",NA
+"217","Nm.PO","O.P","Latin America + Caribbean",NA
+"218","Nm.PO","O.P","North America",1
+"219","Nm.PO","O.P","West Asia",NA
+"220","Nm.SiO","M.SiO","Africa",NA
+"221","Nm.SiO","M.SiO","Asia + Pacific",NA
+"222","Nm.SiO","M.SiO","EECCA",0
+"223","Nm.SiO","M.SiO","Europe",NA
+"224","Nm.SiO","M.SiO","Latin America + Caribbean",0.857142857142857
+"225","Nm.SiO","M.SiO","North America",NA
+"226","Nm.SiO","M.SiO","West Asia",NA
+"227","Nm.SiO","M.sis","Africa",NA
+"228","Nm.SiO","M.sis","Asia + Pacific",NA
+"229","Nm.SiO","M.sis","EECCA",0
+"230","Nm.SiO","M.sis","Europe",NA
+"231","Nm.SiO","M.sis","Latin America + Caribbean",0.857142857142857
+"232","Nm.SiO","M.sis","North America",NA
+"233","Nm.SiO","M.sis","West Asia",NA

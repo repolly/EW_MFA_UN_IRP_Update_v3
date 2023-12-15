@@ -1,0 +1,1780 @@
+source;source_material_id;material_id
+WMD;Iron Ore (Fe);Me.Fe
+WMD;Iron (Fe);Me.Fe
+WMD;Iron;Me.Fe
+WMD;Chromium (Cr2O3);Me.Cr2O3
+WMD;Chromium;Me.Cr2O3
+WMD;Cobalt;Me.Co
+WMD;Manganese;Me.Mn
+WMD;Molybdenum;Me.Mo
+WMD;Nickel;Me.Ni
+WMD;Niobium (Nb2O5);Me.Nb2O5
+WMD;Niobium;Me.Nb2O5
+WMD;Tantalum (Ta2O5);Me.Ta2O5
+WMD;Tantalum;Me.Ta2O5
+WMD;Titanium (TiO2);Me.TiO2
+WMD;Titanium;Me.TiO2
+WMD;Tungsten (W);Me.W
+WMD;Tungsten;Me.W
+WMD;Vanadium (V2O5);Me.V2O5
+WMD;Vanadium (V);Me.V2O5
+WMD;Vanadium;Me.V2O5
+WMD;Aluminium (primary);Me.Al
+WMD;Aluminium;Me.Al
+WMD;Antimony;Me.Sb
+WMD;Arsenic (As2O3);Me.As2O3
+WMD;Arsenic;Me.As
+WMD;Bauxite (crude ore);O.Al
+WMD;Bauxite;O.Al
+WMD;Beryllium (conc.);Con.Be
+WMD;Beryllium;Con.Be
+WMD;Bismuth;Me.Bi
+WMD;Cadmium;Me.Cd
+WMD;Copper;Me.Cu
+WMD;Gallium;Me.Ga
+WMD;Germanium;Me.Ge
+WMD;Indium;Me.In
+WMD;Lead;Me.Pb
+WMD;Lithium (Li2O);Me.Li2O
+WMD;Lithium;Me.Li2O
+WMD;Mercury;Me.Hg
+WMD;Rare Earths (REO);Me.reo
+WMD;Rare Earths Concentrates (REO);Me.reo
+WMD;Rare Earth Minerals;Me.reo
+WMD;Rare Earths;Me.reo
+WMD;Rhenium;Me.Re
+WMD;Rhenium kg;Me.Re
+WMD;Selenium;Me.Se
+WMD;Tellurium;Me.Te
+WMD;Tin;Me.Sn
+WMD;Zinc;Me.Zn
+WMD;Gold;Me.Au
+WMD;Gold (kg);Me.Au
+WMD;Palladium;Me.Pd
+WMD;Palladium (kg);Me.Pd
+WMD;Platinum;Me.Pt
+WMD;Platinum (kg);Me.Pt
+WMD;Rhodium;Me.Rh
+WMD;Rhodium (kg);Me.Rh
+WMD;Silver;Me.Ag
+WMD;Silver (kg);Me.Ag
+WMD;Asbestos;M.asb
+WMD;Baryte;M.bar
+WMD;Bentonite;M.ben
+WMD;Boron;M.bor
+WMD;Boron minerals;M.bor
+WMD;Diamonds (Gem);Nm.dig
+WMD;Diam. (Gem);Nm.dig
+WMD;Diamonds (Industrial);Nm.dii
+WMD;Diamonds (Ind);Nm.dii
+WMD;Diam. (Ind);Nm.dii
+WMD;Diatomite;M.dia
+WMD;Feldspar;M.fel
+WMD;Fluorspar;M.flu
+WMD;Graphite;M.gra
+WMD;Gypsum and Anhydrite;M.gya
+WMD;Gypsum;M.gya
+WMD;Kaolin;M.kao
+WMD;Kaolin (China-Clay);M.kao
+WMD;Magnesite;O.MgCO3
+WMD;Perlite;M.per
+WMD;Phosphates (P2O5);Nm.PO
+WMD;Phosphates;Nm.PO
+WMD;Potash (K2O);Me.K2O
+WMD;Potash;Me.K2O
+WMD;Salt;M.sal
+WMD;Salt (rock,brines,marine);M.sal
+WMD;Talc;M.tal
+WMD;Talc, Steatite & Pyrophyllite;M.tal
+WMD;Vermiculite;M.ver
+WMD;Zircon;O.Zr
+WMD;Uranium (U3O8);Me.U3O8
+WMD;Uranium;Me.U3O8
+BGS;Attapulgite;M.ben
+BGS;Bentonite;M.ben
+BGS;Brine salt;M.sal
+BGS;Brine salt & sea salt;M.sal
+BGS;Crushed rock;M.crs
+BGS;Evaporated salt;M.sal
+BGS;Frasch                                            ;Nm.S
+BGS;Fuller's earth;M.fue
+BGS;Other salt;M.sal
+BGS;Production of alumina;Me.Al2O3
+BGS;Production of aluminium, primary;Me.Al
+BGS;Production of antimony, mine;Me.Sb
+BGS;Production of arsenic, white;Me.As2O3
+BGS;Production of asbestos;M.asb
+BGS;Production of barytes;M.bar
+BGS;Production of bauxite;O.Al
+BGS;Production of beryl;O.Be
+BGS;Production of bismuth, mine;Me.Bi
+BGS;Production of borates;M.bor
+BGS;Production of bromine;M.bro
+BGS;Production of cadmium;Me.Cd
+BGS;Production of chromium ores and concentrates;O.Cr
+BGS;Production of cobalt, mine;Me.Co
+BGS;Production of cobalt metal;Me.Co
+BGS;Production of copper, mine;Me.Cu
+BGS;Production of diatomite;M.dia
+BGS;Production of feldspar;M.fel
+BGS;Production of fluorspar;M.flu
+BGS;Production of gallium, primary;Me.Ga
+BGS;Production of germanium metal;Me.Ge
+BGS;Production of gold, mine;Me.Au
+BGS;Production of graphite;M.gra
+BGS;Production of gypsum and plaster;M.gya
+BGS;Production of indium, refinery;Me.In
+BGS;Production of iodine;M.iod
+BGS;Production of iron ore;O.Fe
+BGS;Production of kaolin;M.kao
+BGS;Production of lead, mine;Me.Pb
+BGS;Production of lithium minerals;O.Li
+BGS;Production of magnesite;O.MgCO3
+BGS;Production of magnesium metal, primary;Me.Mg
+BGS;Production of manganese ore;O.Mn
+BGS;Production of mercury;Me.Hg
+BGS;Production of mica;M.mic
+BGS;Production of molybdenum, mine;Me.Mo
+BGS;Production of nepheline syenite;O.nep
+BGS;Production of nickel, mine;Me.Ni
+BGS;Production of perlite;M.per
+BGS;Production of phosphate rock;O.P
+BGS;Production of potash;Me.K2O
+BGS;Production of rare earth oxides;Me.reo
+BGS;Production of rare earth minerals;Con.rem
+BGS;Production of rhenium;Me.Re
+BGS;Production of selenium metal;Me.Se
+BGS;Production of sillimanite minerals;M.fic
+BGS;Production of silver, mine;Me.Ag
+BGS;Production of sodium carbonate, natural;M.soc
+BGS;Production of strontium minerals;O.Sr
+BGS;Production of talc;M.tal
+BGS;Production of tellurium metal;Me.Te
+BGS;Production of tin, mine;Me.Sn
+BGS;Production of tungsten, mine;Me.W
+BGS;Production of uranium;Me.U
+BGS;Production of vanadium, mine;Me.V
+BGS;Production of vermiculite;M.ver
+BGS;Production of wollastonite;M.wol
+BGS;Production of zinc, mine;Me.Zn
+BGS;Production of zirconium minerals;O.Zr
+BGS;Pyrites                                           ;O.FeS
+BGS;Recovered                                         ;Nm.S
+BGS;Rock salt;M.sal
+BGS;Rock salt & brine salt;M.sal
+BGS;Salt in brine;M.sal
+BGS;Sand and gravel;M.sag
+BGS;Sea salt;M.sal
+BGS;Sepiolite;M.ben
+BGS;Sulphur ore                                       ;O.S
+BGS;Tantalite;Con.Ta
+BGS;Djalmaite;Con.Ta
+BGS;Microlite;Con.Ta
+BGS;Columbite;Con.Nb
+BGS;Nb content;Me.Nb
+BGS;Ta content;Me.Ta
+BGS;Pyrochlore;Con.Nb
+BGS;Struverite;Con.Ta
+BGS;Columbite-tantalite;Con.NbTa
+BGS;Ilmenite;O.FeTiO3
+BGS;Titanium slag;Oth.tis
+BGS;Rutile;O.TiO2
+BGS;Leucoxene;O.leu
+BGS;Platinum;Me.Pt
+BGS;Palladium;Me.Pd
+BGS;Iridium;Me.Ir
+BGS;Osmium;Me.Os
+BGS;Rhodium;Me.Rh
+BGS;Osmiridium;Me.pgm
+BGS;Other platinum metals;Me.pgm
+USGS;ANTIMONY;Me.Sb
+USGS;ARSENIC TRIOXIDE;Me.As2O3
+USGS;ASBESTOS;M.asb
+USGS;BARITE;M.bar
+USGS;BAUXITE;O.Al
+USGS;BENTONITE;M.ben
+USGS;BERYL;O.Be
+USGS;BISMUTH;Me.Bi
+USGS;BORON MINERALS;M.bor
+USGS;BROMINE;M.bro
+USGS;CADMIUM;Me.Cd
+USGS;CELESTITE;O.Sr
+USGS;CHROMITE;Me.Cr
+USGS;COBALT;Me.Co
+USGS;COPPER Concentrates;Con.Cu
+USGS;COPPER Leaching, electrowon;Me.Cu
+USGS;CRUDE IODINE;M.iod
+USGS;DIATOMITE;M.dia
+USGS;FELDSPAR;M.fel
+USGS;FLUORSPAR;M.flu
+USGS;FULLER'S EARTH;M.fue
+USGS;Gemstones;Nm.dig
+USGS;GOLD;Me.Au
+USGS;GYPSUM;M.gya
+USGS;INDIUM;Me.In
+USGS;Industrial diamonds;O.dii
+USGS;INDUSTRIAL SAND AND GRAVEL (SILICA);M.SiO2
+USGS;IRON ORE;O.Fe
+USGS;KAOLIN;M.kao
+USGS;KYANITE AND RELATED MINERALS;M.fic
+USGS;LEAD;Me.Pb
+USGS;LITHIUM MINERALS AND BRINE;Me.Li
+USGS;MAGNESITE;O.MgCO3
+USGS;MAGNESIUM;Me.Mg
+USGS;MANGANESE ORE;O.Mn
+USGS;MARKETABLE POTASH;Me.K2O
+USGS;MERCURY;Me.Hg
+USGS;MICA;M.mic
+USGS;MOLYBDENUM;Me.Mo
+USGS;MONAZITE CONCENTRATE;Con.rem
+USGS;NATURAL GRAPHITE;M.gra
+USGS;NATURAL IRON OXIDE PIGMENTS;M.irp
+USGS;NICKEL;Me.Ni
+USGS;PEAT;M.pea
+USGS;PERLITE;M.per
+USGS;PHOSPHATE ROCK;O.P
+USGS;PUMICE AND RELATED MATERIALS;M.abr
+USGS;RARE EARTHS;Me.reo
+USGS;RHENIUM;Me.Re
+USGS;SALT;M.sal
+USGS;SELENIUM;Me.Se
+USGS;SILVER;Me.Ag
+USGS;SULFUR;Nm.S
+USGS;TALC AND PYROPHYLLITE;M.tal
+USGS;TELLURIUM;Me.Te
+USGS;TIN;Me.Sn
+USGS;TUNGSTEN;Con.W
+USGS;VANADIUM;Me.V
+USGS;VERMICULITE;M.ver
+USGS;ZINC;Me.Zn
+USGS;ZIRCONIUM;Con.Zr
+USGS;IRON ORE GROSS WEIGHT (CRUDE ORE);O.Fe
+USGS;MINED GYPSUM;M.gya
+USGS;Natural Diamonds Gemstone;Nm.dig
+USGS;Natural Diamonds Industrial;Nm.dii
+USGS;PLATINUM-GROUP METALS;Me.pgm
+USGS;TITANIUM;Me.Ti
+USGS;ZIRCONIUM MINERAL CONCENTRATES;Con.Zr
+USGS;CEMENT;cement
+Former_db;96;M.gya
+Former_db;20;Me.Au
+Former_db;78;M.flu
+Former_db;58;M.SiO2
+Former_db;63;M.dol
+Former_db;65;M.lim
+Former_db;72;M.bar
+Former_db;74;Nm.dig
+Former_db;75;Nm.dii
+Former_db;49;M.bac
+Former_db;51;M.fic
+Former_db;64;M.ign
+Former_db;68;M.crs
+Former_db;69;M.pea
+Former_db;70;M.abr
+Former_db;80;M.irp
+Former_db;105;M.coc
+Former_db;108;M.sag
+Former_db;351;M.mas
+Former_db;352;M.lat
+Former_db;87;M.qar
+Former_db;353;M.ill
+Former_db;40;Me.U
+Former_db;50;M.ben
+Former_db;89;Nm.S
+Former_db;90;Nm.S
+Former_db;348;M.sal
+Former_db;29;Me.Nb
+Former_db;10;O.Al
+Former_db;53;M.kao
+Former_db;76;M.dia
+Former_db;77;M.fel
+Former_db;92;M.tal
+Former_db;55;M.spc
+Former_db;61;M.cha
+Former_db;22;Me.Pb
+Former_db;66;M.sas
+Former_db;21;Me.In
+Former_db;67;M.sla
+Former_db;60;M.cal
+Former_db;34;Me.Ag
+Former_db;7;O.Fe
+Former_db;13;Me.Cd
+Former_db;38;Me.Ti
+Former_db;104;M.asp
+Former_db;41;Me.V
+Former_db;343;M.soc
+Former_db;31;Me.reo
+Former_db;28;Me.Ni
+Former_db;86;O.K2O
+Former_db;26;Me.Hg
+Former_db;82;M.mic
+Former_db;54;M.poc
+Former_db;81;O.MgCO3
+Former_db;337;M.bro
+Former_db;24;Me.Mg
+Former_db;100;M.mat
+Former_db;15;Me.Cr
+Former_db;16;Me.Co
+Former_db;97;M.per
+UNSD_Code;LN;F.lig
+UNSD_Code;SB;F.sbc
+UNSD_Code;AT;F.ant
+UNSD_Code;CC;F.coc
+UNSD_Code;OB;F.obc
+UNSD_Code;PT;F.pea
+UNSD_Code;OS;F.ois
+UNSD_Code;OH;F.oth
+UNSD_Code;CR;F.cro
+UNSD_Code;NG;F.nag
+UNSD_Code;GL;F.ngl
+IEA;Anthracite (kt);F.ant
+IEA;Brown coal (if no detail) (kt);
+IEA;Coking coal (kt);F.coc
+IEA;Crude oil (kt);F.cro
+IEA;Crude/NGL/feedstocks (if no detail) (kt);
+IEA;Hard coal (if no detail) (kt);
+IEA;Lignite (kt);F.lig
+IEA;Natural gas (TJ-gross);F.nag
+IEA;Natural gas liquids (kt);F.ngl
+IEA;Oil shale and oil sands (kt);F.ois
+IEA;Other bituminous coal (kt);F.obc
+IEA;Other hydrocarbons (kt);F.oth
+IEA;Peat (kt);F.pea
+IEA;Sub-bituminous coal (kt);F.sbc
+Former_db;326;F.lig
+Former_db;330;F.sbc
+Former_db;327;F.ant
+Former_db;328;F.coc
+Former_db;329;F.obc
+Former_db;6;F.pea
+Former_db;3;F.cro
+Former_db;4;F.nag
+Former_db;5;F.ngl
+Former_db;349;F.ois
+Former_db;350;F.oth
+EIA;Crude oil including lease condensate production;F.cro
+EIA;Dry natural gas production;F.nag
+EIA;Natural gas plant liquids production;F.ngl
+EIA;Anthracite production;F.ant
+EIA;Bituminous production;F.obc
+EIA;Lignite production;F.lig
+EIA;Subbituminous production;F.sbc
+EIA;Metallurgical coal production;F.coc
+USGS_ext;Aragonite;Me.CaCO3
+USGS_ext;Chromite ore;O.Cr
+USGS_ext;Marble;M.mat
+USGS_ext;"Marble, ""traso""";M.mat
+USGS_ext;Precious stones;Nm.gem
+USGS_ext;Semiprecious stoned;Nm.gem
+USGS_ext;Lapis lazulis;Nm.gem
+USGS_ext;Asphalt and bitomen, natural;M.asp
+USGS_ext;Phosphate rock (natural phosphates);O.P
+USGS_ext;Dolomite;M.dol
+USGS_ext;Olivinite;M.ign
+USGS_ext;Calcite;M.cal
+USGS_ext;Clay, common;M.coc
+USGS_ext;Dolomite (industrial);M.dol
+USGS_ext;Pozzolan;M.abr
+USGS_ext;Construction sand;M.sag
+USGS_ext;Aggregates, Crushed stone and gravel;M.sag
+USGS_ext;Crushed sand;M.sag
+USGS_ext;Sand;M.sag
+USGS_ext;Gravel;M.sag
+USGS_ext;Stone, crushed;M.crs
+USGS_ext;Pyrite;O.FeS
+USGS_ext;Celestite;O.Sr
+USGS_ext;Sillica sand (quartzsand);M.SiO2
+USGS_ext;Marble Blocks;M.dim
+USGS_ext;Marble crushed;M.mat
+USGS_ext;Limestone;M.lim
+USGS_ext;Slabs;M.sto
+USGS_ext;Miscellaneous types of dressed stone;M.sto
+USGS_ext;Quartzite;M.qar
+USGS_ext;Tuff;M.ign
+USGS_ext;Granite;M.ign
+USGS_ext;Granite block;M.dim
+USGS_ext;Limestone, for cement manufacturing;M.lim
+USGS_ext;Limestone, for the construction industry;M.lim
+USGS_ext;Marble blocks;M.dim
+USGS_ext;Quartz;M.qar
+USGS_ext;Sand for the construction industry;M.sag
+USGS_ext;Silica sand;M.SiO2
+USGS_ext;Bauxite (Aluminium);O.Al
+USGS_ext;Boron materials;M.bor
+USGS_ext;Foundry earth;M.ins
+USGS_ext;Pumice;M.abr
+USGS_ext;Pumice and related volcanic materials;M.abr
+USGS_ext;Amethyst;Nm.gem
+USGS_ext;Other Gemstones;Nm.gem
+USGS_ext;Rhodochrosite;Nm.gem
+USGS_ext;Basalt;M.ign
+USGS_ext;Calcium carbonate, chalk;M.cha
+USGS_ext;Dolomite, including crushed;M.dol
+USGS_ext;Marble, onyx, travertine;M.mat
+USGS_ext;Aragonite, broken;Me.CaCO3
+USGS_ext;Onyx, in blocks and broken;M.osm
+USGS_ext;Travertine, in blocks and broken;M.mat
+USGS_ext;Marble, unspecified in blocks and broken;M.mat
+USGS_ext;Flagstone;M.sas
+USGS_ext;Granite, in blocks;M.dim
+USGS_ext;Granite, crushed;M.ign
+USGS_ext;Granite, other forms;M.ign
+USGS_ext;Quartz, crushed;M.qar
+USGS_ext;Quartzite, crushed;M.qar
+USGS_ext;Serpentine, crushed;M.orn
+USGS_ext;Marble rubble, crushed;M.mat
+USGS_ext;Tuff (toba) (tasca);M.ign
+USGS_ext;Zerolite;M.osm
+USGS_ext;Ferromolybdenum;All.FeMo
+USGS_ext;Ferrotungsten;All.FeW
+USGS_ext;Diamond, cut;Nm.dia
+USGS_ext;Beach pebble;M.sag
+USGS_ext;Brick clay and shale;M.coc
+USGS_ext;Clay, others;M.coc
+USGS_ext;Damourite clay;M.osm
+USGS_ext;Opal;Nm.gem
+USGS_ext;Saphire;Nm.gem
+USGS_ext;Kyanite;M.fic
+USGS_ext;Sillimanite;M.fic
+USGS_ext;Sand, construction;M.sag
+USGS_ext;Stone, dimension;M.dim
+USGS_ext;Limestone, for cement;M.lim
+USGS_ext;Limestone, for other uses;M.lim
+USGS_ext;Silica in the form of quartz, quartzite, glass sand;M.qar
+USGS_ext;Barite;M.bar
+USGS_ext;Diabase (of basaltic rocks);M.ign
+USGS_ext;Mica;M.mic
+USGS_ext;Pumice (trass);M.abr
+USGS_ext;Dolomite, loose rocks and gravel;M.dol
+USGS_ext;Amphibolite;M.dim
+USGS_ext;Basalt (not included in diabase);M.ign
+USGS_ext;Gneiss;M.sto
+USGS_ext;Granite and granulite;M.ign
+USGS_ext;Limestone, including marble;M.lim
+USGS_ext;Marl;M.mas
+USGS_ext;Quartz, quartzite and pegmatite;M.qar
+USGS_ext;Serpentine;M.orn
+USGS_ext;Other Stone, including conglomerate and sandstone (limestone and marble);M.sto
+USGS_ext;Boulder;M.sto
+USGS_ext;Alabaster;M.sto
+USGS_ext;Marble, in Blocks;M.dim
+USGS_ext;Marble, crushed and other;M.mat
+USGS_ext;Belgian bluestone, quarried;M.sto
+USGS_ext;Belgian bluestone, sawed;M.sto
+USGS_ext;Belgian bluestone, worked;M.sto
+USGS_ext;Belgian bluestone, crushed and other;M.sto
+USGS_ext;Porphyry, all types;M.ign
+USGS_ext;Quartz and quartzite;M.qar
+USGS_ext;Sandstone, rough stone including cushed;M.sas
+USGS_ext;Sandstone, paving;M.sas
+USGS_ext;Sandstone, other;M.sas
+USGS_ext;Slate;M.sla
+USGS_ext;Sand, foundry;M.ins
+USGS_ext;Sand, dredged;M.sag
+USGS_ext;Glass sand;M.SiO2
+USGS_ext;Sand, other;M.sag
+USGS_ext;Gravel, dredged;M.sag
+USGS_ext;Clays, unspecified;M.coc
+USGS_ext;Quartz sand (silica);M.SiO2
+USGS_ext;Sand, including lime sand, river sand, silt and mud;M.sag
+USGS_ext;Stone, Limestone including marl;M.lim
+USGS_ext;Stone;M.sto
+USGS_ext;Clay;M.coc
+USGS_ext;Ferrosilicon;All.FeSi
+USGS_ext;Shale, green and pink;M.spc
+USGS_ext;Ametrine (bolivianite);M.qar
+USGS_ext;Quartz, pink;M.qar
+USGS_ext;Emerald;Nm.gem
+USGS_ext;Flint;M.chf
+USGS_ext;Onyx;Nm.gem
+USGS_ext;Slate (pizarra);M.sla
+USGS_ext;Ulexite;M.bor
+USGS_ext;Sodalite;Nm.gem
+USGS_ext;Limestone (Calcite);M.cal
+USGS_ext;Sandstone;M.sas
+USGS_ext;Ceramic clay;M.fic
+USGS_ext;Marble and travertine;M.mat
+USGS_ext;Ecaussine and other calcareous stone;M.lim
+USGS_ext;Stone, ornamental;M.orn
+USGS_ext;Stone, crushed and brown;M.crs
+USGS_ext;Stone, other;M.sto
+USGS_ext;Common clay, clay for bricks etc.;M.coc
+USGS_ext;Agate;Nm.gem
+USGS_ext;Aquamarine;Nm.gem
+USGS_ext;Cat's-eye;Nm.gem
+USGS_ext;Citrine;Nm.gem
+USGS_ext;Ruby;Nm.gem
+USGS_ext;Sapphire;Nm.gem
+USGS_ext;Topaz;Nm.gem
+USGS_ext;Tourmaline;Nm.gem
+USGS_ext;Turquoise;Nm.gem
+USGS_ext;Gemstones, others;Nm.gem
+USGS_ext;Quartz crystal, all grades;M.qar
+USGS_ext;Rare Earths Minerals;O.rem
+USGS_ext;Basalt, crushed and broken stone;M.ign
+USGS_ext;Calcareous shells, crushed and broken;M.mas
+USGS_ext;Dolomite, crushed and broken stone;M.dol
+USGS_ext;Gneiss, crushed and broken stone;M.crs
+USGS_ext;Granite, crushed and broken stone;M.ign
+USGS_ext;Limestone, crushed and broken stone;M.lim
+USGS_ext;Quartz, crushed and broken stone;M.qar
+USGS_ext;Quartzite, crude, crushed and broken stone;M.qar
+USGS_ext;Shale;M.spc
+USGS_ext;Sand, industrial;M.ins
+USGS_ext;Laterite, blocks;M.dim
+USGS_ext;Diamond;Nm.dia
+USGS_ext;Clinker;M.sto
+USGS_ext;Stone, unspecific;M.sto
+USGS_ext;Phosphorite;O.P
+USGS_ext;Guano;O.P
+USGS_ext;Pyrophyllite;M.tal
+USGS_ext;Lapis lazuli;Nm.gem
+USGS_ext;Travertine;M.mat
+USGS_ext;Morralla;
+USGS_ext;Clay, unspecified;M.coc
+USGS_ext;Marble shell;M.mat
+USGS_ext;Fire, refactory and flint clay, Andalusite, kyanite and sillimanite (all Al-containing);M.fic
+USGS_ext;Stone, Dimension;M.dim
+USGS_ext;Stone, Ornamental;M.orn
+USGS_ext;Stones;M.sto
+USGS_ext;Volcanic ash;M.abr
+USGS_ext;Clay for Cement;M.coc
+USGS_ext;Havara;M.sag
+USGS_ext;Stone, building;M.dim
+USGS_ext;Umber;M.och
+USGS_ext;Moldavite-bearing rock;M.osm
+USGS_ext;Pyrope-bearing rock;O.gem
+USGS_ext;Basalt for castin;M.ign
+USGS_ext;Building stone;M.dim
+USGS_ext;Quarry stone;M.crs
+USGS_ext;Limestone, agricultural;M.lim
+USGS_ext;Limestone, industrial;M.lim
+USGS_ext;Crushed stone;M.crs
+USGS_ext;Ferruginous;
+USGS_ext;Granite, broken;M.ign
+USGS_ext;Granite, Dimension;M.dim
+USGS_ext;Marble, blocks;M.dim
+USGS_ext;Marble, broken and gravel;M.mat
+USGS_ext;Coral;Me.CaCO3
+USGS_ext;Marble, block;M.dim
+USGS_ext;Rare Earths Minerals compounds;O.rem
+USGS_ext;Morganite;Nm.gem
+USGS_ext;Peridot;Nm.gem
+USGS_ext;Basalt, construction stone;M.ign
+USGS_ext;Basalt, others;M.ign
+USGS_ext;Ignimbrite;M.ign
+USGS_ext;Limestone, slab and tiles;M.lim
+USGS_ext;Marble, slab and tiles;M.mat
+USGS_ext;Marble, Terrazzo;M.mat
+USGS_ext;Marble, blocks and other;M.dim
+USGS_ext;Rhyolite;M.ign
+USGS_ext;Scoria;M.ign
+USGS_ext;Construction stone, crushed;M.crs
+USGS_ext;Dimension stone;M.dim
+USGS_ext;Coral sand for cement manufacture;M.sag
+USGS_ext;River sand for cement manufacture;M.sag
+USGS_ext;River sand and gravel;M.sag
+USGS_ext;Quarried stone;M.crs
+USGS_ext;Coral sand and limestone;M.lim
+USGS_ext;Limestone and Dolomite, crushed;M.crs
+USGS_ext;Soapstone;M.tal
+USGS_ext;Chalk;M.cha
+USGS_ext;Dolomite, for all things;M.dol
+USGS_ext;Limestone, for all things;M.lim
+USGS_ext;Limestone and Granite, crushed;M.lim
+USGS_ext;Marl for agriculture;M.mas
+USGS_ext;Mine fill;
+USGS_ext;Millstones and grindstones;M.osm
+USGS_ext;Laterite;M.lat
+USGS_ext;Columbite and tantalite;O.NbTa
+USGS_ext;Sand, common;M.sag
+USGS_ext;Stone, sand and gravel;M.sag
+USGS_ext;Siliconmaganese;
+USGS_ext;Marble and other calcareous stone, Dimension;M.dim
+USGS_ext;Stone, Dimension of which, dolomite and limestone;M.dim
+USGS_ext;Dolomite and Limestone, Dimension;M.dim
+USGS_ext;Igneous rock (basalt, basaltic lava, diabase, granite, porphyry, etc.);M.ign
+USGS_ext;Grinding stone;M.osm
+USGS_ext;Roofing for office and industry;
+USGS_ext;Splittings and ground;
+USGS_ext;Printing stone;M.sto
+USGS_ext;Molding sand;M.ins
+USGS_ext;Klebsand;M.ins
+USGS_ext;Gravel, construction;M.sag
+USGS_ext;Gravel, including flint and pebbles;M.sag
+USGS_ext;other Gravel including quartzite;M.sag
+USGS_ext;Gravel including terrazzo splits;M.sag
+USGS_ext;Sand, including from Granite and pegmatite;M.sag
+USGS_ext;Foundry Sand;M.ins
+USGS_ext;Abrasives, natural (puzzolan, pumice, volcanic cinder etc.);M.abr
+USGS_ext;Flysch;M.sto
+USGS_ext;Stone, crushed and broken;M.crs
+USGS_ext;Jadeite;M.osm
+USGS_ext;Building sand;M.sag
+USGS_ext;River sand;M.sag
+USGS_ext;Volcanic sand;M.ign
+USGS_ext;Volcanic scoria;M.ign
+USGS_ext;Volcanic tuff;M.ign
+USGS_ext;Basaltic andesite;M.ign
+USGS_ext;Flagstone, phyllite;M.sas
+USGS_ext;Marble, unspecified including chips and pieces;M.mat
+USGS_ext;Schist, slate;M.sla
+USGS_ext;Steatite;M.tal
+USGS_ext;Stones including pebbles;M.sto
+USGS_ext;Stone dust;M.sto
+USGS_ext;Stone round unworked;M.sto
+USGS_ext;Loam;M.loa
+USGS_ext;Diamonds, industrial;Nm.dii
+USGS_ext;Silicia sand;M.SiO2
+USGS_ext;Clay for cement;M.coc
+USGS_ext;Gypsum, for cement;M.gya
+USGS_ext;Limestone, crushed;M.lim
+USGS_ext;Marble, for construction;M.mat
+USGS_ext;Alginite;M.onm
+USGS_ext;Ammonia;
+USGS_ext;Chamotte;M.spc
+USGS_ext;Paludal mud;M.onm
+USGS_ext;Stones, Dimension;M.dim
+USGS_ext;Scrap;
+USGS_ext;Basaltic sand;M.ign
+USGS_ext;Calcareous, shell sand;M.sag
+USGS_ext;Basaltic, crushed;M.ign
+USGS_ext;Andalustie;M.fic
+USGS_ext;Corundum;M.onm
+USGS_ext;Diaspore;M.onm
+USGS_ext;Dunite;M.ign
+USGS_ext;Felsite;M.ign
+USGS_ext;Jasper;M.orn
+USGS_ext;Pyroxenite;M.ign
+USGS_ext;Agate, including chalcedony pebble;Nm.gem
+USGS_ext;Soda ash;M.soc
+USGS_ext;Steatite, soapstone;M.tal
+USGS_ext;Graphite, natural;M.gra
+USGS_ext;Industrial clay;M.spc
+USGS_ext;Seashell;M.mas
+USGS_ext;Limestone for cement;M.lim
+USGS_ext;Limestone for construction;M.lim
+USGS_ext;Sand, feldspathic;M.sag
+USGS_ext;Brick clay;M.coc
+USGS_ext;Flint clay;M.fic
+USGS_ext;Ball clay;M.bac
+USGS_ext;Soda ash/corbonate;M.soc
+USGS_ext;Sodium sulfate;
+USGS_ext;Limestone crushed;M.lim
+USGS_ext;Marble white;M.mat
+USGS_ext;Marble colored;M.mat
+USGS_ext;Marble, white and colored, crushed;M.mat
+USGS_ext;Schist;M.sto
+USGS_ext;Schist, crushed;M.crs
+USGS_ext;Tufa;M.ign
+USGS_ext;Tufa, crushed;M.ign
+USGS_ext;Marl for cement;M.mas
+USGS_ext;Diabasc;M.ign
+USGS_ext;Diorite;M.ign
+USGS_ext;Porphyry;M.ign
+USGS_ext;Lava;M.ign
+USGS_ext;Syenite;M.ign
+USGS_ext;Dead Sea mud;M.onm
+USGS_ext;Stone, worked;M.sto
+USGS_ext;Basalt, gravel and crushed;M.ign
+USGS_ext;Granite, gravel and crushed;M.ign
+USGS_ext;Marble, gravel and crushed;M.mat
+USGS_ext;Gravel and cushed rock;M.sag
+USGS_ext;Pozzolanic material;M.abr
+USGS_ext;Zeolite taff;M.osm
+USGS_ext;Sulphur from pyrites;Nm.S
+USGS_ext;Cordierite, iolite;Nm.gem
+USGS_ext;Granite for dimension stone;M.dim
+USGS_ext;Limestone for dimension stone;M.dim
+USGS_ext;Marble for dimension stone;M.dim
+USGS_ext;Andesite;M.ign
+USGS_ext;Bentonite, sepiolite and attapulgite;M.ben
+USGS_ext;Clay, conrete aggregates;M.coc
+USGS_ext;Granite crushed;M.ign
+USGS_ext;Dolomite, crushed;M.dol
+USGS_ext;Limestone flux;M.lim
+USGS_ext;Dolomite, agglomerated;M.dol
+USGS_ext;Dolomite, not frayed;M.dol
+USGS_ext;Dolomite, sintered;M.dol
+USGS_ext;Granite, crude;M.ign
+USGS_ext;Marble and travertine, crude;M.mat
+USGS_ext;Amethyst, gem;Nm.gem
+USGS_ext;Amethyst, geodes;M.onm
+USGS_ext;Beryl, gem;Nm.gem
+USGS_ext;Chalcedony, gem;Nm.gem
+USGS_ext;Apatite, gem;Nm.gem
+USGS_ext;Amazonite, gem;Nm.gem
+USGS_ext;Celesite, gem;Nm.gem
+USGS_ext;Labradorite, gem;Nm.gem
+USGS_ext;other Gemstones;Nm.gem
+USGS_ext;Quartz, crystal;M.qar
+USGS_ext;Quartz, geodes;M.qar
+USGS_ext;Quartz, hematoid;M.qar
+USGS_ext;Quartz, piezoelectric;M.qar
+USGS_ext;Quartz, smelting;M.qar
+USGS_ext;Rosenquartz;M.qar
+USGS_ext;Rhodonite;Nm.gem
+USGS_ext;Quartz, other ornamental;M.orn
+USGS_ext;Quartz, metallurgical;M.qar
+USGS_ext;Cipoline marble;M.mat
+USGS_ext;Ilmenite concentrate;Con.Ti
+USGS_ext;Rutile concentrate;Con.Ti
+USGS_ext;Zircon concentrate;Con.Zr
+USGS_ext;Calcite, industrial;M.cal
+USGS_ext;Stone, crushed for aggregate;M.sag
+USGS_ext;Stone, crude and partly worked;M.sto
+USGS_ext;Ornamental Stone;M.orn
+USGS_ext;Semiprecious stones;Nm.gem
+USGS_ext;Calcite, common;M.cal
+USGS_ext;Steel;
+USGS_ext;Montmorillonite;M.osm
+USGS_ext;Beryl crystal;Nm.gem
+USGS_ext;Dumortierite;Nm.gem
+USGS_ext;Obsidian;Nm.gem
+USGS_ext;Topas;Nm.gem
+USGS_ext;Gemstones, rough;Nm.gem
+USGS_ext;Quartz sand;M.SiO2
+USGS_ext;Granite and other quarry stone;M.ign
+USGS_ext;Gravel and cushed stone;M.sag
+USGS_ext;Marble, Slab;M.mat
+USGS_ext;Pottery clay;M.poc
+USGS_ext;White clay;M.kao
+USGS_ext;Jade;Nm.gem
+USGS_ext;Spinel;Nm.gem
+USGS_ext;Rubies, sapphires, spinel;Nm.gem
+USGS_ext;Rubies, sapphires;Nm.gem
+USGS_ext;Gemstones unspecified;Nm.gem
+USGS_ext;Limestone and Marble;M.lim
+USGS_ext;Lithium minerals;O.Li
+USGS_ext;Pyrite and pyrrhotite;O.FeS
+USGS_ext;Blue chalcedony;Nm.gem
+USGS_ext;Chrysocolla;Nm.gem
+USGS_ext;Picture stone;Nm.gem
+USGS_ext;Piertersite;Nm.gem
+USGS_ext;Sodalite, gem;Nm.gem
+USGS_ext;Beryl, industrial;O.Be
+USGS_ext;Clay, red;M.poc
+USGS_ext;Clay, for cement manufacture;M.coc
+USGS_ext;Toumaline;Nm.gem
+USGS_ext;Quartzite, slab;M.qar
+USGS_ext;Marble, Aggregate;M.mat
+USGS_ext;Marble, Chips;M.mat
+USGS_ext;Marble, Slab, cut;M.mat
+USGS_ext;Marble, cut;M.mat
+USGS_ext;Marble, Craggy;M.mat
+USGS_ext;Silicia sand (for metallurgical use);M.SiO2
+USGS_ext;Diatomaceous earth;M.dia
+USGS_ext;Sand and Gravel for road and ballast;M.sag
+USGS_ext;Sand and Gravel fÃ¼r building aggregate;M.sag
+USGS_ext;Greenstone;M.sto
+USGS_ext;Industrial sand;M.ins
+USGS_ext;Limestone and Marl, for agriculture;M.lim
+USGS_ext;Limestone and Marl, for cement;M.lim
+USGS_ext;Limestone and Marl, for other industrial uses;M.lim
+USGS_ext;Limestone and Marl, for roads;M.lim
+USGS_ext;Rock for harbor work;M.sto
+USGS_ext;Limestone, calcium carbonate;M.lim
+USGS_ext;Limestone, other;M.lim
+USGS_ext;Volcanic ash and sand;M.abr
+USGS_ext;Granite (crushed);M.ign
+USGS_ext;Marble (crushed);M.mat
+USGS_ext;Clays;M.coc
+USGS_ext;Dolomite, ground;M.dol
+USGS_ext;Labrador;
+USGS_ext;Nepheline syenite;O.nep
+USGS_ext;Olivine sand;M.ins
+USGS_ext;Quartz and Quartzite, crushed;M.qar
+USGS_ext;Slate including fill (incl. roof slate);M.sla
+USGS_ext;Sulfur;Nm.S
+USGS_ext;Sulfur acid;Nm.H2SO4
+USGS_ext;Aragonite and Marble;M.mat
+USGS_ext;Pigments, mineral, natural, ocher;M.irp
+USGS_ext;Sulphur, native;Nm.S
+USGS_ext;Limestone, crushed and broken;M.lim
+USGS_ext;Marble, crushed and broken;M.mat
+USGS_ext;Sand, including glass sand;M.ins
+USGS_ext;Shell, marl;M.mas
+USGS_ext;Stone, construction;M.crs
+USGS_ext;Red clay;M.poc
+USGS_ext;Cobbles and boulders;M.sto
+USGS_ext;Volcanic cinder;M.abr
+USGS_ext;Limestone for lime production;M.lim
+USGS_ext;Limestone for nonlime end use;M.lim
+USGS_ext;Marlstone;M.mas
+USGS_ext;Road stone;M.sto
+USGS_ext;Limestone, Marl, Calcite;M.lim
+USGS_ext;Gabbro;M.ign
+USGS_ext;Granite, ornamental;M.orn
+USGS_ext;Graywacke;M.sas
+USGS_ext;Ophite;M.dim
+USGS_ext;Talc (steatite, soapstone, pyrophyllite);M.tal
+USGS_ext;Calcium carbonate;Me.CaCO3
+USGS_ext;Sand, washed;M.sag
+USGS_ext;Sand, Limestone;M.sag
+USGS_ext;Sulfuric acid;Nm.H2SO4
+USGS_ext;Pozzolanic materials;M.abr
+USGS_ext;Aggregates;M.sag
+USGS_ext;Marble for industrial use;M.mat
+USGS_ext;Stone blocks;M.dim
+USGS_ext;Limestone, gypsum, chalk;M.lim
+USGS_ext;Marble and granite blocks;M.dim
+USGS_ext;Granite, dimension;M.dim
+USGS_ext;Stone, aggregate;M.sag
+USGS_ext;Stone, chert;M.chf
+USGS_ext;Andalusite;M.fic
+USGS_ext;Emerald crystals;Nm.gem
+USGS_ext;Ochers;M.och
+USGS_ext;Oxides;
+USGS_ext;Silcrete;M.onm
+USGS_ext;Sodium sulfate, natural;
+USGS_ext;Tiger's eye;Nm.gem
+USGS_ext;Wonderstone (Pyrophyllite);M.tal
+USGS_ext;Aggregates and Sand;M.sag
+USGS_ext;Granite and norite;M.ign
+USGS_ext;Sawn slabs;M.dim
+USGS_ext;Shale for cement manufacture only;M.coc
+USGS_ext;Acid clay;M.spc
+USGS_ext;Agalmatolite;M.tal
+USGS_ext;Phonolite;M.sto
+USGS_ext;Trachyte;M.ign
+USGS_ext;Trass and tufa;M.ign
+USGS_ext;Alexandrite;Nm.gem
+USGS_ext;Cat's eye;Nm.gem
+USGS_ext;Pathmaraga;Nm.gem
+USGS_ext;Quartz and Quartizite;M.qar
+USGS_ext;Precious and semiprecious, other than diamond;Nm.gem
+USGS_ext;Star ruby;Nm.gem
+USGS_ext;Monazite concentrate;Con.rem
+USGS_ext;Fluorite;M.onm
+USGS_ext;Olivine;M.onm
+USGS_ext;Stone, Dimension mostly unfinished;M.dim
+USGS_ext;Limestone, Dimension;M.dim
+USGS_ext;Sandstone, Dimension;M.dim
+USGS_ext;Quartz, Dimension;M.dim
+USGS_ext;Quartizite, Dimension;M.dim
+USGS_ext;Micaceous schist, Dimension;M.dim
+USGS_ext;Marble, crushed;M.mat
+USGS_ext;Quartizite, crushed;M.qar
+USGS_ext;Sandstone, crushed;M.sas
+USGS_ext;Stone, undifferentiated;M.sto
+USGS_ext;Stone, others;M.sto
+USGS_ext;Micaceous schist, crushed;M.mic
+USGS_ext;Marble Dimension;M.dim
+USGS_ext;Volanic tuff;M.ign
+USGS_ext;Aluminium, primary;
+USGS_ext;Meerschaum;M.osm
+USGS_ext;Ruby and Sapphire;Nm.gem
+USGS_ext;Tanzanite (Zoisite);Nm.gem
+USGS_ext;Chryosoprase and opal;Nm.gem
+USGS_ext;Corundum (gem only);Nm.gem
+USGS_ext;Scapolite;M.osm
+USGS_ext;Stone, aggregates;M.sag
+USGS_ext;Granite, Dimension stone;M.dim
+USGS_ext;Granite, Industrial rock;M.ign
+USGS_ext;Marble, dimension stone and fragment;M.dim
+USGS_ext;Marl for cement manufacture only;M.mas
+USGS_ext;Tarvertine;M.mat
+USGS_ext;Marble, Dimension;M.dim
+USGS_ext;Marble, Blocks;M.dim
+USGS_ext;Asphalt, natural;M.asp
+USGS_ext;Clay, Argillite;M.coc
+USGS_ext;Clay, other;M.coc
+USGS_ext;Fertilizers;
+USGS_ext;Urea;
+USGS_ext;Clays, construction;M.coc
+USGS_ext;Fertilizers, Triple-superphosphate;
+USGS_ext;Fertilizers, Phosphoric acid;
+USGS_ext;Fertilizers, Diammonium-phosphate;
+USGS_ext;Fertilizers, Ammonium nitrate;
+USGS_ext;Fertilizers, Compound fertilizers;
+USGS_ext;Fertilizers, Dicalcium phosphate;
+USGS_ext;Fertilizers, Hyperphosphate;
+USGS_ext;Fertilizers, Sodium triphosphate;
+USGS_ext;Emery;M.abr
+USGS_ext;Leonardite;M.onm
+USGS_ext;Sepiolite and palygorskite;M.ben
+USGS_ext;Titanium minerals, rutile;O.TiO2
+USGS_ext;Zirconium;Con.Zr
+USGS_ext;Diabase;M.ign
+USGS_ext;Limestone, other than for cement;M.lim
+USGS_ext;Bischofite;M.onm
+USGS_ext;Other clay;M.coc
+USGS_ext;Alumina;
+USGS_ext;Kaolinitic clay;M.kao
+USGS_ext;Aluminum, primary;
+USGS_ext;Pottery clay and ball clay;M.poc
+USGS_ext;Sodium compounds, carbonate, n.e.s.;M.soc
+USGS_ext;Titanium, titanium dioxide;Me.TiO2
+USGS_ext;Pumice and pumicite;M.abr
+USGS_ext;Pumice (and pumicite);M.abr
+USGS_ext;Tripoli;M.abr
+USGS_ext;Marble, other, unspecified;M.mat
+USGS_ext;Granite, crushed and broken, alum schist;M.ign
+USGS_ext;Granite, other, rough stone;M.ign
+USGS_ext;Stone, crushed and broken, Alum schist;M.crs
+USGS_ext;Natural Gemstones, agate and amethyst;Nm.gem
+USGS_ext;Stone, other, including ballast;M.sto
+USGS_ext;Corundum, natural;M.onm
+USGS_ext;Lithium minerals, nut further specified;O.Li
+USGS_ext;Potash, KÂ²O equivalent;O.K2O
+USGS_ext;Lead, refined;
+USGS_ext;Lead, secondary, refined;
+USGS_ext;Lead, secondary, smelter;
+USGS_ext;Serpentinite, crushed;M.orn
+USGS_ext;Stone, all kinds;M.sto
+USGS_ext;other quarried stone;M.crs
+USGS_ext;Pyrite concentrate;Con.S
+USGS_ext;Pyrrhotite;M.onm
+USGS_ext;Quartz, quartzite and glass sand;M.qar
+USGS_ext;Building clay, not further specified;M.coc
+USGS_ext;China and ball clay;M.kao
+USGS_ext;Phyllite;M.onm
+USGS_ext;Building stone, not further specified;M.dim
+USGS_ext;Miscellaneous (building);M.dim
+USGS_ext;Tantalum, mine output;Me.Ta
+USGS_ext;Columbium and tatalum;
+USGS_ext;Bentonite (montmorillonite);M.ben
+USGS_ext;Diamonds;Nm.dia
+USGS_ext;Quartz, rough;M.qar
+USGS_ext;Silicia;Nm.SiO2
+USGS_ext;Copper;Me.Cu
+USGS_ext;Tantalum;Me.Ta
+USGS_ext;Fuller's earth;M.fue
+USGS_ext;Gypsum;M.gya
+USGS_ext;Talc;M.tal
+USGS_ext;Perlite;M.per
+USGS_ext;Salt;M.sal
+USGS_ext;Gemstones;Nm.gem
+USGS_ext;Sand and gravel;M.sag
+USGS_ext;Aluminium;Me.Al
+USGS_ext;Mercury;Me.Hg
+USGS_ext;Gold;Me.Au
+USGS_ext;Zircon;O.Zr
+USGS_ext;Ilmenite;O.FeTiO3
+USGS_ext;Vermiculite;M.ver
+USGS_ext;Amazonite;Nm.gem
+USGS_ext;Columbite;O.Nb
+USGS_ext;Microlite;O.Ta
+USGS_ext;Tantalite;O.Ta
+USGS_ext;Beryl;O.Be
+USGS_ext;Kaolin;M.kao
+USGS_ext;Attapulgite;M.ben
+USGS_ext;Sepiolite;M.ben
+USGS_ext;Rutile;O.TiO2
+USGS_ext;Asbestos;M.asb
+USGS_ext;Chalcedony;Nm.gem
+USGS_ext;Gallium;Me.Ga
+USGS_ext;Zinc;Me.Zn
+USGS_ext;Graphite;M.gra
+USGS_ext;Bauxite;O.Al
+WMD_ext;3A aggregates ;M.sag
+WMD_ext;Abrasivos Naturales;M.abr
+WMD_ext;Acid proof andesite;M.ign
+WMD_ext;Aggregate;M.sag
+WMD_ext;Aggregate minerals ;M.sag
+WMD_ext;Aggregates;M.sag
+WMD_ext;Aggregates (natural and lightweight);M.sag
+WMD_ext;Alabaster;M.sto
+WMD_ext;Aleurolite;M.sto
+WMD_ext;Alumina hydrate;
+WMD_ext;Aluminium phosphates;
+WMD_ext;Amphibiolite;M.dim
+WMD_ext;Amphibolite;M.dim
+WMD_ext;Amphivolite;M.dim
+WMD_ext;Andalosite Schist;M.sto
+WMD_ext;Andesite;M.ign
+WMD_ext;Andesite Basalt;M.ign
+WMD_ext;Andesite Dacites;M.ign
+WMD_ext;Anfibolita;
+WMD_ext;Antimony ore;
+WMD_ext;Apalite;M.sto
+WMD_ext;Apatita;
+WMD_ext;Arcilla Blanca;
+WMD_ext;Arcilla roja;
+WMD_ext;Arcillas;
+WMD_ext;Arena Construcción;M.sag
+WMD_ext;Arena p/Construcción;M.sag
+WMD_ext;arena para construccion;M.sag
+WMD_ext;Arena y Canto Rodado;M.sag
+WMD_ext;Arena y grava;M.sag
+WMD_ext;Arenas;M.sag
+WMD_ext;Arenas siliceas;M.SiO2
+WMD_ext;Arenisca;
+WMD_ext;Argiclay;
+WMD_ext;Argilite;M.sto
+WMD_ext;Article clay;M.coc
+WMD_ext;Asbestos;M.asb
+WMD_ext;Asphalt;M.asp
+WMD_ext;Asphaltic rock;M.asp
+WMD_ext;Attapulgites;M.ben
+WMD_ext;Azufre fino;
+WMD_ext;Backfilling sands;M.sag
+WMD_ext;Bajri Sand;
+WMD_ext;Ball clay;M.bac
+WMD_ext;Ballast aggregates;M.sag
+WMD_ext;Barite;M.bar
+WMD_ext;Barite - Chemical grade (ground);M.bar
+WMD_ext;Barite - Drilling mud (ground);M.bar
+WMD_ext;Barite - Unground;M.bar
+WMD_ext;Baritina;
+WMD_ext;Baryle;
+WMD_ext;Baryte;M.bar
+WMD_ext;Basalt;M.ign
+WMD_ext;Basalt and Tuff;M.ign
+WMD_ext;Basalt Quarrying;M.ign
+WMD_ext;Basalt, Andesite;M.ign
+WMD_ext;basalto;M.ign
+WMD_ext;Bassit for casting;
+WMD_ext;Bausand;M.sag
+WMD_ext;Bausand und Kies;M.sag
+WMD_ext;Bausand, Baukies;M.sag
+WMD_ext;Bausand, Baukies, Kies für den Wegebau;M.sag
+WMD_ext;Bentonic clay;M.ben
+WMD_ext;Bentonit;M.ben
+WMD_ext;Bentonit clays for smelting;M.ben
+WMD_ext;Bentonita;M.ben
+WMD_ext;Bentonite;M.ben
+WMD_ext;Bentonite ;M.ben
+WMD_ext;Bentonite clay;M.ben
+WMD_ext;Bentonyt und feuerfester Ton;M.ben
+WMD_ext;Bimstein;M.abr
+WMD_ext;Blasted and crushed rock;M.crs
+WMD_ext;Blasted Rock;M.crs
+WMD_ext;Boron minerals;M.bor
+WMD_ext;Boulders;M.sto
+WMD_ext;Breccia;
+WMD_ext;Brick;
+WMD_ext;Brick clay;M.coc
+WMD_ext;Brick clays;M.coc
+WMD_ext;Brick clays and related minerals ;M.coc
+WMD_ext;Brick clays and related minerals from mine production in non-reserved deposits;M.coc
+WMD_ext;Brick clays and related minerals from mine production in reserved deposits;M.coc
+WMD_ext;Brick earth;M.coc
+WMD_ext;Brick material;M.coc
+WMD_ext;Building and construction stones;M.dim
+WMD_ext;Building and dimension stone;M.dim
+WMD_ext;Building and ornamental stone;M.dim
+WMD_ext;Building dolomite;M.dim
+WMD_ext;Building gravel;M.dim
+WMD_ext;Building limestone;M.lim
+WMD_ext;Building materials;M.dim
+WMD_ext;Building sand;M.sag
+WMD_ext;Building Stone;M.dim
+WMD_ext;Building stones;M.dim
+WMD_ext;Burnt lime;
+WMD_ext;Calcareous stone for grinding;M.lim
+WMD_ext;Calcereous gravel dolomitic;M.lim
+WMD_ext;Calcereous stone for building;M.lim
+WMD_ext;Calcite;M.cal
+WMD_ext;Calcite for cement;M.cal
+WMD_ext;Calcite for lime;M.cal
+WMD_ext;Calcium carbonate;Me.CaCO3
+WMD_ext;Calcium phosphates;
+WMD_ext;Calcium sulphate;
+WMD_ext;caliza;
+WMD_ext;Calizas;
+WMD_ext;Calsedon;
+WMD_ext;canto rodado;
+WMD_ext;Capteção Água Constr.;
+WMD_ext;Carbonate calcium;Me.CaCO3
+WMD_ext;Carbonato de calcio;Me.CaCO3
+WMD_ext;Carbonato de litio;Me.Li2CO3
+WMD_ext;Carmeres;
+WMD_ext;Castine;
+WMD_ext;Celestite;O.Sr
+WMD_ext;Cement rock;
+WMD_ext;Cement rocks;
+WMD_ext;Ceramic and brick clay;M.coc
+WMD_ext;Ceramic and fire clay;M.fic
+WMD_ext;Ceramic clay;M.fic
+WMD_ext;Ceramic clays;M.fic
+WMD_ext;Ceramic rock salt;
+WMD_ext;Chalk;M.cha
+WMD_ext;Chert;M.chf
+WMD_ext;China Clay;M.kao
+WMD_ext;China clay (Kaolin);M.kao
+WMD_ext;Chlorkalium;
+WMD_ext;Cimita;
+WMD_ext;Clay;M.coc
+WMD_ext;Clay ;M.coc
+WMD_ext;Clay bricks;M.coc
+WMD_ext;Clay for Brick;M.coc
+WMD_ext;Clay for bricks;M.coc
+WMD_ext;Clay for cement;M.coc
+WMD_ext;Clay for expanded clay aggregate;M.coc
+WMD_ext;Clay raw materials for lightweight aggregate production;M.coc
+WMD_ext;Clay rocks;
+WMD_ext;Clay sand;
+WMD_ext;Clay sand (cover layer);
+WMD_ext;Clay sand and loam;
+WMD_ext;Clays;M.coc
+WMD_ext;Clays - corrective additives for cement production ;M.coc
+WMD_ext;Clays for brick;M.coc
+WMD_ext;Clays for Bricks;M.coc
+WMD_ext;Clays for cement;M.coc
+WMD_ext;Cloruro de sodio;
+WMD_ext;Coated roadstone;
+WMD_ext;Columbite-Tantalite;O.NbTa
+WMD_ext;Common clay;M.coc
+WMD_ext;Common clay and shale;M.coc
+WMD_ext;Common clays;M.coc
+WMD_ext;Common sand;M.sag
+WMD_ext;conchilla;
+WMD_ext;Concrete mortar;
+WMD_ext;Conglomerate;
+WMD_ext;Construction gypsum;M.gya
+WMD_ext;Construction material;M.sag
+WMD_ext;Construction Materials;M.sag
+WMD_ext;Construction sand and gravel;M.sag
+WMD_ext;Construction sands;M.sag
+WMD_ext;Construction sands such as clayey sands, kaolinic sands, felpathic sands;M.sag
+WMD_ext;Construction Stone;M.crs
+WMD_ext;Construction stones for concrete filler;M.crs
+WMD_ext;Coral Lime;
+WMD_ext;Coral sand for cement;M.sag
+WMD_ext;Corrective additives for cement production;
+WMD_ext;Crushed and brown stone;M.crs
+WMD_ext;Crushed calcite;M.cal
+WMD_ext;Crushed dolomite;M.dol
+WMD_ext;Crushed granite;M.ign
+WMD_ext;Crushed gravel;M.sag
+WMD_ext;Crushed items from natural stone;M.crs
+WMD_ext;Crushed or cut dolomite for concentrate aggregates, for road stone and for other construction use;M.sag
+WMD_ext;Crushed rock;M.crs
+WMD_ext;Crushed stone;M.crs
+WMD_ext;Crushed stone ;M.crs
+WMD_ext;Crushed stone - basalt;M.ign
+WMD_ext;Crushed stone aggregate;M.crs
+WMD_ext;Crushed stone and boulders;M.crs
+WMD_ext;Crushed stone and ornamental stone;M.crs
+WMD_ext;Crushed stone dolomite;M.dol
+WMD_ext;Crushed stone from mine production in non-reserved deposits;M.crs
+WMD_ext;Crushed stone from mine production in reserved deposits;M.crs
+WMD_ext;Crushed stone limestone;M.lim
+WMD_ext;Crushed stone of vulcanite;M.ign
+WMD_ext;Crushed stone other;M.crs
+WMD_ext;Crushed stones;M.crs
+WMD_ext;Crystalline Limestone;
+WMD_ext;cuarcita;
+WMD_ext;Cuarcitas y areniscas;
+WMD_ext;Cuarzo;
+WMD_ext;Cuarzo Rosado;
+WMD_ext;Dacit;
+WMD_ext;Decorative dolomite;M.dim
+WMD_ext;Decorative goods from natural stone;M.dim
+WMD_ext;Diabase;M.ign
+WMD_ext;Diabaz;M.ign
+WMD_ext;Diamantes;Nm.dia
+WMD_ext;Diamonds;Nm.dia
+WMD_ext;Diatomita;M.dia
+WMD_ext;Diatomite;M.dia
+WMD_ext;Diatomute;M.dia
+WMD_ext;Dimension and crushed stones;M.dim
+WMD_ext;Dimension and decorative stones;M.dim
+WMD_ext;Dimension Stone;M.dim
+WMD_ext;Dimension stone from mine production in non-reserved deposits;M.dim
+WMD_ext;Dimension stone from mine production in reserved deposits;M.dim
+WMD_ext;Dimensional Stone;M.dim
+WMD_ext;Dimensional stones;M.dim
+WMD_ext;Dimention stones;M.dim
+WMD_ext;Dimentional stones;M.dim
+WMD_ext;Diorite;M.ign
+WMD_ext;Dolomit;M.dol
+WMD_ext;dolomita;M.dol
+WMD_ext;Dolomita Triturada;M.dol
+WMD_ext;dolomita, en bloques;M.dim
+WMD_ext;dolomita, trilurada;M.dol
+WMD_ext;Dolomite;M.dol
+WMD_ext;Dolomite (unground);M.dol
+WMD_ext;Dolomite crude;M.dol
+WMD_ext;Dolomite for lime;M.dol
+WMD_ext;Dolomite powdered;M.dol
+WMD_ext;Ecausine and other calcerous monumental;M.lim
+WMD_ext;Emerald;Nm.gem
+WMD_ext;Emery;M.abr
+WMD_ext;Expanded pearlite;
+WMD_ext;Facing stones;
+WMD_ext;Feldespato;M.fel
+WMD_ext;Feldspar;M.fel
+WMD_ext;Feldspar potassium;M.fel
+WMD_ext;Feldspar sodium;M.fel
+WMD_ext;Feldspar substitutes;M.fel
+WMD_ext;Feldspatic sand;M.fel
+WMD_ext;Feuerfester lehm;M.fic
+WMD_ext;Feuerfester u. keramischer Ton;M.fic
+WMD_ext;Feuerfester u. keramischer Ton, roh;M.fic
+WMD_ext;Feuerfester und kermaischer Ton;M.fic
+WMD_ext;Filler Kaolin;M.kao
+WMD_ext;Filling sands;M.sag
+WMD_ext;Fine Grain Marble;M.mat
+WMD_ext;Fire clay;M.fic
+WMD_ext;Fire clay ;M.fic
+WMD_ext;Fire clays;M.fic
+WMD_ext;Flint;M.chf
+WMD_ext;Flisch;M.sto
+WMD_ext;Fluorite - Acid grade;M.onm
+WMD_ext;Fluorite - Metallurgical grade ;M.onm
+WMD_ext;Fluorspar;M.flu
+WMD_ext;Flux limestone;M.lim
+WMD_ext;Foundry sand;M.ins
+WMD_ext;Foundry sands;M.ins
+WMD_ext;Fuller earths;M.fue
+WMD_ext;Fullers Earth;M.fue
+WMD_ext;Fulles earth;M.fue
+WMD_ext;Gabbro;M.ign
+WMD_ext;Gabbro and Diabase;M.ign
+WMD_ext;Galenit;
+WMD_ext;Gebr. Kalk u. Dolomitsteine;M.lim
+WMD_ext;Gebr. Natursteine;M.crs
+WMD_ext;Gebrochener Naturstein;M.crs
+WMD_ext;gebrochener Naturstein für den Tiefbau;M.crs
+WMD_ext;Geinstone;
+WMD_ext;geschnittene Kalke;M.dim
+WMD_ext;Gips aus Rauchgas ;M.gya
+WMD_ext;Gips u. Anhydritstein;M.gya
+WMD_ext;Gipsum;M.gya
+WMD_ext;Glass and foundry sands;M.SiO2
+WMD_ext;Glass sand;M.SiO2
+WMD_ext;Glass sands and sandstones;M.SiO2
+WMD_ext;Glass send;M.SiO2
+WMD_ext;Gnais;M.sto
+WMD_ext;Gneis;M.sto
+WMD_ext;Gneiss;M.sto
+WMD_ext;Gniess;M.sto
+WMD_ext;Granit;M.ign
+WMD_ext;Granit für den Schotter;M.ign
+WMD_ext;Granite;M.ign
+WMD_ext;Granite - Dimension stone;M.dim
+WMD_ext;Granite - Industrial rock;M.ign
+WMD_ext;Granite (block);M.dim
+WMD_ext;Granite and Gneiss;M.ign
+WMD_ext;Granite and Marble;M.ign
+WMD_ext;Granite and travertine square blocks;M.dim
+WMD_ext;Granite crude;M.ign
+WMD_ext;Granite ornamental and similar stones;M.orn
+WMD_ext;Granite slabs;M.ign
+WMD_ext;Granites;M.ign
+WMD_ext;Granito;M.ign
+WMD_ext;Granito en Bloque;M.dim
+WMD_ext;granito en bloques;M.dim
+WMD_ext;granito triturado;M.ign
+WMD_ext;granito, triturado;M.ign
+WMD_ext;Granitplatten;M.ign
+WMD_ext;Granodiorite;
+WMD_ext;grantio, en bloques;M.dim
+WMD_ext;granulado volcanico;M.ign
+WMD_ext;Granulado Volcánico;M.ign
+WMD_ext;Granules, chippings and powder;M.sag
+WMD_ext;Granules, chippings and powder of marble;M.mat
+WMD_ext;Granules, chippings and powder of travertine;M.mat
+WMD_ext;Granules, chippings and powder of travertine, ecaussine, granite, porphry, basalt, sandstone and other monumental stone;M.sag
+WMD_ext;Granzon;
+WMD_ext;Graphite;M.gra
+WMD_ext;Gravel;M.sag
+WMD_ext;Gravel aggregates;M.sag
+WMD_ext;Gravel, Flint;M.chf
+WMD_ext;Gravel, pebbles;M.sag
+WMD_ext;Gravels;M.sag
+WMD_ext;Graywacke;M.sas
+WMD_ext;GRESIE;
+WMD_ext;Guano;O.P
+WMD_ext;Gyps;M.gya
+WMD_ext;Gyps und Anhydrid;M.gya
+WMD_ext;Gypstrockenmischungen;M.gya
+WMD_ext;Gypsum;M.gya
+WMD_ext;Gypsum and anhidrite;M.gya
+WMD_ext;Gypsum for cement;M.gya
+WMD_ext;Gypsum stone;M.gya
+WMD_ext;Hard rock;M.sag
+WMD_ext;Hard rocks;M.sag
+WMD_ext;Hard rocks for aggregates;M.sag
+WMD_ext;Havara;M.sag
+WMD_ext;Havara and gravel;M.sag
+WMD_ext;Havara mixture and gravel;M.sag
+WMD_ext;Healing mud;
+WMD_ext;Homstein;
+WMD_ext;Hornstein;
+WMD_ext;Huntite;
+WMD_ext;Hydrated lime;
+WMD_ext;Hydraulic cement;
+WMD_ext;Igneous rock;M.ign
+WMD_ext;Ilmenite;O.FeTiO3
+WMD_ext;Industria Salitrera ;
+WMD_ext;Industrial dolomite;M.dol
+WMD_ext;Industrial sand;M.ins
+WMD_ext;Industriesande/Quarzsande;M.ins
+WMD_ext;Iron Pyrites;O.FeS
+WMD_ext;Jasper;M.orn
+WMD_ext;Kalk für den Bau;M.lim
+WMD_ext;Kalk für die Zuckerindustrie;M.lim
+WMD_ext;Kalk für Zement;M.lim
+WMD_ext;Kalk u. Kalkmergelstein f. d. Zementherstellung;M.lim
+WMD_ext;Kalk und Dolomitstein;M.lim
+WMD_ext;Kalk und gipsstein;M.lim
+WMD_ext;Kalk und Mergelsteine;M.lim
+WMD_ext;Kalk und Mergelsteine für die Zementherstellung;M.lim
+WMD_ext;Kalkstein;M.lim
+WMD_ext;Kalkstein zum schneiden von blocks;M.dim
+WMD_ext;Kalzium Karbonat;Me.CaCO3
+WMD_ext;Kaolin;M.kao
+WMD_ext;Kaolin and ind. clay;M.kao
+WMD_ext;Kaolin clays (ball and plastic clays);M.kao
+WMD_ext;Kaoline Sands;
+WMD_ext;Keratophyr;
+WMD_ext;Kies;M.sag
+WMD_ext;Klinker;
+WMD_ext;Kreide;M.cha
+WMD_ext;Kreide und Dolomit;M.cha
+WMD_ext;Kurkar;
+WMD_ext;Kyanite Gems;M.fic
+WMD_ext;Kyanite gems grade;M.fic
+WMD_ext;Kyanite Ind;M.fic
+WMD_ext;Kyanite industrial grade;M.fic
+WMD_ext;Lacustrine chalk;M.cha
+WMD_ext;Laterite;M.lat
+WMD_ext;Laterites;M.lat
+WMD_ext;Lavastone;M.ign
+WMD_ext;Leucoxene;O.leu
+WMD_ext;Lime;
+WMD_ext;Lime hydraulic;
+WMD_ext;Lime Ston;M.lim
+WMD_ext;Limestone;M.lim
+WMD_ext;Limestone ;M.lim
+WMD_ext;Limestone - Cement industry;M.lim
+WMD_ext;Limestone - Construction;M.lim
+WMD_ext;Limestone - Dimension stone;M.dim
+WMD_ext;Limestone - Other industry;M.lim
+WMD_ext;Limestone Aggregate;M.lim
+WMD_ext;Limestone and Chalk for cement;M.lim
+WMD_ext;Limestone and Dolomite;M.lim
+WMD_ext;Limestone and Dolomite for breakage stone;M.lim
+WMD_ext;Limestone and marble;M.lim
+WMD_ext;Limestone and Marl;M.lim
+WMD_ext;Limestone and Marls;M.lim
+WMD_ext;Limestone as building stone;M.lim
+WMD_ext;Limestone as construction stone;M.lim
+WMD_ext;Limestone cement;M.lim
+WMD_ext;Limestone cement grade;M.lim
+WMD_ext;Limestone chemical grade;M.lim
+WMD_ext;Limestone crushed used for the manufacture of lime or cement;M.lim
+WMD_ext;Limestone dimension stone;M.dim
+WMD_ext;Limestone for a chemical industry;M.lim
+WMD_ext;Limestone for cement;M.lim
+WMD_ext;Limestone for cladding;M.lim
+WMD_ext;Limestone for facing;M.lim
+WMD_ext;Limestone for flux;M.lim
+WMD_ext;Limestone for freestone;M.lim
+WMD_ext;Limestone for lime;M.lim
+WMD_ext;Limestone for lime production;M.lim
+WMD_ext;Limestone for other industry;M.lim
+WMD_ext;Limestone in blocks;M.lim
+WMD_ext;Limestone ornamental stone;M.orn
+WMD_ext;Limestone powdered;M.lim
+WMD_ext;Limestones and corrective additives for cement production;M.lim
+WMD_ext;Limestones and marls for cement;M.lim
+WMD_ext;Limestones as dimension stones;M.dim
+WMD_ext;Lithium pegmatite;
+WMD_ext;Loam;M.loa
+WMD_ext;Loess;
+WMD_ext;Magnesita;O.MgCO3
+WMD_ext;Magnesite;O.MgCO3
+WMD_ext;Magnesium sulfate;
+WMD_ext;Marbel;M.mat
+WMD_ext;Marble;M.mat
+WMD_ext;Marble - Dimension stone;M.dim
+WMD_ext;Marble - Fragment;M.mat
+WMD_ext;Marble (block);M.dim
+WMD_ext;Marble aggregate;M.mat
+WMD_ext;Marble and limestone;M.mat
+WMD_ext;Marble and other carbonated stones;M.mat
+WMD_ext;Marble and travertine;M.mat
+WMD_ext;Marble and travertine merely cut into rectangular or square blocks or slabs of a thickness over 25 cm;M.dim
+WMD_ext;Marble and travertine slabs;M.mat
+WMD_ext;Marble and travertine square blocks;M.dim
+WMD_ext;Marble and travertine, crude or roughly trimmed;M.mat
+WMD_ext;Marble blocks;M.dim
+WMD_ext;Marble chips;M.mat
+WMD_ext;Marble crazzy;M.mat
+WMD_ext;Marble for breakage stone ;M.mat
+WMD_ext;Marble for cladding;M.mat
+WMD_ext;Marble for facing;M.mat
+WMD_ext;Marble onyx;M.mat
+WMD_ext;Marble ordinary;M.mat
+WMD_ext;Marble plates and ornamental stones;M.mat
+WMD_ext;Marble powder;M.mat
+WMD_ext;Marble powder or chips;M.mat
+WMD_ext;Marble raw stone;M.mat
+WMD_ext;Marble rough;M.mat
+WMD_ext;Marble slab;M.mat
+WMD_ext;Marble slabs;M.mat
+WMD_ext;Marble squared;M.dim
+WMD_ext;Marbled limestone;M.lim
+WMD_ext;Maris;M.mas
+WMD_ext;Marl;M.mas
+WMD_ext;Marls;M.mas
+WMD_ext;Marls for bricks;M.mas
+WMD_ext;Marls for cement;M.mas
+WMD_ext;Marmol;M.mat
+WMD_ext;Mármol;M.mat
+WMD_ext;marmol aragonita;M.mat
+WMD_ext;Mármol Aragonita;M.mat
+WMD_ext;marmol onix;M.mat
+WMD_ext;Mármol Onix Bloques;M.dim
+WMD_ext;marmol onix, en bochones;M.mat
+WMD_ext;marmol onix, en escallas;M.mat
+WMD_ext;marmol travertino;M.mat
+WMD_ext;marmol travertino, en bloques;M.dim
+WMD_ext;marmol travertino, en bochones;M.mat
+WMD_ext;marmol, en bloques;M.dim
+WMD_ext;marmol, en bochones;M.mat
+WMD_ext;marmol, en escallas;M.mat
+WMD_ext;Marmor;M.mat
+WMD_ext;Marmor und Travertin;M.mat
+WMD_ext;Marmor, Granit, Sandstone, Porphyr, Basalt etc. ;M.sto
+WMD_ext;Marmorplatten;M.dim
+WMD_ext;Materiales de construcción;M.sag
+WMD_ext;Melafir;
+WMD_ext;Melaphyr;
+WMD_ext;Metadiabase;M.ign
+WMD_ext;Metamorfite;
+WMD_ext;Metamorphic Limestone;
+WMD_ext;Mica;M.mic
+WMD_ext;Micaceous schists;M.mic
+WMD_ext;Micaschiste;M.mic
+WMD_ext;Micasist;M.mic
+WMD_ext;Migmatite;
+WMD_ext;Milchquartz;
+WMD_ext;Mineral aggregates ;M.sag
+WMD_ext;Mixed Sulphide;
+WMD_ext;Modeling sand;
+WMD_ext;Moldavite (tectite) bearing rock;M.osm
+WMD_ext;Molding sands;M.ins
+WMD_ext;Monazite;O.CeLaPO4
+WMD_ext;Montmorillonite;M.osm
+WMD_ext;Muschelkalkstein;M.lim
+WMD_ext;Mylonite granitous;
+WMD_ext;Naciços Construídes;
+WMD_ext;Natriumsulfat;
+WMD_ext;Natural graphite;M.gra
+WMD_ext;Natural sand;M.sag
+WMD_ext;Natural sand for construction;M.sag
+WMD_ext;Natural stone;M.sto
+WMD_ext;Natürlicher Kies u. Sand;M.sag
+WMD_ext;Naturwerksteine;M.dim
+WMD_ext;Nephilin Syenite;O.nep
+WMD_ext;Oil sand;F.ois
+WMD_ext;Oilshale;F.ois
+WMD_ext;Olivine;M.onm
+WMD_ext;Olivine and Dunite;M.onm
+WMD_ext;Olivinite;M.ign
+WMD_ext;Olygist;
+WMD_ext;Opal;Nm.gem
+WMD_ext;Ordinary sand;M.sag
+WMD_ext;Ordinary stone;M.sto
+WMD_ext;Ornamental andesite;M.orn
+WMD_ext;Ornamental limestone;M.orn
+WMD_ext;Ornamental rocks/stones granite, marble, limestone;M.orn
+WMD_ext;Ornamental stone;M.orn
+WMD_ext;Orpymae;
+WMD_ext;Other;
+WMD_ext;Other aggregates for use in construction, made of slage, slacks and similar industial wastes;
+WMD_ext;Other building stone;M.dim
+WMD_ext;Other Clays;M.coc
+WMD_ext;Other crushed or cut stone used for concrete aggregates, for road stone and for other construction use;M.sag
+WMD_ext;Other hard Rocks;M.sto
+WMD_ext;Other ornamental stones;M.orn
+WMD_ext;Other soft Rocks;M.sto
+WMD_ext;Other special use mineral aggregates;M.sag
+WMD_ext;Parget/plaster;M.gya
+WMD_ext;Paving stone  and similar;M.sto
+WMD_ext;Peatloam;
+WMD_ext;Pebbles, shingle and flint;M.chf
+WMD_ext;peedra laja;
+WMD_ext;Pegmatite;
+WMD_ext;Perfuração / Perg. Agua;
+WMD_ext;Perfursção / Capt. Agua;
+WMD_ext;perita;M.per
+WMD_ext;perlita;M.per
+WMD_ext;Perlite;M.per
+WMD_ext;Pesquisa Ague Sub.;
+WMD_ext;Phosphate;Nm.PO
+WMD_ext;Phosphate rock;O.P
+WMD_ext;Phylite;M.onm
+WMD_ext;Phylite shists;M.onm
+WMD_ext;Piedra cantera;
+WMD_ext;piedra laja;
+WMD_ext;piedra pomez;M.abr
+WMD_ext;Piedra Pómez;M.abr
+WMD_ext;Piedra triturda;
+WMD_ext;Pitch sand;
+WMD_ext;Pizarra;
+WMD_ext;pjedra pomez;M.abr
+WMD_ext;Plastering sand;
+WMD_ext;Plutonite;
+WMD_ext;Plutonites;
+WMD_ext;Plutonites ;
+WMD_ext;Pomez;M.abr
+WMD_ext;Porcellanite;
+WMD_ext;Pórfido;
+WMD_ext;Porfire;M.ign
+WMD_ext;Porphyry;M.ign
+WMD_ext;Potterystone;
+WMD_ext;Pouzzolane;M.abr
+WMD_ext;Pozzolan;M.abr
+WMD_ext;Pozzolana;M.abr
+WMD_ext;Precious stones;Nm.gem
+WMD_ext;Pumice;M.abr
+WMD_ext;Pumics;M.abr
+WMD_ext;puzolana;M.abr
+WMD_ext;Puzzolan;M.abr
+WMD_ext;Puzzolane;M.abr
+WMD_ext;Pyrope bearing rock;O.gem
+WMD_ext;Pyrope-bearing rock;O.gem
+WMD_ext;Pyrophylite;M.tal
+WMD_ext;Pyrophyllite;M.tal
+WMD_ext;Quarried Stone;M.crs
+WMD_ext;Quarry;
+WMD_ext;Quarry stone;M.crs
+WMD_ext;Quartz;M.qar
+WMD_ext;Quartz (Gems);M.qar
+WMD_ext;Quartz (Industrial);M.qar
+WMD_ext;Quartz (unground);M.qar
+WMD_ext;Quartz and quartz sands, crude;M.qar
+WMD_ext;Quartz and sandstones;M.qar
+WMD_ext;Quartz feldspar;M.qar
+WMD_ext;Quartz Field;M.qar
+WMD_ext;Quartz gems grade;M.qar
+WMD_ext;Quartz industrial grade;M.qar
+WMD_ext;Quartz sand and gravel;M.qar
+WMD_ext;Quartz sands;M.SiO2
+WMD_ext;Quartz shyllate;M.qar
+WMD_ext;Quartz-chrystal gems quality;M.qar
+WMD_ext;Quartz-chrystal industrial quality;M.qar
+WMD_ext;Quartzcrysted;M.qar
+WMD_ext;Quartzite;M.qar
+WMD_ext;Quartzite ;M.qar
+WMD_ext;Quartzite  feldspar;M.qar
+WMD_ext;Quartzite  Feldspar sands;M.qar
+WMD_ext;Quartzite and sandstones;M.qar
+WMD_ext;Quartzite slabs;M.qar
+WMD_ext;Quartzites;M.qar
+WMD_ext;Quartzites and Feldspar sands for glass industry;M.qar
+WMD_ext;Quartzites and Sandstone;M.qar
+WMD_ext;Quartzites and Sandstones;M.qar
+WMD_ext;Quartzites and Sandstones for cement;M.qar
+WMD_ext;Quartzsand;M.SiO2
+WMD_ext;Quartzsand for Glass;M.SiO2
+WMD_ext;Quartzsande, -kiese und -schotter;M.qar
+WMD_ext;Quartzsande, Kiese, Schotter;M.qar
+WMD_ext;Quartzsands;M.SiO2
+WMD_ext;Quartzsands for cellular concrete;M.qar
+WMD_ext;Quartzsands for firebrand;M.qar
+WMD_ext;Quartzsands for glass;M.SiO2
+WMD_ext;Quartzsands for lime-sand brick;M.qar
+WMD_ext;Quartzsands including river sand;M.qar
+WMD_ext;Quick Lime;
+WMD_ext;Raw materials for cement;M.sag
+WMD_ext;Raw materials for cement industry;M.sag
+WMD_ext;Raw materials for lime;
+WMD_ext;Red clay;M.poc
+WMD_ext;Red soil;
+WMD_ext;Red Stone Quarrying;M.sto
+WMD_ext;Redclay;
+WMD_ext;Refractory clays;M.fic
+WMD_ext;Repareçãe / Bembas;
+WMD_ext;Resizable rocks;
+WMD_ext;Rhyolite;M.ign
+WMD_ext;Rhyolithe;
+WMD_ext;Riolit;
+WMD_ext;riolita;
+WMD_ext;River sand;M.sag
+WMD_ext;River sand and gravel;M.sag
+WMD_ext;Riverine gravel for grinding;M.sag
+WMD_ext;Road stones;M.sto
+WMD_ext;Rock aggregates;M.sag
+WMD_ext;Rock salt;M.sal
+WMD_ext;Rock wool;
+WMD_ext;Roda;
+WMD_ext;Roofing slate;M.sla
+WMD_ext;Rubble, Curb stones;M.sto
+WMD_ext;Rutile;O.TiO2
+WMD_ext;Salica sand;
+WMD_ext;Salt;M.sal
+WMD_ext;Salt stone;
+WMD_ext;Salt, all sources;M.sal
+WMD_ext;Salz;M.sal
+WMD_ext;Sand;M.sag
+WMD_ext;Sand ;M.sag
+WMD_ext;Sand (cover layer);M.sag
+WMD_ext;Sand (filling);M.sag
+WMD_ext;Sand (for cellular concrete);M.sag
+WMD_ext;Sand (foundry);M.ins
+WMD_ext;Sand aggregates;M.sag
+WMD_ext;Sand and gravel;M.sag
+WMD_ext;Sand and Gravel ;M.sag
+WMD_ext;Sand and Gravel aggregate;M.sag
+WMD_ext;Sand and gravel from mine production in non-reserved deposits;M.sag
+WMD_ext;Sand and gravel from mine production in reserved deposits;M.sag
+WMD_ext;Sand für die Glasindustrie;M.SiO2
+WMD_ext;Sand für silikumhaltige produkte;M.ins
+WMD_ext;Sand und Kies;M.sag
+WMD_ext;Sandige Kiesgesteine;M.sag
+WMD_ext;Sands;M.sag
+WMD_ext;Sands and Gravels;M.sag
+WMD_ext;Sands for ceramic products;M.ins
+WMD_ext;Sands for silica brich;
+WMD_ext;Sandstein;M.sas
+WMD_ext;Sandstein für den Schotter ;M.sas
+WMD_ext;Sandstein und Kiesel;M.sas
+WMD_ext;Sandstone;M.sas
+WMD_ext;Sandstones;M.sas
+WMD_ext;Santorini Earth;
+WMD_ext;Schiefer;M.sla
+WMD_ext;Schist;M.sto
+WMD_ext;Schmirgel;
+WMD_ext;Schotter und Kies aus Naturstein und SandKiesGemischen;M.sag
+WMD_ext;Schotter, Kies, Kiesel;M.sag
+WMD_ext;Scoria;M.ign
+WMD_ext;Sea salt;M.sal
+WMD_ext;Sedimentary Limestone;M.lim
+WMD_ext;Selestine;
+WMD_ext;Sepiolite and attapulgite;M.ben
+WMD_ext;serpentina;M.orn
+WMD_ext;Serpentine;M.orn
+WMD_ext;Serpentine dimension stone;M.dim
+WMD_ext;Serpentinite;M.orn
+WMD_ext;Shale;M.spc
+WMD_ext;Shale and Shale clay;M.spc
+WMD_ext;Shale clay;M.spc
+WMD_ext;Shales;M.spc
+WMD_ext;Shists;M.sto
+WMD_ext;Sieved materials;
+WMD_ext;Silica;Nm.SiO2
+WMD_ext;Silica ;Nm.SiO2
+WMD_ext;Silica cement;
+WMD_ext;Silica for cement;M.sag
+WMD_ext;Silica minerals;
+WMD_ext;Silica sand;M.SiO2
+WMD_ext;Silica sands;M.SiO2
+WMD_ext;Silica sands and quartz sands;M.SiO2
+WMD_ext;Silica SiO2;M.SiO2
+WMD_ext;Silica Stone;
+WMD_ext;Silicacement;
+WMD_ext;Silica-cement;
+WMD_ext;SilicaSand;M.SiO2
+WMD_ext;Silicasands;M.SiO2
+WMD_ext;Silicastone;
+WMD_ext;Silica-stone;
+WMD_ext;Siliceous sand;M.SiO2
+WMD_ext;Silicified Gres;
+WMD_ext;Silikumhaltiger Kalkstein;M.lim
+WMD_ext;Silt stone;
+WMD_ext;Silty sand;
+WMD_ext;Slab Stone;M.sto
+WMD_ext;Slag for construction use;
+WMD_ext;Slate;M.sla
+WMD_ext;Slate and ornamental schist;M.sla
+WMD_ext;Slate plates;M.sla
+WMD_ext;Slate stones;M.sla
+WMD_ext;Slate, crude, roughly trimmed or merely cut into rectangular or square blocks ;M.sla
+WMD_ext;Slate/Flagstone;M.sla
+WMD_ext;Slates;M.sla
+WMD_ext;Slates for cladding;M.sla
+WMD_ext;Slatestone;M.sla
+WMD_ext;Soapstone products;M.tal
+WMD_ext;Soda Ash;M.soc
+WMD_ext;Sodium Sulfate;
+WMD_ext;Soft rocks;M.sto
+WMD_ext;Soil;
+WMD_ext;Soil and Scoria;M.ign
+WMD_ext;Sonstige felsgebrochene Hartgesteine;M.sto
+WMD_ext;Special sands;M.ins
+WMD_ext;Speisesalz;
+WMD_ext;Sphalerite;
+WMD_ext;Spilite;
+WMD_ext;Stein für Architektur und Bau;M.dim
+WMD_ext;Steine für Technik und Bau;M.dim
+WMD_ext;Steinschutt;M.sag
+WMD_ext;Stone;M.sto
+WMD_ext;Stone aggregate;M.sag
+WMD_ext;Stone aggregates;M.sag
+WMD_ext;Stone and andesite;M.sto
+WMD_ext;Stone and Gravel;M.sag
+WMD_ext;Stone boulders;M.sto
+WMD_ext;Stoneware ceramic clays;M.poc
+WMD_ext;Strengflüssiger lehm;
+WMD_ext;Sulfato de sodio;
+WMD_ext;Sulfur;Nm.S
+WMD_ext;Syenite;M.ign
+WMD_ext;Talc;M.tal
+WMD_ext;Talc and Pyrophylite;M.tal
+WMD_ext;Talc Schist;M.tal
+WMD_ext;Talc, Steatile and Pyrophilite;M.tal
+WMD_ext;Talco;M.tal
+WMD_ext;Tavertine;M.mat
+WMD_ext;Technical Building Stone;M.dim
+WMD_ext;Technological limestone;M.lim
+WMD_ext;Technological sand;M.sag
+WMD_ext;Tepetate;
+WMD_ext;Tepojal;
+WMD_ext;Teravertan;
+WMD_ext;Terazzo;
+WMD_ext;Teshenite;
+WMD_ext;Tezontle;
+WMD_ext;Tiles - granite, marble and limestone;M.dim
+WMD_ext;Tin concentrate;
+WMD_ext;toba;
+WMD_ext;Toba puzolanica;M.abr
+WMD_ext;Ton;M.coc
+WMD_ext;Ton für den Zement;M.coc
+WMD_ext;Ton für Ziegelwerke;M.coc
+WMD_ext;Ton und Kaolin;
+WMD_ext;Ton und Lehm ;M.coc
+WMD_ext;Tone u. tonige Masse f. d. Ziegelherstellung;M.coc
+WMD_ext;Tone und Sandtone für Ziegel;M.coc
+WMD_ext;Tonerde;M.coc
+WMD_ext;Torrential sand;
+WMD_ext;tosca;
+WMD_ext;Tourmalin gems quality;Nm.gem
+WMD_ext;Tourmaline;Nm.gem
+WMD_ext;Tourmaline gems grade;Nm.gem
+WMD_ext;Tourmaline industrial grade;M.onm
+WMD_ext;Trass;
+WMD_ext;Traverten;M.mat
+WMD_ext;Travertine;M.mat
+WMD_ext;Travertine (dimension stone);M.dim
+WMD_ext;Travertino;M.mat
+WMD_ext;Triturados Pétreos;
+WMD_ext;Trona;
+WMD_ext;Tuff;M.ign
+WMD_ext;Tuffbreccia;M.ign
+WMD_ext;Tuffite;M.ign
+WMD_ext;Turquoise;Nm.gem
+WMD_ext;Ulexita;M.bor
+WMD_ext;Umber;M.och
+WMD_ext;Unix;
+WMD_ext;Unwashed Kaolin;M.kao
+WMD_ext;Vermiculite;M.ver
+WMD_ext;Volcanic and plutonic gravels;M.ign
+WMD_ext;Volcanic ashes, slag, sand;M.abr
+WMD_ext;Volcanic tuff;M.ign
+WMD_ext;Volcanic tuff and Zeolitic tuff;M.ign
+WMD_ext;Volcanic tuffs;M.ign
+WMD_ext;Volcanicas (Pomez);M.ign
+WMD_ext;Volcánicas (puzolanas);M.ign
+WMD_ext;Volcanites;M.ign
+WMD_ext;Volcanites and Plutonites;M.ign
+WMD_ext;Wallastonite;
+WMD_ext;Washed Kaolin;M.kao
+WMD_ext;Washed sand;M.sag
+WMD_ext;Whiteware ceramic clays;M.poc
+WMD_ext;Wollastonite;M.wol
+WMD_ext;Writing chalk;M.cha
+WMD_ext;Xenotime;
+WMD_ext;Yeso;
+WMD_ext;Yodo;
+WMD_ext;Zement;
+WMD_ext;Zeolitas;
+WMD_ext;Zeolite;
+WMD_ext;Zeolith;
+WMD_ext;Zircon;O.Zr
