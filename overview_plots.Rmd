@@ -1,0 +1,225 @@
+---
+title: "overview_plots"
+subtitle: "4 plots per country"
+output: pdf_document
+---
+
+```{r,echo = FALSE}
+
+
+library(tidyverse)
+
+```
+
+<br> 
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE}
+
+# clear R environment
+rm(list = ls())
+
+
+## read data
+
+
+o <- read_rds("./04_output/02_final/DE_met_min_fos_Detailed_2021-11-04.rds")
+n <- read_rds("./04_output/02_final/DE_met_min_fos_Detailed_2022-11-23.rds")
+### restrict new data for years after 2015
+n <- n[n$year>=2016,]
+#### add 2022 update replace new years where we have the data
+# n1 <- right_join(o[,1:4],n) 
+old_rows <- left_join(setdiff(o[,1:4], n[,1:4]),o) # all old rows that are not in the new data
+data <- rbind(n,old_rows)
+# nrow(data)
+# tinytex::install_tinytex()
+```
+
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE,fig.width=12,fig.height=15}
+# create the Plots for each country and aggregation
+alnum="World"
+d <- data
+oo <- o
+# create timelines for the 4 aggregates
+d2 <- d[grep("A.2",d$CCC_Code),]
+d3 <- d[grep("A.3",d$CCC_Code),]
+d4 <- d[grep("A.4",d$CCC_Code),]
+oo2 <- oo[grep("A.2",oo$CCC_Code),]
+oo3 <- oo[grep("A.3",oo$CCC_Code),]
+oo4 <- oo[grep("A.4",oo$CCC_Code),]
+
+ll=1
+lw=4
+
+par(mfrow=c(2,2))
+a <- aggregate(value ~ year,data=d,FUN=sum)
+aa <- aggregate(value ~ year,data=oo,FUN=sum)
+if(nrow(d2)>0)
+  {
+    a2 <- aggregate(value ~ year,data=d2,FUN=sum)
+    aa2 <- aggregate(value ~ year,data=oo2,FUN=sum)
+  }
+if(nrow(d3)>0)
+  {
+    a3 <- aggregate(value ~ year,data=d3,FUN=sum)
+    aa3 <- aggregate(value ~ year,data=oo3,FUN=sum)
+  }
+if(nrow(d4)>0)
+  {
+    a4 <- aggregate(value ~ year,data=d4,FUN=sum)
+    aa4 <- aggregate(value ~ year,data=oo4,FUN=sum)
+  }
+
+plot(a$year,a$value,"l",lwd=lw,col=2, xlab="year",ylab="tonns",main=paste0(alnum," - Total"))
+lines(aa$year,aa$value,lwd=lw,col=3)
+legend("topleft",c("new", "old"),lwd=lw,lty=ll,col=2:3)
+if(nrow(d2)>0)
+  {
+  plot(a2$year,a2$value,"l",lwd=lw,col=2, xlab="years",ylab="tonns",main=paste0(alnum," - A2 Metals"))
+  lines(aa2$year,aa2$value,lwd=lw,col=3)
+  legend("topleft",c("new", "old"),lty=ll,col=2:3)
+  }
+if(nrow(d3)>0)
+  {
+  plot(a3$year,a3$value,type="l",lwd=lw,col=2, xlab="years",ylab="tonns",main=paste0(alnum," - A3 Minerals"))
+  lines(aa3$year,aa3$value,lwd=lw,col=3)
+  legend("topleft",c("new", "old"),lty=ll,col=2:3)
+  }
+if(nrow(d4)>0)
+  {
+  plot(a4$year,a4$value,lwd=lw,col=2,"l", xlab="years",ylab="tonns",main=paste0(alnum," - A4 Fossils"))
+  lines(aa4$year,aa4$value,lwd=lw,col=3)
+  legend("topleft",c("new", "old"),lty=ll,col=2:3)
+  }
+
+```
+
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE,fig.width=12,fig.height=15}
+# create the Plots for each country and aggregation
+counts <- read.csv("./01_input/01_concordance_tables/alphanumiso_to_region.csv")
+names(counts)[2] <- "alphanumiso"
+data <- left_join(data,counts)
+o <- left_join(o,counts)
+for(alnum in unique(data$MFandRP_Reg)[-8])# for each country
+{
+d <- data[data$MFandRP_Reg==alnum,]
+oo <- o[o$MFandRP_Reg==alnum,]
+# create timelines for the 4 aggregates
+d2 <- d[grep("A.2",d$CCC_Code),]
+d3 <- d[grep("A.3",d$CCC_Code),]
+d4 <- d[grep("A.4",d$CCC_Code),]
+oo2 <- oo[grep("A.2",oo$CCC_Code),]
+oo3 <- oo[grep("A.3",oo$CCC_Code),]
+oo4 <- oo[grep("A.4",oo$CCC_Code),]
+
+ll=1
+lw=4
+
+par(mfrow=c(2,2))
+a <- aggregate(value ~ year,data=d,FUN=sum)
+aa <- aggregate(value ~ year,data=oo,FUN=sum)
+if(nrow(d2)>0)
+  {
+    a2 <- aggregate(value ~ year,data=d2,FUN=sum)
+    aa2 <- aggregate(value ~ year,data=oo2,FUN=sum)
+  }
+if(nrow(d3)>0)
+  {
+    a3 <- aggregate(value ~ year,data=d3,FUN=sum)
+    aa3 <- aggregate(value ~ year,data=oo3,FUN=sum)
+  }
+if(nrow(d4)>0)
+  {
+    a4 <- aggregate(value ~ year,data=d4,FUN=sum)
+    aa4 <- aggregate(value ~ year,data=oo4,FUN=sum)
+  }
+
+plot(a$year,a$value,"l",lwd=lw,col=2, xlab="year",ylab="tonns",main=paste0(alnum," - Total"))
+lines(aa$year,aa$value,lwd=lw,col=3)
+legend("topleft",c("new", "old"),lwd=lw,lty=ll,col=2:3)
+if(nrow(d2)>0)
+  {
+  plot(a2$year,a2$value,"l",lwd=lw,col=2, xlab="years",ylab="tonns",main=paste0(alnum," - A2 Metals"))
+  lines(aa2$year,aa2$value,lwd=lw,col=3)
+  legend("topleft",c("new", "old"),lty=ll,col=2:3)
+  }
+if(nrow(d3)>0)
+  {
+  plot(a3$year,a3$value,type="l",lwd=lw,col=2, xlab="years",ylab="tonns",main=paste0(alnum," - A3 Minerals"))
+  lines(aa3$year,aa3$value,lwd=lw,col=3)
+  legend("topleft",c("new", "old"),lty=ll,col=2:3)
+  }
+if(nrow(d4)>0)
+  {
+  plot(a4$year,a4$value,lwd=lw,col=2,"l", xlab="years",ylab="tonns",main=paste0(alnum," - A4 Fossils"))
+  lines(aa4$year,aa4$value,lwd=lw,col=3)
+  legend("topleft",c("new", "old"),lty=ll,col=2:3)
+}
+}
+
+```
+
+
+```{r , echo = FALSE, message = FALSE, warning = FALSE,fig.width=12,fig.height=15}
+# create the Plots for each country and aggregation
+for(alnum in unique(data$alphanumiso))# for each country
+{
+  # alnum=unique(data$alphanumiso)[1]
+  d <- data[data$alphanumiso==alnum,]
+  oo <- o[o$alphanumiso==alnum,]
+  count <- d$Country[1]
+  # create timelines for the 4 aggregates
+  d2 <- d[grep("A.2",d$CCC_Code),]
+  d3 <- d[grep("A.3",d$CCC_Code),]
+  d4 <- d[grep("A.4",d$CCC_Code),]
+  oo2 <- oo[grep("A.2",oo$CCC_Code),]
+  oo3 <- oo[grep("A.3",oo$CCC_Code),]
+  oo4 <- oo[grep("A.4",oo$CCC_Code),]
+  
+  ll=1
+  lw=4
+  
+  par(mfrow=c(2,2))
+  a <- aggregate(value ~ alphanumiso+year,data=d,FUN=sum)
+  aa <- aggregate(value ~ alphanumiso+year,data=oo,FUN=sum)
+  if(nrow(d2)>0)
+    {
+      a2 <- aggregate(value ~ alphanumiso+year,data=d2,FUN=sum)
+      aa2 <- aggregate(value ~ alphanumiso+year,data=oo2,FUN=sum)
+    }
+  if(nrow(d3)>0)
+    {
+      a3 <- aggregate(value ~ alphanumiso+year,data=d3,FUN=sum)
+      aa3 <- aggregate(value ~ alphanumiso+year,data=oo3,FUN=sum)
+    }
+  if(nrow(d4)>0)
+    {
+      a4 <- aggregate(value ~ alphanumiso+year,data=d4,FUN=sum)
+      aa4 <- aggregate(value ~ alphanumiso+year,data=oo4,FUN=sum)
+    }
+  
+  plot(a$year,a$value,"l",lwd=lw,col=2, xlab="year",ylab="tonns",main=paste0(alnum," - ",count ," - Total"))
+  lines(aa$year,aa$value,lwd=lw,col=3)
+  legend("topleft",c("new", "old"),lwd=lw,lty=ll,col=2:3)
+  if(nrow(d2)>0)
+    {
+    plot(a2$year,a2$value,"l",lwd=lw,col=2, xlab="years",ylab="tonns",main=paste0(alnum," - ",count ," - A2 Metals"))
+    lines(aa2$year,aa2$value,lwd=lw,col=3)
+    legend("topleft",c("new", "old"),lty=ll,col=2:3)
+    }
+  if(nrow(d3)>0)
+    {
+    plot(a3$year,a3$value,"l",lwd=lw,col=2, xlab="years",ylab="tonns",main=paste0(alnum," - ",count ," - A3 Minerals"))
+    lines(aa3$year,aa3$value,lwd=lw,col=3)
+    legend("topleft",c("new", "old"),lty=ll,col=2:3)
+    }
+  if(nrow(d4)>0)
+    {
+    plot(a4$year,a4$value,lwd=lw,col=2,"l", xlab="years",ylab="tonns",main=paste0(alnum," - ",count ," - A4 Fossils"))
+    lines(aa4$year,aa4$value,lwd=lw,col=3)
+    legend("topleft",c("new", "old"),lty=ll,col=2:3)
+    }
+}
+
+```
