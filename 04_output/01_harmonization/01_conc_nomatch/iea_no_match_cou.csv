@@ -1,0 +1,41 @@
+COUNTRY Country
+WLD World
+OEU "OECD Europe"
+AFRIC Africa
+LATAMER "Non-OECD Americas"
+ASME "Middle East"
+ASIA "Non-OECD Asia (excluding China)"
+CHINAREG "China (P.R. of China and Hong Kong, China)"
+WORLDMAR "World marine bunkers"
+WORLDAV "World aviation bunkers"
+MKD "Republic of North Macedonia"
+OTHERAFRIC "Other Africa"
+OTHERLATIN "Other non-OECD Americas"
+OTHERASIA "Other non-OECD Asia"
+OTO "Memo: OECD Total"
+NOC "Memo: Non-OECD Total"
+IEATOT "Memo: IEA Total"
+YUG "Memo: Former Yugoslavia"
+OENN "OECD Americas"
+OEPN "OECD Asia Oceania"
+NON-OECDEUROPEANDEURASIA "Non-OECD Europe and Eurasia"
+FSU_15 "Memo: FSU 15"
+EU28 "Memo: European Union-28"
+G7 "Memo: G7"
+G8 "Memo: G8"
+G20 "Memo: G20"
+AFRICATOT "Memo: Africa (UN)"
+AMERICAS "Memo: Americas (UN)"
+ASIATOT "Memo: Asia (UN)"
+EUROPE "Memo: Europe (UN)"
+OCEANIA "Memo: Oceania (UN)"
+IEAFAMILY "Memo: IEA and Accession/Association countries"
+OPEC "Memo: OPEC"
+MASEAN "Memo: ASEAN"
+EU27_2020 "Memo: European Union-27"
+GUY Guyana
+GNQ "Equatorial Guinea"
+SWZ "Kingdom of Eswatini"
+MDG Madagascar
+RWA Rwanda
+UGA Uganda
